@@ -3416,3 +3416,9 @@ java.lang.NullPointerException: null
 [12Jan2025 01:15:31.563] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [12Jan2025 01:15:31.593] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved too quickly! -1.3711603290469156,0.0,-9.973630350351868
 [12Jan2025 01:15:31.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2323ms or 46 ticks behind
+[12Jan2025 01:20:32.736] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jan2025 01:20:32.758] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jan2025 01:24:03.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[12Jan2025 01:25:32.805] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jan2025 01:25:32.812] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jan2025 01:28:58.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
