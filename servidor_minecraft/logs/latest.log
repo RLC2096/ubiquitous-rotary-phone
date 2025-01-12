@@ -97,3 +97,12 @@ java.lang.NullPointerException: null
 [12Jan2025 01:15:31.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2323ms or 46 ticks behind
 [12Jan2025 01:24:03.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [12Jan2025 01:28:58.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[12Jan2025 01:29:53.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[12Jan2025 01:33:10.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[12Jan2025 01:33:44.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [The Parrots and the Bats]
+[12Jan2025 01:33:56.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[12Jan2025 01:37:14.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[12Jan2025 01:38:32.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[12Jan2025 01:38:41.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[12Jan2025 01:39:52.337] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Disconnected
+[12Jan2025 01:39:52.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
