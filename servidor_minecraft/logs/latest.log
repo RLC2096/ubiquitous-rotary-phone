@@ -311,3 +311,6 @@ java.lang.NullPointerException: null
 [13Jan2025 23:44:25.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [13Jan2025 23:46:27.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [13Jan2025 23:46:46.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[13Jan2025 23:49:00.018] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Timed out
+[13Jan2025 23:49:00.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[13Jan2025 23:49:00.080] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
