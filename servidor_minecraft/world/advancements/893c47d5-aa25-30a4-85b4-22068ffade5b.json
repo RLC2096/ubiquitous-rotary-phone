@@ -1073,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-01-13 00:53:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2024-12-26 23:06:55 +0000"
@@ -1441,13 +1447,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2025-01-13 01:48:31 +0000",
       "minecraft:forest": "2024-12-26 23:27:06 +0000",
       "minecraft:mountains": "2024-12-26 23:43:21 +0000",
       "minecraft:taiga": "2024-12-26 23:06:27 +0000",
       "minecraft:taiga_hills": "2024-12-26 23:13:50 +0000",
       "minecraft:river": "2024-12-26 23:06:21 +0000",
       "minecraft:snowy_taiga": "2024-12-27 00:58:11 +0000",
+      "minecraft:wooded_mountains": "2025-01-13 01:58:01 +0000",
       "minecraft:wooded_hills": "2024-12-27 00:43:15 +0000",
+      "minecraft:snowy_taiga_hills": "2025-01-13 00:48:11 +0000",
       "minecraft:plains": "2024-12-26 23:05:20 +0000"
     },
     "done": false
@@ -1985,6 +1994,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2024-12-26 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 00:56:11 +0000"
     },
     "done": true
   },
@@ -2637,6 +2652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-13 00:37:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-26 23:06:21 +0000"
@@ -3063,6 +3084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-13 00:50:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-27 01:46:03 +0000"
@@ -3162,6 +3189,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2024-12-26 23:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-13 00:37:30 +0000"
     },
     "done": true
   },
