@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-13 23:00:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-27 01:46:03 +0000"
@@ -665,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-13 23:00:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-26 23:09:52 +0000"
@@ -712,8 +724,10 @@
       "minecraft:pillager": "2024-12-26 23:26:59 +0000",
       "minecraft:skeleton": "2024-12-26 23:09:43 +0000",
       "minecraft:hoglin": "2024-12-27 00:54:16 +0000",
+      "minecraft:vindicator": "2025-01-13 22:46:36 +0000",
       "minecraft:spider": "2024-12-27 00:42:41 +0000",
       "minecraft:creeper": "2024-12-27 00:40:54 +0000",
+      "minecraft:witch": "2025-01-13 22:55:27 +0000",
       "minecraft:vex": "2025-01-13 22:06:09 +0000",
       "minecraft:zombie": "2024-12-26 23:09:30 +0000",
       "minecraft:zombie_villager": "2024-12-27 00:45:11 +0000"
@@ -1122,6 +1136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-13 23:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-26 23:19:53 +0000"
@@ -1182,9 +1202,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-13 23:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2024-12-27 01:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-13 23:00:53 +0000"
     },
     "done": true
   },
@@ -2690,6 +2722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-01-13 23:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-26 23:19:53 +0000"
@@ -2915,6 +2953,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-27 01:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-13 23:00:51 +0000"
     },
     "done": true
   },
