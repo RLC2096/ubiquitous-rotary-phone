@@ -721,6 +721,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 22:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-26 23:07:16 +0000"
@@ -2020,6 +2026,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-01-12 01:33:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 22:37:40 +0000"
     },
     "done": true
   },
