@@ -729,6 +729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-13 22:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/yellow_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-26 23:36:56 +0000"
@@ -1936,6 +1942,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-13 22:26:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-26 23:29:27 +0000"
@@ -1951,6 +1963,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-01-13 00:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-13 22:26:02 +0000"
     },
     "done": true
   },
