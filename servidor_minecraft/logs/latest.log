@@ -49,3 +49,22 @@
 [13Jan2025 00:27:22.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [13Jan2025 00:27:41.421] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
 [13Jan2025 00:27:41.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[13Jan2025 00:29:02.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[13Jan2025 00:30:31.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[13Jan2025 00:30:40.778] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4474f58
+[13Jan2025 00:30:40.793] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:59959] logged in with entity id 17237 at (2910.244381805951, 85.0, 3282.9157116111983)
+[13Jan2025 00:30:40.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[13Jan2025 00:30:49.635] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID f1fc8f75-de27-45d2-a587-fb17da5db3a5
+[13Jan2025 00:30:49.636] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2894 Y: 71 Z: 3285
+[13Jan2025 00:30:49.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 blew up
+[13Jan2025 00:30:49.643] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[13Jan2025 00:33:01.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc blew up
+[13Jan2025 00:33:01.490] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[13Jan2025 00:34:07.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[13Jan2025 00:34:54.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gamerule doFireTick is now set to: false]
+[13Jan2025 00:35:09.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc burned to death
+[13Jan2025 00:35:09.363] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[13Jan2025 00:36:28.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[13Jan2025 00:37:17.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was shot by Skeleton
+[13Jan2025 00:37:17.821] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[13Jan2025 00:37:57.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gamerule doFireTick is now set to: true]
