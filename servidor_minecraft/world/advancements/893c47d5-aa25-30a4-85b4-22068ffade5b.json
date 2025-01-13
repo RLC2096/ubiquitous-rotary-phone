@@ -714,6 +714,7 @@
       "minecraft:hoglin": "2024-12-27 00:54:16 +0000",
       "minecraft:spider": "2024-12-27 00:42:41 +0000",
       "minecraft:creeper": "2024-12-27 00:40:54 +0000",
+      "minecraft:vex": "2025-01-13 22:06:09 +0000",
       "minecraft:zombie": "2024-12-26 23:09:30 +0000",
       "minecraft:zombie_villager": "2024-12-27 00:45:11 +0000"
     },
@@ -1172,6 +1173,12 @@
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2024-12-27 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 22:21:37 +0000"
     },
     "done": true
   },
@@ -2021,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-01-13 22:03:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-26 23:09:30 +0000"
@@ -2484,6 +2497,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-13 22:21:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-26 23:07:19 +0000"
@@ -2739,6 +2758,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-27 01:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-13 22:03:22 +0000"
     },
     "done": true
   },
