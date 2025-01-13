@@ -8,3 +8,20 @@
 [13Jan2025 00:04:25.478] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1e4288f5
 [13Jan2025 00:04:25.495] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:59578] logged in with entity id 6041 at (2906.604280150429, 86.22282961782162, 3284.746508965773)
 [13Jan2025 00:04:25.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[13Jan2025 00:09:00.167] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID 5160b6a1-70cf-47d5-8987-e16b8653741b
+[13Jan2025 00:09:00.169] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2906 Y: 86 Z: 3302
+[13Jan2025 00:09:00.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was slain by GamerJ2002
+[13Jan2025 00:09:00.244] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[13Jan2025 00:09:58.628] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 5a991541-b5a2-44fc-a2f9-a955a655edc7
+[13Jan2025 00:09:58.631] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2909 Y: 85 Z: 3288
+[13Jan2025 00:09:58.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by El_Vertex_mc
+[13Jan2025 00:09:58.643] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[13Jan2025 00:12:55.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Ol' Betsy]
+[13Jan2025 00:14:08.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 64 [Diamond] to Xonsret]
+[13Jan2025 00:14:24.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 64 [Iron Ingot] to Xonsret]
+[13Jan2025 00:14:49.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Cover Me With Diamonds]
+[13Jan2025 00:16:15.767] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[13Jan2025 00:16:15.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[13Jan2025 00:17:30.744] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ddc9033
+[13Jan2025 00:17:30.757] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:59848] logged in with entity id 10494 at (2909.2568479816723, 85.0, 3289.880235894927)
+[13Jan2025 00:17:30.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
