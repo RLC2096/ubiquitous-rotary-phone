@@ -79,3 +79,5 @@
 [14Jan2025 01:55:21.026] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:50399] logged in with entity id 95095 at (2911.9394002948957, 72.49520087700593, 3297.404859236358)
 [14Jan2025 01:55:21.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
 [14Jan2025 01:57:55.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the time to 1000]
+[14Jan2025 02:11:05.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 02:11:12.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
