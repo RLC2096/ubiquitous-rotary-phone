@@ -266,3 +266,5 @@ java.lang.NullPointerException: null
 [14Jan2025 23:03:35.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret joined the game
 [14Jan2025 23:03:53.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the time to 1000]
 [14Jan2025 23:08:40.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Ashes 'n Bones]
+[14Jan2025 23:10:58.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[14Jan2025 23:11:43.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30577ms or 611 ticks behind
