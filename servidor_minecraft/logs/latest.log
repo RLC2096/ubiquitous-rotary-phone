@@ -184,3 +184,31 @@ java.lang.NullPointerException: null
 [14Jan2025 21:51:43.312] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
 [14Jan2025 21:51:47.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [14Jan2025 21:52:33.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [A Seedy Place]
+[14Jan2025 21:58:20.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[14Jan2025 21:58:20.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xdxdxd<--[HERE]
+[14Jan2025 21:59:18.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 21:59:27.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 22:04:01.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 22:04:11.320] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 2043bf5e-604a-42bc-a843-a9c5a18b431c
+[14Jan2025 22:04:11.321] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 436 Y: 22 Z: 311
+[14Jan2025 22:04:11.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 tried to swim in lava
+[14Jan2025 22:04:11.335] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[14Jan2025 22:04:27.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 22:05:04.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 22:05:13.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 22:05:16.564] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 was kicked for floating too long!
+[14Jan2025 22:05:16.565] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Flying is not enabled on this server
+[14Jan2025 22:05:16.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
+[14Jan2025 22:05:16.620] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[14Jan2025 22:05:28.671] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2462a3ce
+[14Jan2025 22:05:28.684] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:60343] logged in with entity id 6616 at (422.90841811372195, 46.16049238931867, 407.6206780375265)
+[14Jan2025 22:05:28.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
+[14Jan2025 22:06:27.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 tried to swim in lava
+[14Jan2025 22:06:27.766] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[14Jan2025 22:07:21.561] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 was kicked for floating too long!
+[14Jan2025 22:07:21.611] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Flying is not enabled on this server
+[14Jan2025 22:07:21.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
+[14Jan2025 22:07:31.768] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@73221b0
+[14Jan2025 22:07:31.777] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:60373] logged in with entity id 7687 at (414.9409211982553, 54.46026947021561, 414.9230330768253)
+[14Jan2025 22:07:31.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
+[14Jan2025 22:07:42.227] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved wrongly!
