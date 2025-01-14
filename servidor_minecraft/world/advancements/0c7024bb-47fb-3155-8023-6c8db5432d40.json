@@ -508,6 +508,7 @@
       "minecraft:pillager": "2025-01-12 01:43:43 +0000",
       "minecraft:skeleton": "2024-12-26 23:36:06 +0000",
       "minecraft:ravager": "2025-01-14 02:07:13 +0000",
+      "minecraft:hoglin": "2025-01-14 02:32:29 +0000",
       "minecraft:vindicator": "2025-01-14 00:41:02 +0000",
       "minecraft:spider": "2024-12-27 00:41:37 +0000",
       "minecraft:creeper": "2024-12-27 01:34:56 +0000",
@@ -1175,6 +1176,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-14 02:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-26 23:13:39 +0000"
@@ -1243,7 +1250,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-12-27 00:12:32 +0000"
+      "minecraft:crimson_forest": "2024-12-27 00:12:32 +0000",
+      "minecraft:nether_wastes": "2025-01-14 02:28:20 +0000",
+      "minecraft:soul_sand_valley": "2025-01-14 02:30:30 +0000"
     },
     "done": false
   },
