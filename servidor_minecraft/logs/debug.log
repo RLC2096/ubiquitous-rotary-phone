@@ -4770,3 +4770,22 @@ java.lang.NullPointerException: null
 [14Jan2025 02:34:31.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [War Pigs]
 [14Jan2025 02:34:35.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Back to childhood]
 [14Jan2025 02:34:35.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Not even afraid of death]
+[14Jan2025 02:36:44.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Magic Writing]
+[14Jan2025 02:36:59.806] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID 74275784-c25c-4f1d-bd71-1436af56e5b9
+[14Jan2025 02:36:59.806] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 762 Y: 36 Z: 279
+[14Jan2025 02:36:59.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was slain by Piglin
+[14Jan2025 02:36:59.807] [Server thread/DEBUG] [tombstone/]: A new grave of the player El_Vertex_mc was created at position [x:764, y:35, z:277, dim:minecraft:the_nether]
+[14Jan2025 02:36:59.816] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[14Jan2025 02:37:04.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [War Pigs]
+[14Jan2025 02:37:37.544] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:37:37.548] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 02:37:57.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Hidden in the Depths]
+[14Jan2025 02:41:00.909] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/105804, l='ServerLevel[world]', x=841.16, y=66.00, z=585.09]
+[14Jan2025 02:41:00.909] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/105804, l='ServerLevel[world]', x=841.16, y=66.00, z=585.09]
+[14Jan2025 02:41:00.910] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/105805, l='ServerLevel[world]', x=841.16, y=66.00, z=585.09]
+[14Jan2025 02:41:00.910] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/105805, l='ServerLevel[world]', x=841.16, y=66.00, z=585.09]
+[14Jan2025 02:41:30.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Into Fire]
+[14Jan2025 02:42:37.824] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:42:37.829] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 02:43:39.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 02:43:47.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
