@@ -2,3 +2,6 @@
 [14Jan2025 00:06:51.337] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:50115] logged in with entity id 58348 at (2907.5796534449332, 85.0, 3286.4603993253945)
 [14Jan2025 00:06:51.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
 [14Jan2025 00:07:54.837] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport using warp mode WAYSTONE_TO_WAYSTONE
+[14Jan2025 00:11:24.217] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc moved wrongly!
+[14Jan2025 00:16:08.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to GamerJ2002]
+[14Jan2025 00:16:09.025] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc moved wrongly!
