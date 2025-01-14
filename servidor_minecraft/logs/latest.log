@@ -46,3 +46,15 @@
 [14Jan2025 00:54:31.886] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:50628] logged in with entity id 79535 at (1210.9351829885027, 72.1875, 1693.300000011921)
 [14Jan2025 00:54:31.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
 [14Jan2025 00:55:01.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 01:03:48.473] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Disconnected
+[14Jan2025 01:03:48.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
+[14Jan2025 01:05:21.574] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e7c7db6
+[14Jan2025 01:05:21.587] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:59185] logged in with entity id 84063 at (1217.5212737412005, 71.5625, 1694.6021326027121)
+[14Jan2025 01:05:21.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
+[14Jan2025 01:07:33.517] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret lost connection: Disconnected
+[14Jan2025 01:07:33.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret left the game
+[14Jan2025 01:09:33.071] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Disconnected
+[14Jan2025 01:09:33.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
+[14Jan2025 01:13:14.565] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b59d0fa
+[14Jan2025 01:13:14.571] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xonsret[/10.147.19.75:54112] logged in with entity id 86339 at (1729.4666390262223, 88.0, 1884.6460828367703)
+[14Jan2025 01:13:14.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret joined the game
