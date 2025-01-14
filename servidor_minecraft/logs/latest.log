@@ -256,3 +256,13 @@ java.lang.NullPointerException: null
 [14Jan2025 22:56:06.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [14Jan2025 22:56:27.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [14Jan2025 22:56:37.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 23:02:14.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret fell from a high place
+[14Jan2025 23:02:14.120] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[14Jan2025 23:03:25.210] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret was kicked for floating too long!
+[14Jan2025 23:03:25.262] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret lost connection: Flying is not enabled on this server
+[14Jan2025 23:03:25.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret left the game
+[14Jan2025 23:03:35.613] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e947467
+[14Jan2025 23:03:35.622] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xonsret[/10.147.19.75:57932] logged in with entity id 20353 at (1742.7871270768405, 81.11071530842175, 1658.5524062200432)
+[14Jan2025 23:03:35.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret joined the game
+[14Jan2025 23:03:53.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the time to 1000]
+[14Jan2025 23:08:40.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Ashes 'n Bones]
