@@ -4573,3 +4573,14 @@ java.lang.NullPointerException: null
 [14Jan2025 01:39:39.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the time to 1000]
 [14Jan2025 01:42:37.486] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [14Jan2025 01:42:37.491] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 01:46:50.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 128 [Bread] to Xonsret]
+[14Jan2025 01:47:37.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:47:37.622] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 01:48:00.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 01:48:12.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 01:48:22.309] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Timed out
+[14Jan2025 01:48:22.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[14Jan2025 01:51:16.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[14Jan2025 01:51:16.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xd<--[HERE]
+[14Jan2025 01:52:37.633] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:52:37.637] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
