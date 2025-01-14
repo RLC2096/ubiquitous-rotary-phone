@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-14 21:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 23:09:52 +0000"
@@ -794,12 +800,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-26 23:26:59 +0000",
+      "minecraft:blaze": "2025-01-14 21:16:32 +0000",
       "minecraft:skeleton": "2024-12-26 23:09:43 +0000",
       "minecraft:hoglin": "2024-12-27 00:54:16 +0000",
       "minecraft:vindicator": "2025-01-13 22:46:36 +0000",
       "minecraft:spider": "2024-12-27 00:42:41 +0000",
       "minecraft:creeper": "2024-12-27 00:40:54 +0000",
       "minecraft:witch": "2025-01-13 22:55:27 +0000",
+      "minecraft:wither_skeleton": "2025-01-14 21:17:16 +0000",
       "minecraft:enderman": "2025-01-14 21:08:39 +0000",
       "minecraft:vex": "2025-01-13 22:06:09 +0000",
       "minecraft:zombie": "2024-12-26 23:09:30 +0000",
@@ -1086,6 +1094,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 23:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-14 21:16:33 +0000"
     },
     "done": true
   },
@@ -2664,6 +2678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-14 21:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 23:27:20 +0000"
@@ -3198,6 +3218,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-14 21:16:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-26 23:09:56 +0000"
@@ -3504,6 +3530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-14 21:16:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2024-12-26 23:14:35 +0000"
@@ -3579,6 +3611,12 @@
   "securitycraft:recipes/securitycraft/cobblestone_mine": {
     "criteria": {
       "has_mine": "2025-01-13 00:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-14 21:16:33 +0000"
     },
     "done": true
   },

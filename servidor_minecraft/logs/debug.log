@@ -4751,3 +4751,19 @@ java.lang.NullPointerException: null
 [14Jan2025 21:18:58.890] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Moreauler[/10.147.19.91:51054] logged in with entity id 10467 at (2150.300000011921, 53.0, 3002.3825372656524)
 [14Jan2025 21:18:58.890] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@223bdec8 into net.minecraft.network.NetworkManager@78bffcb5
 [14Jan2025 21:18:58.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler joined the game
+[14Jan2025 21:19:43.727] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 21:19:43.732] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 21:20:09.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[14Jan2025 21:20:18.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Sweet Dreams]
+[14Jan2025 21:24:43.231] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 21:24:43.238] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 21:25:59.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Monster Hunter]
+[14Jan2025 21:26:20.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [A Seedy Place]
+[14Jan2025 21:26:48.735] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID f1b37e07-cad9-4768-a48d-d59de4eaf0c5
+[14Jan2025 21:26:48.736] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 421 Y: 77 Z: 499
+[14Jan2025 21:26:48.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Restless Spirit
+[14Jan2025 21:26:48.745] [Server thread/DEBUG] [tombstone/]: A new grave of the player GamerJ2002 was created at position [x:422, y:80, z:505, dim:minecraft:the_nether]
+[14Jan2025 21:26:48.752] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[14Jan2025 21:27:10.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [White Banner] to Xonsret]
+[14Jan2025 21:27:24.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [White Banner] to Xonsret]
+[14Jan2025 21:28:01.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Hidden in the Depths]
