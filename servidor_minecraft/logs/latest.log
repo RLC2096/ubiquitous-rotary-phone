@@ -212,3 +212,13 @@ java.lang.NullPointerException: null
 [14Jan2025 22:07:31.777] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:60373] logged in with entity id 7687 at (414.9409211982553, 54.46026947021561, 414.9230330768253)
 [14Jan2025 22:07:31.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
 [14Jan2025 22:07:42.227] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved wrongly!
+[14Jan2025 22:08:39.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [A Strange Grave Dust]
+[14Jan2025 22:11:09.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 walked into fire whilst fighting Ghast
+[14Jan2025 22:11:09.319] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[14Jan2025 22:11:36.759] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler lost connection: Disconnected
+[14Jan2025 22:11:36.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler left the game
+[14Jan2025 22:18:07.974] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5e09400d
+[14Jan2025 22:18:07.983] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Moreauler[/10.147.19.91:58672] logged in with entity id 11737 at (1744.2419022956947, 78.0, 1902.3258101766635)
+[14Jan2025 22:18:07.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler joined the game
+[14Jan2025 22:18:28.161] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Disconnected
+[14Jan2025 22:18:28.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
