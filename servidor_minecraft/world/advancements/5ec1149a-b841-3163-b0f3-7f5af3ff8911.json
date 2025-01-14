@@ -723,6 +723,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-26 23:16:27 +0000",
       "minecraft:skeleton": "2024-12-26 23:50:00 +0000",
+      "minecraft:ravager": "2025-01-14 00:42:14 +0000",
       "minecraft:ghast": "2024-12-27 01:58:26 +0000",
       "minecraft:hoglin": "2025-01-13 23:45:43 +0000",
       "minecraft:vindicator": "2024-12-26 23:22:21 +0000",
@@ -730,6 +731,7 @@
       "minecraft:creeper": "2025-01-13 00:48:03 +0000",
       "minecraft:wither": "2024-12-27 02:07:06 +0000",
       "minecraft:zombified_piglin": "2024-12-27 01:55:44 +0000",
+      "minecraft:witch": "2025-01-14 00:42:36 +0000",
       "minecraft:piglin": "2025-01-13 01:12:55 +0000",
       "minecraft:enderman": "2025-01-13 00:05:13 +0000",
       "minecraft:zombie": "2024-12-26 23:33:29 +0000"
@@ -805,6 +807,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-26 23:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-14 00:37:31 +0000"
     },
     "done": true
   },

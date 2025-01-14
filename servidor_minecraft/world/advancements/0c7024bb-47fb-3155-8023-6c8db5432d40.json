@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-14 00:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-27 00:39:08 +0000"
@@ -489,6 +495,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-12 01:43:43 +0000",
       "minecraft:skeleton": "2024-12-26 23:36:06 +0000",
+      "minecraft:vindicator": "2025-01-14 00:41:02 +0000",
       "minecraft:spider": "2024-12-27 00:41:37 +0000",
       "minecraft:creeper": "2024-12-27 01:34:56 +0000",
       "minecraft:silverfish": "2024-12-27 00:02:42 +0000",
@@ -523,6 +530,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-26 23:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-14 00:42:12 +0000"
     },
     "done": true
   },
