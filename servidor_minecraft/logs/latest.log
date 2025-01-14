@@ -58,3 +58,7 @@
 [14Jan2025 01:13:14.565] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b59d0fa
 [14Jan2025 01:13:14.571] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xonsret[/10.147.19.75:54112] logged in with entity id 86339 at (1729.4666390262223, 88.0, 1884.6460828367703)
 [14Jan2025 01:13:14.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret joined the game
+[14Jan2025 01:15:33.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 01:16:59.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 01:17:38.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 01:21:03.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]

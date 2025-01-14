@@ -4553,3 +4553,11 @@ java.lang.NullPointerException: null
 [14Jan2025 01:13:14.571] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xonsret[/10.147.19.75:54112] logged in with entity id 86339 at (1729.4666390262223, 88.0, 1884.6460828367703)
 [14Jan2025 01:13:14.571] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@7c4a997b into net.minecraft.network.NetworkManager@1614a928
 [14Jan2025 01:13:14.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret joined the game
+[14Jan2025 01:15:33.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 01:16:59.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 01:17:37.612] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:17:37.616] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 01:17:38.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 01:21:03.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 01:22:37.430] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:22:37.434] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
