@@ -800,6 +800,7 @@
       "minecraft:spider": "2024-12-27 00:42:41 +0000",
       "minecraft:creeper": "2024-12-27 00:40:54 +0000",
       "minecraft:witch": "2025-01-13 22:55:27 +0000",
+      "minecraft:enderman": "2025-01-14 21:08:39 +0000",
       "minecraft:vex": "2025-01-13 22:06:09 +0000",
       "minecraft:zombie": "2024-12-26 23:09:30 +0000",
       "minecraft:zombie_villager": "2024-12-27 00:45:11 +0000"
@@ -2124,6 +2125,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-12-26 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-14 21:07:30 +0000"
     },
     "done": true
   },

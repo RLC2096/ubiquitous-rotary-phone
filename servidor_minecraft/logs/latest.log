@@ -209,3 +209,29 @@ java.lang.NullPointerException: null
 [14Jan2025 21:07:22.178] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1989f3f4[id=<null>,name=Xonsret,properties={},legacy=false] (/10.147.19.75:55772) lost connection: Disconnected
 [14Jan2025 21:08:02.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Acquire Hardware]
 [14Jan2025 21:08:02.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 32 [Iron Ingot] to Moreauler
+[14Jan2025 21:08:52.529] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@469be253[id=<null>,name=Xonsret,properties={},legacy=false] (/10.147.19.75:55875): Took too long to log in
+[14Jan2025 21:08:52.580] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@469be253[id=<null>,name=Xonsret,properties={},legacy=false] (/10.147.19.75:55875) lost connection: Took too long to log in
+[14Jan2025 21:09:34.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Suit Up]
+[14Jan2025 21:09:39.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1 [Iron Chestplate] to Moreauler
+[14Jan2025 21:10:05.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Isn't It Iron Pick]
+[14Jan2025 21:10:41.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Diamonds!]
+[14Jan2025 21:10:41.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 2 [Diamond] to Moreauler
+[14Jan2025 21:11:22.481] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@72df3862[id=<null>,name=Xonsret,properties={},legacy=false] (/10.147.19.75:56406) lost connection: Disconnected
+[14Jan2025 21:11:44.035] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5820, l='ServerLevel[world]', x=395.22, y=25.45, z=409.33]
+[14Jan2025 21:11:44.036] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5821, l='ServerLevel[world]', x=395.22, y=25.45, z=409.33]
+[14Jan2025 21:11:44.036] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/5819, l='ServerLevel[world]', x=395.22, y=25.45, z=409.33]
+[14Jan2025 21:14:28.088] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b2c1d16
+[14Jan2025 21:14:28.099] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xonsret[/10.147.19.75:57166] logged in with entity id 6949 at (1987.9403343705142, 72.0, 2488.0639611003185)
+[14Jan2025 21:14:28.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret joined the game
+[14Jan2025 21:14:58.981] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret lost connection: Timed out
+[14Jan2025 21:14:58.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret left the game
+[14Jan2025 21:16:03.635] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4a21663
+[14Jan2025 21:16:03.644] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xonsret[/10.147.19.75:57285] logged in with entity id 7890 at (1987.9403343705142, 72.0, 2488.0639611003185)
+[14Jan2025 21:16:03.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret joined the game
+[14Jan2025 21:16:09.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [A Terrible Fortress]
+[14Jan2025 21:16:33.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Into Fire]
+[14Jan2025 21:18:24.539] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler lost connection: Disconnected
+[14Jan2025 21:18:24.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler left the game
+[14Jan2025 21:18:58.882] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@197d4c26
+[14Jan2025 21:18:58.890] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Moreauler[/10.147.19.91:51054] logged in with entity id 10467 at (2150.300000011921, 53.0, 3002.3825372656524)
+[14Jan2025 21:18:58.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler joined the game
