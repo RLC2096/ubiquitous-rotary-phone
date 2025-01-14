@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-01-14 23:34:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-01-14 22:16:22 +0000"
@@ -1453,6 +1459,7 @@
       "minecraft:river": "2024-12-26 22:37:11 +0000",
       "minecraft:snowy_taiga": "2024-12-27 00:01:29 +0000",
       "minecraft:wooded_mountains": "2025-01-13 01:19:19 +0000",
+      "minecraft:wooded_hills": "2025-01-14 23:38:31 +0000",
       "minecraft:snowy_taiga_hills": "2025-01-13 02:02:05 +0000",
       "minecraft:plains": "2024-12-26 22:37:38 +0000"
     },

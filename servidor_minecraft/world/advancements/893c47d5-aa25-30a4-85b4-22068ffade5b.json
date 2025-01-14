@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-14 23:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-26 23:06:55 +0000"
@@ -836,6 +842,12 @@
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
       "has_item": "2025-01-14 21:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-14 23:37:39 +0000"
     },
     "done": true
   },
@@ -1685,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-14 23:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2025-01-13 01:48:31 +0000",
@@ -1983,6 +2001,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-27 01:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-14 23:37:39 +0000"
     },
     "done": true
   },
@@ -2363,6 +2387,7 @@
       "sweet_berries": "2024-12-26 23:13:31 +0000",
       "baked_potato": "2025-01-14 00:48:37 +0000",
       "bread": "2024-12-26 23:09:49 +0000",
+      "rotten_flesh": "2025-01-14 23:32:42 +0000",
       "golden_carrot": "2025-01-14 22:17:53 +0000"
     },
     "done": false

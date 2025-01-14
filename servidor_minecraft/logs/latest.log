@@ -276,3 +276,15 @@ java.lang.NullPointerException: null
 [14Jan2025 23:26:31.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
 [14Jan2025 23:26:39.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 tried to swim in lava
 [14Jan2025 23:26:39.179] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[14Jan2025 23:31:26.172] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc was kicked for floating too long!
+[14Jan2025 23:31:26.222] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Flying is not enabled on this server
+[14Jan2025 23:31:26.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[14Jan2025 23:31:46.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to GamerJ2002]
+[14Jan2025 23:32:07.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[14Jan2025 23:32:42.330] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@274523f5
+[14Jan2025 23:32:42.342] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:52374] logged in with entity id 28838 at (979.1769859775416, 67.73584067272827, 454.4690788187666)
+[14Jan2025 23:32:42.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[14Jan2025 23:34:42.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[14Jan2025 23:36:54.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 64 [Bread] to Xonsret]
+[14Jan2025 23:38:50.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 23:38:56.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]

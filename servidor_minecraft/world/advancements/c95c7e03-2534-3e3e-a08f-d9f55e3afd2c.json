@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-14 23:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-14 21:00:45 +0000"
@@ -314,6 +320,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-14 21:04:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-01-14 23:34:51 +0000"
     },
     "done": true
   },
@@ -1214,6 +1226,7 @@
       "minecraft:frozen_river": "2025-01-14 23:05:10 +0000",
       "minecraft:river": "2025-01-14 21:01:03 +0000",
       "minecraft:wooded_mountains": "2025-01-14 23:05:55 +0000",
+      "minecraft:wooded_hills": "2025-01-14 23:38:26 +0000",
       "minecraft:plains": "2025-01-14 21:00:01 +0000"
     },
     "done": false
