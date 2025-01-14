@@ -4789,3 +4789,22 @@ java.lang.NullPointerException: null
 [14Jan2025 02:42:37.829] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [14Jan2025 02:43:39.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [14Jan2025 02:43:47.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 02:46:03.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [A Terrible Fortress]
+[14Jan2025 02:46:05.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [A Terrible Fortress]
+[14Jan2025 02:47:37.771] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:47:37.775] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 02:47:51.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[14Jan2025 02:48:23.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret burned to death
+[14Jan2025 02:48:23.461] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xonsret was created at position [x:936, y:67, z:405, dim:minecraft:the_nether]
+[14Jan2025 02:48:23.462] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[14Jan2025 02:48:31.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has reached the goal [A Fast Comeback]
+[14Jan2025 02:49:22.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Straddle My Ol' Saddle]
+[14Jan2025 02:49:27.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[14Jan2025 02:49:36.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Straddle My Ol' Saddle]
+[14Jan2025 02:50:18.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[14Jan2025 02:51:40.305] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[14Jan2025 02:51:40.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[14Jan2025 02:51:43.406] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret lost connection: Disconnected
+[14Jan2025 02:51:43.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret left the game
+[14Jan2025 02:52:37.236] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:52:37.240] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

@@ -128,3 +128,17 @@
 [14Jan2025 02:41:30.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Into Fire]
 [14Jan2025 02:43:39.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [14Jan2025 02:43:47.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 02:46:03.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [A Terrible Fortress]
+[14Jan2025 02:46:05.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [A Terrible Fortress]
+[14Jan2025 02:47:51.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[14Jan2025 02:48:23.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret burned to death
+[14Jan2025 02:48:23.462] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[14Jan2025 02:48:31.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has reached the goal [A Fast Comeback]
+[14Jan2025 02:49:22.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Straddle My Ol' Saddle]
+[14Jan2025 02:49:27.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[14Jan2025 02:49:36.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Straddle My Ol' Saddle]
+[14Jan2025 02:50:18.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[14Jan2025 02:51:40.305] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[14Jan2025 02:51:40.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[14Jan2025 02:51:43.406] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret lost connection: Disconnected
+[14Jan2025 02:51:43.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret left the game

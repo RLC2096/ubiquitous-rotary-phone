@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-14 02:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 23:07:32 +0000"
@@ -737,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-14 02:47:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-26 23:07:32 +0000"
@@ -788,6 +800,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-26 23:16:27 +0000",
+      "minecraft:blaze": "2025-01-14 02:45:40 +0000",
       "minecraft:skeleton": "2024-12-26 23:50:00 +0000",
       "minecraft:ravager": "2025-01-14 00:42:14 +0000",
       "minecraft:ghast": "2024-12-27 01:58:26 +0000",
@@ -800,6 +813,7 @@
       "minecraft:evoker": "2025-01-14 00:45:23 +0000",
       "minecraft:zombified_piglin": "2024-12-27 01:55:44 +0000",
       "minecraft:witch": "2025-01-14 00:42:36 +0000",
+      "minecraft:wither_skeleton": "2025-01-14 02:45:43 +0000",
       "minecraft:piglin": "2025-01-13 01:12:55 +0000",
       "minecraft:enderman": "2025-01-13 00:05:13 +0000",
       "minecraft:vex": "2025-01-14 00:45:50 +0000",
@@ -1866,7 +1880,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-27 00:56:38 +0000",
       "minecraft:nether_wastes": "2024-12-27 01:03:25 +0000",
-      "minecraft:soul_sand_valley": "2024-12-27 01:03:22 +0000"
+      "minecraft:soul_sand_valley": "2024-12-27 01:03:22 +0000",
+      "minecraft:basalt_deltas": "2025-01-14 02:43:50 +0000"
     },
     "done": false
   },
@@ -2400,6 +2415,7 @@
       "bread": "2024-12-26 23:16:32 +0000",
       "golden_apple": "2024-12-26 23:26:13 +0000",
       "rotten_flesh": "2024-12-27 02:01:22 +0000",
+      "golden_carrot": "2025-01-14 02:43:09 +0000",
       "cooked_salmon": "2024-12-26 23:57:15 +0000",
       "carrot": "2025-01-14 01:46:37 +0000"
     },
@@ -2780,6 +2796,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-27 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-14 02:46:19 +0000"
     },
     "done": true
   },
@@ -3269,6 +3291,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-14 02:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-26 23:12:16 +0000"
@@ -3332,6 +3360,12 @@
   "securitycraft:recipes/securitycraft/nether_gold_mine": {
     "criteria": {
       "has_mine": "2025-01-14 00:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-14 02:46:03 +0000"
     },
     "done": true
   },
@@ -3632,6 +3666,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-01-13 22:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-14 02:47:59 +0000"
     },
     "done": true
   },
