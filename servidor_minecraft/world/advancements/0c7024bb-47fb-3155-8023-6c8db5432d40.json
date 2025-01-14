@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-14 22:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-26 23:07:47 +0000"
@@ -497,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-14 22:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-27 00:07:11 +0000"
@@ -638,6 +650,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-12 01:43:43 +0000",
+      "minecraft:blaze": "2025-01-14 22:55:32 +0000",
       "minecraft:skeleton": "2024-12-26 23:36:06 +0000",
       "minecraft:ravager": "2025-01-14 02:07:13 +0000",
       "minecraft:hoglin": "2025-01-14 02:32:29 +0000",
@@ -647,6 +660,7 @@
       "minecraft:creeper": "2024-12-27 01:34:56 +0000",
       "minecraft:evoker": "2025-01-14 02:02:41 +0000",
       "minecraft:phantom": "2025-01-14 02:20:04 +0000",
+      "minecraft:zombified_piglin": "2025-01-14 22:49:06 +0000",
       "minecraft:witch": "2025-01-14 02:04:49 +0000",
       "minecraft:wither_skeleton": "2025-01-14 02:51:04 +0000",
       "minecraft:piglin": "2025-01-14 02:34:46 +0000",
@@ -1086,6 +1100,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-26 23:24:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-14 22:49:34 +0000"
     },
     "done": true
   },
@@ -1717,6 +1737,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-01-14 22:49:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/codebreaker": {
     "criteria": {
       "has_nether_star": "2024-12-27 02:07:10 +0000"
@@ -1948,6 +1974,18 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-01-13 23:38:24 +0000"
+    },
+    "done": true
+  },
+  "create:blaze_burner": {
+    "criteria": {
+      "0": "2025-01-14 22:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-14 22:49:34 +0000"
     },
     "done": true
   },
@@ -2220,6 +2258,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-14 22:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-14 22:49:34 +0000"
     },
     "done": true
   },
@@ -3165,6 +3209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-14 22:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-01-14 22:10:51 +0000"
@@ -3312,6 +3362,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-13 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-14 22:49:34 +0000"
     },
     "done": true
   },
