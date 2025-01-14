@@ -223,3 +223,7 @@ java.lang.NullPointerException: null
 [14Jan2025 22:18:28.161] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Disconnected
 [14Jan2025 22:18:28.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
 [14Jan2025 22:25:59.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has reached the goal [The Andesite Age]
+[14Jan2025 22:32:27.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [The Parrots and the Bats]
+[14Jan2025 22:33:15.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has reached the goal [Overstressed]
+[14Jan2025 22:33:15.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has reached the goal [Overstressed]
+[14Jan2025 22:38:55.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Press Goes 'Bonk!']
