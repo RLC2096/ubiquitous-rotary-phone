@@ -227,3 +227,24 @@ java.lang.NullPointerException: null
 [14Jan2025 22:33:15.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has reached the goal [Overstressed]
 [14Jan2025 22:33:15.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has reached the goal [Overstressed]
 [14Jan2025 22:38:55.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Press Goes 'Bonk!']
+[14Jan2025 22:39:06.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 22:39:47.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has reached the goal [Strong or Careful]
+[14Jan2025 22:39:47.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was doomed to fall by Xonsret
+[14Jan2025 22:39:47.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Your First Grave]
+[14Jan2025 22:39:47.118] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[14Jan2025 22:39:57.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 22:40:09.606] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler was kicked for floating too long!
+[14Jan2025 22:40:09.656] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler lost connection: Flying is not enabled on this server
+[14Jan2025 22:40:09.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler left the game
+[14Jan2025 22:40:25.016] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6d7d1c1e
+[14Jan2025 22:40:25.028] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Moreauler[/10.147.19.91:61452] logged in with entity id 14993 at (1765.9615378331564, 66.46026947021555, 1793.1874001796132)
+[14Jan2025 22:40:25.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler joined the game
+[14Jan2025 22:43:11.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret was slain by Moreauler
+[14Jan2025 22:43:11.918] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[14Jan2025 22:43:55.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 22:44:03.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 22:44:33.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Press Goes 'Bonk!']
+[14Jan2025 22:45:48.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 64 [Bottle o' Enchanting] to Xonsret]
+[14Jan2025 22:46:13.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [We Need to Go Deeper]
+[14Jan2025 22:46:13.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[14Jan2025 22:46:14.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [A Terrible Fortress]
