@@ -499,6 +499,7 @@
       "minecraft:spider": "2024-12-27 00:41:37 +0000",
       "minecraft:creeper": "2024-12-27 01:34:56 +0000",
       "minecraft:silverfish": "2024-12-27 00:02:42 +0000",
+      "minecraft:enderman": "2025-01-14 00:42:51 +0000",
       "minecraft:zombie": "2024-12-26 23:27:17 +0000"
     },
     "done": false
@@ -1320,6 +1321,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-14 00:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-26 23:11:26 +0000"
@@ -1359,6 +1366,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-12-26 23:24:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-01-14 00:51:49 +0000"
     },
     "done": true
   },
@@ -1589,6 +1602,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-26 22:45:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-14 00:44:08 +0000"
     },
     "done": true
   },
@@ -1913,6 +1932,12 @@
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-13 22:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-14 00:48:47 +0000"
     },
     "done": true
   },

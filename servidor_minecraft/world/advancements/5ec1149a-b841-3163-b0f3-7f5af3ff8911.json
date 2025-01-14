@@ -730,10 +730,12 @@
       "minecraft:spider": "2024-12-26 23:33:08 +0000",
       "minecraft:creeper": "2025-01-13 00:48:03 +0000",
       "minecraft:wither": "2024-12-27 02:07:06 +0000",
+      "minecraft:evoker": "2025-01-14 00:45:23 +0000",
       "minecraft:zombified_piglin": "2024-12-27 01:55:44 +0000",
       "minecraft:witch": "2025-01-14 00:42:36 +0000",
       "minecraft:piglin": "2025-01-13 01:12:55 +0000",
       "minecraft:enderman": "2025-01-13 00:05:13 +0000",
+      "minecraft:vex": "2025-01-14 00:45:50 +0000",
       "minecraft:zombie": "2024-12-26 23:33:29 +0000"
     },
     "done": false
@@ -1954,6 +1956,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-26 23:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-14 00:47:45 +0000"
     },
     "done": true
   },

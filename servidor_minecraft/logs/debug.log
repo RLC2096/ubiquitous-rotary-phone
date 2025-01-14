@@ -4130,3 +4130,20 @@ java.lang.NullPointerException: null
 [14Jan2025 00:42:12.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Voluntary Exile]
 [14Jan2025 00:42:37.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [14Jan2025 00:42:37.957] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 00:44:08.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has reached the goal [Fortuitous Militia]
+[14Jan2025 00:45:45.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret was slain by Vindicator
+[14Jan2025 00:45:45.909] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xonsret was created at position [x:2887, y:69, z:3285, dim:minecraft:overworld]
+[14Jan2025 00:45:45.916] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[14Jan2025 00:46:00.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[14Jan2025 00:46:00.953] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/76862, l='ServerLevel[world]', x=2884.96, y=73.00, z=3315.24]
+[14Jan2025 00:47:37.946] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 00:47:37.950] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Jan2025 00:47:45.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has completed the challenge [Hero of the Village]
+[14Jan2025 00:47:45.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has completed the challenge [Hero of the Village]
+[14Jan2025 00:48:47.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [What a Deal!]
+[14Jan2025 00:50:27.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 00:50:47.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 00:51:18.062] [Server thread/WARN] [tombstone/]: The death event of the player El_Vertex_mc was canceled by another mod
+[14Jan2025 00:51:18.068] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[14Jan2025 00:52:37.591] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Jan2025 00:52:37.596] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
