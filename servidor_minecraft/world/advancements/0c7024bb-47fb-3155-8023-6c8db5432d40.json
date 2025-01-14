@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-26 23:07:47 +0000"
@@ -74,6 +80,12 @@
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-26 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-14 23:46:16 +0000"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-13 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-01-14 23:49:19 +0000"
     },
     "done": true
   },
@@ -611,6 +629,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-27 00:02:15 +0000"
@@ -715,6 +739,18 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-27 00:19:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-14 23:46:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/palettes/copper_tiles": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:19 +0000"
     },
     "done": true
   },
@@ -1049,6 +1085,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2024-12-26 23:24:58 +0000"
@@ -1088,6 +1130,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-26 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-14 23:46:16 +0000"
     },
     "done": true
   },
@@ -1232,6 +1280,12 @@
   "create:press": {
     "criteria": {
       "0": "2025-01-14 22:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-14 23:46:16 +0000"
     },
     "done": true
   },
@@ -1439,6 +1493,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/diving_helmet": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-01-13 23:04:22 +0000"
@@ -1522,6 +1582,12 @@
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2025-01-13 23:09:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/diving_boots": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
     },
     "done": true
   },
@@ -1639,6 +1705,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-01-14 22:16:22 +0000"
@@ -1665,6 +1737,12 @@
       "minecraft:basalt_deltas": "2025-01-14 02:43:52 +0000"
     },
     "done": false
+  },
+  "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
+    },
+    "done": true
   },
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
@@ -1741,6 +1819,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-27 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
     },
     "done": true
   },
@@ -1921,6 +2005,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-01-14 02:46:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
     },
     "done": true
   },
@@ -2263,6 +2353,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-01-14 23:43:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2025-01-14 22:25:59 +0000"
@@ -2503,6 +2599,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-26 23:11:53 +0000"
@@ -2596,6 +2698,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-26 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/palettes/copper_shingles": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:19 +0000"
     },
     "done": true
   },
@@ -2989,6 +3097,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-14 23:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-26 22:45:09 +0000"
@@ -3088,6 +3202,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-13 01:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/palettes/copper_shingles_from_tiles": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:19 +0000"
     },
     "done": true
   },
@@ -3235,6 +3355,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2024-12-27 02:07:10 +0000"
@@ -3295,6 +3421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-01-14 23:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-27 00:02:15 +0000"
@@ -3328,6 +3460,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-01-14 23:16:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_casing": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
     },
     "done": true
   },
@@ -3634,6 +3772,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-26 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-14 23:40:04 +0000"
     },
     "done": true
   },

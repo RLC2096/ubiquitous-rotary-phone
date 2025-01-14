@@ -288,3 +288,15 @@ java.lang.NullPointerException: null
 [14Jan2025 23:36:54.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 64 [Bread] to Xonsret]
 [14Jan2025 23:38:50.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [14Jan2025 23:38:56.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 23:41:26.816] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID 6e803f35-a086-43e4-9191-4d7d0487c182
+[14Jan2025 23:41:26.817] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2927 Y: 69 Z: 3283
+[14Jan2025 23:41:26.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was slain by Vindicator
+[14Jan2025 23:41:26.836] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[14Jan2025 23:43:58.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 23:44:12.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[14Jan2025 23:44:25.071] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Disconnected
+[14Jan2025 23:44:25.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
+[14Jan2025 23:46:21.831] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Boat'/36337, l='ServerLevel[world]', x=2905.26, y=85.00, z=3300.80]
+[14Jan2025 23:48:30.209] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Boat'/37234, l='ServerLevel[world]', x=2905.26, y=85.00, z=3301.65]
+[14Jan2025 23:48:34.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[14Jan2025 23:48:49.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
