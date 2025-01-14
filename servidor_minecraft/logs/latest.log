@@ -268,3 +268,11 @@ java.lang.NullPointerException: null
 [14Jan2025 23:08:40.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Ashes 'n Bones]
 [14Jan2025 23:10:58.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
 [14Jan2025 23:11:43.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30577ms or 611 ticks behind
+[14Jan2025 23:22:01.871] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@14ce7ade
+[14Jan2025 23:22:01.883] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:52148] logged in with entity id 23838 at (929.8491501630634, 68.0, 548.8576171123574)
+[14Jan2025 23:22:01.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[14Jan2025 23:26:31.673] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4517e4e6
+[14Jan2025 23:26:31.683] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:63349] logged in with entity id 25763 at (365.9796684187112, 24.16266515163804, 398.5655812256264)
+[14Jan2025 23:26:31.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
+[14Jan2025 23:26:39.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 tried to swim in lava
+[14Jan2025 23:26:39.179] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
