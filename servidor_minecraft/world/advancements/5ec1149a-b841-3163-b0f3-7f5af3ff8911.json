@@ -2841,6 +2841,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-01-14 01:36:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-26 23:20:05 +0000"
