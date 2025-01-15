@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:08:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2025-01-14 22:16:22 +0000"
@@ -720,6 +726,7 @@
       "minecraft:piglin": "2025-01-14 02:34:46 +0000",
       "minecraft:silverfish": "2024-12-27 00:02:42 +0000",
       "minecraft:enderman": "2025-01-14 00:42:51 +0000",
+      "minecraft:vex": "2025-01-15 02:07:08 +0000",
       "minecraft:zombie": "2024-12-26 23:27:17 +0000"
     },
     "done": false
@@ -1424,6 +1431,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-26 23:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:08:43 +0000"
     },
     "done": true
   },
@@ -2629,6 +2642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-14 23:08:53 +0000"
@@ -2728,6 +2747,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-26 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-01-15 02:00:56 +0000"
     },
     "done": true
   },
@@ -2860,6 +2885,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-14 01:01:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/warped_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-15 02:08:43 +0000"
     },
     "done": true
   },
@@ -3067,6 +3098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-26 23:41:02 +0000"
@@ -3109,9 +3146,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-26 22:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:08:43 +0000"
     },
     "done": true
   },
@@ -3280,6 +3329,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-14 23:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2025-01-15 02:08:43 +0000"
     },
     "done": true
   },
@@ -3709,6 +3764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-26 23:07:47 +0000"
@@ -3826,6 +3887,12 @@
   "create:recipes/create.base/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2025-01-14 22:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:08:43 +0000"
     },
     "done": true
   },
