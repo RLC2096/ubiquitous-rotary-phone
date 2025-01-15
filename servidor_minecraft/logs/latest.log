@@ -45,3 +45,13 @@
 [15Jan2025 00:20:26.368] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4064a3e1
 [15Jan2025 00:20:26.375] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Moreauler[/10.147.19.91:60102] logged in with entity id 56416 at (955.6897027118463, 67.0, 462.7194635553994)
 [15Jan2025 00:20:26.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler joined the game
+[15Jan2025 00:28:01.191] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@331c5a7f
+[15Jan2025 00:28:01.200] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xonsret[/10.147.19.75:58249] logged in with entity id 60737 at (1730.9476404316706, 82.0, 1876.2069347802399)
+[15Jan2025 00:28:01.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret joined the game
+[15Jan2025 00:28:10.873] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID eb803b46-d0d5-48be-950f-e1788a8037f8
+[15Jan2025 00:28:10.874] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3087 Y: 207 Z: 3148
+[15Jan2025 00:28:10.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was slain by Hoglin
+[15Jan2025 00:28:10.891] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 00:28:20.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[15Jan2025 00:28:49.745] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Timed out
+[15Jan2025 00:28:49.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
