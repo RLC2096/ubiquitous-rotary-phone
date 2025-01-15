@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-15 23:28:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-27 00:15:15 +0000"
@@ -886,6 +892,7 @@
       "minecraft:zombified_piglin": "2025-01-14 22:49:06 +0000",
       "minecraft:witch": "2025-01-14 02:04:49 +0000",
       "minecraft:wither_skeleton": "2025-01-14 02:51:04 +0000",
+      "minecraft:ender_dragon": "2025-01-15 23:28:22 +0000",
       "minecraft:piglin": "2025-01-14 02:34:46 +0000",
       "minecraft:silverfish": "2024-12-27 00:02:42 +0000",
       "minecraft:enderman": "2025-01-14 00:42:51 +0000",
@@ -1221,6 +1228,12 @@
   "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2024-12-26 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-15 23:20:24 +0000"
     },
     "done": true
   },
@@ -4353,6 +4366,12 @@
   "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2024-12-26 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-15 23:20:24 +0000"
     },
     "done": true
   },
