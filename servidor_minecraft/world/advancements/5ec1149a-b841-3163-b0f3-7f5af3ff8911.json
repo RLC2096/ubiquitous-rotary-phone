@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/palettes/copper_tiles": {
+    "criteria": {
+      "has_item": "2025-01-15 22:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-26 23:08:52 +0000"
@@ -1286,6 +1292,12 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-01-15 22:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-15 00:08:45 +0000"
@@ -1886,6 +1898,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/palettes/copper_shingles": {
+    "criteria": {
+      "has_item": "2025-01-15 22:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cake_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-15 01:07:07 +0000"
@@ -2147,6 +2165,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/palettes/copper_shingles_from_tiles": {
+    "criteria": {
+      "has_item": "2025-01-15 22:28:58 +0000"
     },
     "done": true
   },
@@ -3983,6 +4007,12 @@
   "minecraft:recipes/travelersbackpack/wolf_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-01-15 00:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-15 22:33:43 +0000"
     },
     "done": true
   },

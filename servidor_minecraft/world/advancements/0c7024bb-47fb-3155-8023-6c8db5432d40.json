@@ -2196,6 +2196,12 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-01-15 22:33:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/codebreaker": {
     "criteria": {
       "has_nether_star": "2024-12-27 02:07:10 +0000"

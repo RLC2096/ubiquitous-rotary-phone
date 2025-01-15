@@ -341,3 +341,48 @@ java.lang.NullPointerException: null
 [15Jan2025 22:29:14.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [15Jan2025 22:30:01.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [This Boat Has Legs]
 [15Jan2025 22:30:14.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 22:30:26.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 22:30:47.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 22:30:55.302] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 89f9f0ff-8dcf-4f1e-91ce-34226fc1e564
+[15Jan2025 22:30:55.303] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 473 Y: 28 Z: 157
+[15Jan2025 22:30:55.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was shot by El_Vertex_mc
+[15Jan2025 22:30:55.316] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 22:31:06.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported GamerJ2002 to Xonsret]
+[15Jan2025 22:31:31.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 22:31:33.759] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID 9201a00f-e934-40d2-8f6b-ed6f0d0a5c44
+[15Jan2025 22:31:33.764] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 503 Y: 32 Z: 98
+[15Jan2025 22:31:33.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler burned to death
+[15Jan2025 22:31:33.778] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 22:31:38.949] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler was kicked for floating too long!
+[15Jan2025 22:31:39.007] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler lost connection: Flying is not enabled on this server
+[15Jan2025 22:31:39.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler left the game
+[15Jan2025 22:31:52.658] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2075553b
+[15Jan2025 22:31:52.669] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Moreauler[/10.147.19.91:52048] logged in with entity id 49001 at (503.1298762569669, 33.200000047683716, 97.06834601129604)
+[15Jan2025 22:31:52.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler joined the game
+[15Jan2025 22:32:00.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied effect Fire Resistance to 4 targets]
+[15Jan2025 22:32:22.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xonsret> Your backpack has been placed at X: 473 Y: 28 Z: 157
+[15Jan2025 22:32:43.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xonsret> Dropping backpack item at X: 503 Y: 32 Z: 98
+[15Jan2025 22:33:30.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [This Boat Has Legs]
+[15Jan2025 22:34:12.673] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.5420431943287483
+[15Jan2025 22:34:12.727] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.5715117903907725
+[15Jan2025 22:37:29.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported GamerJ2002 to Xonsret]
+[15Jan2025 22:37:45.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[15Jan2025 22:38:03.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 22:38:13.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 22:38:14.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 22:38:55.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 22:39:05.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Soul Vulture
+[15Jan2025 22:39:05.266] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 22:39:13.639] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.3565091939844933
+[15Jan2025 22:39:13.741] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 1.020715717217172
+[15Jan2025 22:39:13.742] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.6945836934019098
+[15Jan2025 22:39:13.837] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.3052308601979803
+[15Jan2025 22:39:13.837] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.3052308601979803
+[15Jan2025 22:39:13.838] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.27036267262127467
+[15Jan2025 22:39:13.940] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.3413887336580501
+[15Jan2025 22:39:13.941] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.3413887336580501
+[15Jan2025 22:39:13.941] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Strider (vehicle of El_Vertex_mc) moved wrongly! 0.3413887336580501
+[15Jan2025 22:39:20.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Ender Pearl] to Moreauler]
+[15Jan2025 22:39:27.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [This Boat Has Legs]
+[15Jan2025 22:39:59.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Straddle My Ol' Saddle]
+[15Jan2025 22:40:13.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has completed the challenge [Hot Tourist Destinations]
