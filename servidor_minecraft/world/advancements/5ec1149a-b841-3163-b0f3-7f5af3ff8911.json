@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-14 23:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-26 23:13:33 +0000"
@@ -1753,6 +1759,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 23:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-01-14 23:53:19 +0000"
     },
     "done": true
   },
@@ -2868,6 +2880,12 @@
   "tombstone:adventure/eat_easter_egg_food": {
     "criteria": {
       "coded_trigger": "2024-12-26 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-01-14 23:58:09 +0000"
     },
     "done": true
   },
