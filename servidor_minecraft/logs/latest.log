@@ -134,3 +134,27 @@
 [15Jan2025 01:20:13.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Sharpness V to Xonsret's item]
 [15Jan2025 01:22:01.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Created new objective [vida]]
 [15Jan2025 01:22:59.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set display slot list to show objective vida]
+[15Jan2025 01:23:24.546] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID 8bb8a7d4-bef4-402f-a709-6fbdaeacfdec
+[15Jan2025 01:23:24.546] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1803 Y: 82 Z: 1901
+[15Jan2025 01:23:24.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Xonsret
+[15Jan2025 01:23:24.548] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 01:23:28.863] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5fd69f49
+[15Jan2025 01:23:28.872] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:63659] logged in with entity id 86191 at (3713.5, 58.0, 3351.5)
+[15Jan2025 01:23:28.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[15Jan2025 01:23:46.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has reached the goal [Here They Come]
+[15Jan2025 01:25:29.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID 105228f4-e42e-47af-96ff-1b20c5deeb87
+[15Jan2025 01:25:29.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1783 Y: 78 Z: 1870
+[15Jan2025 01:25:29.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Xonsret
+[15Jan2025 01:25:29.824] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 01:25:56.264] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID d4beacae-a40c-445d-a00c-b9e1aa1ee3e0
+[15Jan2025 01:25:56.265] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3579 Y: 83 Z: 3418
+[15Jan2025 01:25:56.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was slain by Vindicator
+[15Jan2025 01:25:56.278] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 01:26:50.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID fdab2e94-b207-42ed-ab08-ca498dfc5633
+[15Jan2025 01:26:50.789] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3570 Y: 78 Z: 3405
+[15Jan2025 01:26:50.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was doomed to fall by Vex
+[15Jan2025 01:26:50.790] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 01:27:36.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:28:07.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:30:06.262] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/89918, l='ServerLevel[world]', x=3113.30, y=63.00, z=3629.70] died, message: 'Villager was slain by Decaying Zombie'
+[15Jan2025 01:31:53.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has reached the goal [Die Classy]
