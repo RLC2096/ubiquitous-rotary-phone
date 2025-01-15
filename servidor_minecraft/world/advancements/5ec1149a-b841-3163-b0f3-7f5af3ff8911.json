@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cracked_stone_bricks": {
+    "criteria": {
+      "has_item": "2025-01-15 22:21:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/quartz_mine": {
     "criteria": {
       "has_mine": "2025-01-14 00:54:02 +0000"
@@ -1856,6 +1862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-15 22:26:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-26 23:12:07 +0000"
@@ -2204,6 +2216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-15 22:21:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 23:06:46 +0000"
@@ -2237,6 +2255,12 @@
   "create:recipes/create.palettes/paved_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-13 01:31:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_slab_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-01-15 22:21:08 +0000"
     },
     "done": true
   },
@@ -2624,6 +2648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-15 22:21:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 23:12:42 +0000"
@@ -2858,6 +2888,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_slab": {
+    "criteria": {
+      "has_block": "2025-01-15 22:21:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-26 23:10:00 +0000"
@@ -3005,6 +3041,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 23:07:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-01-15 22:21:08 +0000"
     },
     "done": true
   },
@@ -3351,6 +3393,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-01-15 22:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-26 23:09:51 +0000"
@@ -3596,6 +3644,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/securitycraft/reinforced_chiseled_stone_bricks_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-01-15 22:21:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone": {
     "criteria": {
       "has_weathered_limestone_cobblestone": "2025-01-13 01:28:46 +0000"
@@ -3785,6 +3839,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-01-13 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_wall": {
+    "criteria": {
+      "has_block": "2025-01-15 22:21:08 +0000"
     },
     "done": true
   },
@@ -3980,6 +4040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-15 22:26:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/dirt_mine": {
     "criteria": {
       "has_mine": "2025-01-14 00:54:02 +0000"
@@ -4160,6 +4226,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-27 02:01:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_stairs": {
+    "criteria": {
+      "has_block": "2025-01-15 22:21:08 +0000"
     },
     "done": true
   },
@@ -4928,6 +5000,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-26 22:56:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-01-15 22:21:08 +0000"
     },
     "done": true
   },
