@@ -4998,3 +4998,54 @@ java.lang.NullPointerException: null
 [15Jan2025 23:31:57.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to Moreauler]
 [15Jan2025 23:32:10.855] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Disconnected
 [15Jan2025 23:32:10.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
+[15Jan2025 23:33:48.607] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 23:33:48.612] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 23:33:53.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:33:59.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Who is Cutting Onions?]
+[15Jan2025 23:34:05.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:34:38.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Who is Cutting Onions?]
+[15Jan2025 23:35:31.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:35:48.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:37:17.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:37:23.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:37:42.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to Moreauler]
+[15Jan2025 23:38:02.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to Xonsret]
+[15Jan2025 23:38:47.104] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID c16b070a-d9f8-41c8-8cfd-c6bcd199c962
+[15Jan2025 23:38:47.104] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 49 Y: 60 Z: 0
+[15Jan2025 23:38:47.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Nightmare Stalker
+[15Jan2025 23:38:47.106] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:48, y:60, z:0, dim:minecraft:the_end]
+[15Jan2025 23:38:47.109] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 23:38:48.489] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 23:38:48.495] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 23:39:15.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:39:26.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Adventure Mode]
+[15Jan2025 23:39:27.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:39:32.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Adventure Mode]
+[15Jan2025 23:39:35.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:39:40.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:39:58.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:40:07.687] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[15Jan2025 23:41:43.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:41:58.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Spectator Mode]
+[15Jan2025 23:42:05.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]

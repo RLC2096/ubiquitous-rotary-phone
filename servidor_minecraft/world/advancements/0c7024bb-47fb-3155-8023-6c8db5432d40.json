@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-15 23:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 23:24:58 +0000"
@@ -896,6 +902,7 @@
       "minecraft:piglin": "2025-01-14 02:34:46 +0000",
       "minecraft:silverfish": "2024-12-27 00:02:42 +0000",
       "minecraft:enderman": "2025-01-14 00:42:51 +0000",
+      "minecraft:endermite": "2025-01-15 23:36:46 +0000",
       "minecraft:vex": "2025-01-15 02:07:08 +0000",
       "minecraft:zombie": "2024-12-26 23:27:17 +0000"
     },
@@ -1992,6 +1999,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-15 23:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-15 21:40:22 +0000"
@@ -2440,6 +2453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-15 23:29:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-15 21:40:22 +0000"
@@ -2704,6 +2723,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-27 01:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-15 23:33:59 +0000"
     },
     "done": true
   },
@@ -3643,6 +3668,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-15 23:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-15 23:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 22:45:09 +0000"
@@ -4075,6 +4112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-15 23:29:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-12-26 23:07:58 +0000"
@@ -4297,6 +4340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-15 23:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 23:24:58 +0000"
@@ -4372,6 +4421,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-01-15 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-15 23:29:27 +0000"
     },
     "done": true
   },
