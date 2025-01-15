@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_button": {
+    "criteria": {
+      "has_block": "2025-01-15 21:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-01-14 02:50:08 +0000"
@@ -470,6 +476,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-13 01:43:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_slab": {
+    "criteria": {
+      "has_block": "2025-01-15 21:49:02 +0000"
     },
     "done": true
   },
@@ -737,6 +749,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cracked_stone_bricks": {
+    "criteria": {
+      "has_item": "2025-01-15 21:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-26 22:44:58 +0000"
@@ -752,6 +770,12 @@
   "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
     "criteria": {
       "has_item": "2025-01-14 23:40:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-01-15 21:49:02 +0000"
     },
     "done": true
   },
@@ -1350,6 +1374,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-01-15 21:49:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2025-01-14 22:16:22 +0000"
@@ -1742,6 +1772,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/securitycraft/reinforced_chiseled_stone_bricks_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-01-15 21:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_the_recipe": "2024-12-27 00:18:05 +0000"
@@ -2099,6 +2135,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_wall": {
+    "criteria": {
+      "has_block": "2025-01-15 21:49:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-26 23:07:10 +0000"
@@ -2240,6 +2282,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-14 23:08:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_stairs": {
+    "criteria": {
+      "has_block": "2025-01-15 21:48:57 +0000"
     },
     "done": true
   },
@@ -2462,6 +2510,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2025-01-14 22:25:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-01-15 21:48:57 +0000"
     },
     "done": true
   },
@@ -2762,6 +2816,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_stairs": {
+    "criteria": {
+      "has_block": "2025-01-15 21:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-13 01:43:11 +0000"
@@ -2879,6 +2939,12 @@
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-01-14 22:16:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_slab": {
+    "criteria": {
+      "has_block": "2025-01-15 21:48:57 +0000"
     },
     "done": true
   },
@@ -3770,6 +3836,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_slab_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-01-15 21:49:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2024-12-26 23:13:39 +0000"
@@ -4061,6 +4133,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-13 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-01-15 21:49:02 +0000"
     },
     "done": true
   },

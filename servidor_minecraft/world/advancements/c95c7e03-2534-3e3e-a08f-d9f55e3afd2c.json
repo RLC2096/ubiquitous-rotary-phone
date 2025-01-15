@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_button": {
+    "criteria": {
+      "has_block": "2025-01-15 21:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-01-14 22:19:30 +0000"
@@ -1866,6 +1872,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_stairs": {
+    "criteria": {
+      "has_block": "2025-01-15 21:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-01-14 21:58:04 +0000"
@@ -1917,6 +1929,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2025-01-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-01-15 21:55:52 +0000"
     },
     "done": true
   },
@@ -2007,6 +2025,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-01-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-01-15 21:49:09 +0000"
     },
     "done": true
   },
@@ -2361,6 +2385,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-14 21:03:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_slab": {
+    "criteria": {
+      "has_block": "2025-01-15 21:49:09 +0000"
     },
     "done": true
   },
