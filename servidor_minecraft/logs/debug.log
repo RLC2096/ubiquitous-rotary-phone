@@ -5994,3 +5994,39 @@ java.lang.NullPointerException: null
 [15Jan2025 01:10:57.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [15Jan2025 01:11:17.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [15Jan2025 01:11:46.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has completed the challenge [Free Willy]
+[15Jan2025 01:14:10.607] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 9b64c5f4-c87c-4e49-8981-fdbe2f36d878
+[15Jan2025 01:14:10.607] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3716 Y: 58 Z: 3340
+[15Jan2025 01:14:10.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Ferrous Wroughtnaut
+[15Jan2025 01:14:10.615] [Server thread/DEBUG] [tombstone/]: A new grave of the player GamerJ2002 was created at position [x:3715, y:58, z:3340, dim:minecraft:overworld]
+[15Jan2025 01:14:10.624] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 01:14:25.572] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 01:14:25.577] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 01:14:26.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has completed the challenge [The Bigger They Are...]
+[15Jan2025 01:14:44.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:15:12.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:16:25.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:16:29.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:16:43.815] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Timed out
+[15Jan2025 01:16:43.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[15Jan2025 01:16:59.608] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID f20d6f05-644b-43a7-9a0a-b18173864157
+[15Jan2025 01:16:59.608] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1739 Y: 78 Z: 1890
+[15Jan2025 01:16:59.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Xonsret
+[15Jan2025 01:16:59.609] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1738, y:78, z:1890, dim:minecraft:overworld]
+[15Jan2025 01:16:59.610] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 01:17:12.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:17:19.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:17:42.597] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 3955bfda-1c95-49ed-909f-79e26669b238
+[15Jan2025 01:17:42.597] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1785 Y: 78 Z: 1885
+[15Jan2025 01:17:42.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Xonsret
+[15Jan2025 01:17:42.606] [Server thread/DEBUG] [tombstone/]: A new grave of the player GamerJ2002 was created at position [x:1784, y:78, z:1885, dim:minecraft:overworld]
+[15Jan2025 01:17:42.618] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 01:18:38.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:18:49.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:19:09.362] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Disconnected
+[15Jan2025 01:19:09.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
+[15Jan2025 01:19:25.531] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 01:19:25.535] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 01:19:33.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 128 [Bread] to Xonsret]
+[15Jan2025 01:20:13.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Sharpness V to Xonsret's item]
+[15Jan2025 01:22:01.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Created new objective [vida]]
+[15Jan2025 01:22:59.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set display slot list to show objective vida]
