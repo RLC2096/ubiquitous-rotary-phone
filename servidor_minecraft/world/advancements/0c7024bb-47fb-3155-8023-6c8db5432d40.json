@@ -1001,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-15 21:12:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2024-12-26 23:15:04 +0000"
@@ -3446,6 +3452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-15 21:12:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2024-12-27 01:14:05 +0000"
@@ -3509,6 +3521,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-01-13 00:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-15 21:12:48 +0000"
     },
     "done": true
   },

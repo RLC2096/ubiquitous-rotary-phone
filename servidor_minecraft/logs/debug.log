@@ -3932,3 +3932,31 @@ java.lang.NullPointerException: null
 [15Jan2025 21:03:39.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [15Jan2025 21:05:42.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
 [15Jan2025 21:08:10.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[15Jan2025 21:08:39.155] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 21:08:39.160] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 21:08:41.725] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID 73a441b3-5144-4361-94d7-039e3a23e104
+[15Jan2025 21:08:41.725] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1749 Y: 80 Z: 1889
+[15Jan2025 21:08:41.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler fell from a high place
+[15Jan2025 21:08:41.727] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1751, y:80, z:1889, dim:minecraft:overworld]
+[15Jan2025 21:08:41.728] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 21:10:25.743] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 6734cc1b-c23c-4eff-8f09-e53356d94434
+[15Jan2025 21:10:25.744] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1697 Y: 58 Z: 1902
+[15Jan2025 21:10:25.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Xonsret
+[15Jan2025 21:10:25.753] [Server thread/DEBUG] [tombstone/]: A new grave of the player GamerJ2002 was created at position [x:1699, y:58, z:1900, dim:minecraft:overworld]
+[15Jan2025 21:10:25.754] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 21:11:48.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 21:11:53.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 21:11:55.113] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler lost connection: Disconnected
+[15Jan2025 21:11:55.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler left the game
+[15Jan2025 21:12:48.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Into Fire]
+[15Jan2025 21:13:29.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 21:13:39.259] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 21:13:39.265] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 21:14:49.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 21:15:14.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[15Jan2025 21:17:26.816] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID e1ffb1ec-cced-482f-8f69-78449423ff65
+[15Jan2025 21:17:26.820] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1083 Y: 68 Z: 1745
+[15Jan2025 21:17:26.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Decrepit Skeleton
+[15Jan2025 21:17:26.831] [Server thread/DEBUG] [tombstone/]: A new grave of the player GamerJ2002 was created at position [x:1083, y:68, z:1744, dim:minecraft:overworld]
+[15Jan2025 21:17:26.836] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 21:17:52.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
