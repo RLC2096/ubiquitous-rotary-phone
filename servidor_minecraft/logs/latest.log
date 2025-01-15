@@ -201,3 +201,9 @@ java.lang.NullPointerException: null
 [15Jan2025 20:56:01.727] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@333af147
 [15Jan2025 20:56:01.745] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:50091] logged in with entity id 6445 at (2921.6831322941875, 72.0, 3298.000270120985)
 [15Jan2025 20:56:01.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[15Jan2025 21:03:14.810] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID c0d3cf04-3b29-45b9-8b0a-88beb16db9c3
+[15Jan2025 21:03:14.811] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1220 Y: 74 Z: 1682
+[15Jan2025 21:03:14.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Restless Spirit
+[15Jan2025 21:03:14.840] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 21:05:42.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[15Jan2025 21:08:10.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]

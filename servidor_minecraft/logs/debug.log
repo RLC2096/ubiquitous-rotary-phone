@@ -3921,3 +3921,14 @@ java.lang.NullPointerException: null
 [15Jan2025 20:56:01.745] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:50091] logged in with entity id 6445 at (2921.6831322941875, 72.0, 3298.000270120985)
 [15Jan2025 20:56:01.745] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@54782035 into net.minecraft.network.NetworkManager@1ed2a63d
 [15Jan2025 20:56:01.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[15Jan2025 20:58:39.462] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 20:58:39.467] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 21:03:14.810] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID c0d3cf04-3b29-45b9-8b0a-88beb16db9c3
+[15Jan2025 21:03:14.811] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1220 Y: 74 Z: 1682
+[15Jan2025 21:03:14.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Restless Spirit
+[15Jan2025 21:03:14.823] [Server thread/DEBUG] [tombstone/]: A new grave of the player GamerJ2002 was created at position [x:1225, y:74, z:1689, dim:minecraft:overworld]
+[15Jan2025 21:03:14.840] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 21:03:39.415] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 21:03:39.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 21:05:42.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[15Jan2025 21:08:10.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
