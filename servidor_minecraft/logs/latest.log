@@ -427,3 +427,23 @@ java.lang.NullPointerException: null
 [15Jan2025 22:59:33.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [15Jan2025 23:00:09.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has completed the challenge [Return to Sender]
 [15Jan2025 23:00:30.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Removed effect Fire Resistance from 4 targets]
+[15Jan2025 23:01:15.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:01:26.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:01:30.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:02:19.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:02:28.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:03:28.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:03:32.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:04:33.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the time to 1000]
+[15Jan2025 23:07:57.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Decaying Zombie
+[15Jan2025 23:07:57.811] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 23:08:19.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 4 entities to Xonsret]
+[15Jan2025 23:09:17.424] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 561dc527-ade9-4d7a-a470-3a31714cd321
+[15Jan2025 23:09:17.425] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3578 Y: 64 Z: 3009
+[15Jan2025 23:09:17.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was doomed to fall by Xonsret
+[15Jan2025 23:09:17.436] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 23:09:29.628] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc moved wrongly!
+[15Jan2025 23:09:47.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3688ms or 73 ticks behind
+[15Jan2025 23:09:47.662] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 moved too quickly! -4.594512277783451,-0.07544406518948676,9.127686027423806
+[15Jan2025 23:09:48.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 4 entities to El_Vertex_mc]
+[15Jan2025 23:10:44.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 4 entities to El_Vertex_mc]
