@@ -21,3 +21,27 @@
 [15Jan2025 00:10:41.721] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
 [15Jan2025 00:11:04.428] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
 [15Jan2025 00:11:04.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[15Jan2025 00:11:55.968] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@31d870e2
+[15Jan2025 00:11:55.976] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:52748] logged in with entity id 49408 at (3846.313654442017, 65.0, 3367.1650355982247)
+[15Jan2025 00:11:55.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[15Jan2025 00:12:39.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was shot by Bonescaller
+[15Jan2025 00:12:39.373] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 00:13:56.016] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID f7572062-b7b9-4b2a-af32-54e730ac621d
+[15Jan2025 00:13:56.017] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 955 Y: 67 Z: 462
+[15Jan2025 00:13:56.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Wither Skeleton
+[15Jan2025 00:13:56.027] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 00:14:12.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was shot by Bonescaller
+[15Jan2025 00:14:12.823] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 00:15:07.620] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 was kicked for floating too long!
+[15Jan2025 00:15:07.668] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Flying is not enabled on this server
+[15Jan2025 00:15:07.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
+[15Jan2025 00:15:18.677] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1273bf9e
+[15Jan2025 00:15:18.687] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:64148] logged in with entity id 52817 at (422.8121709530905, 49.39173412420435, 417.7473153980852)
+[15Jan2025 00:15:18.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
+[15Jan2025 00:16:27.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [The Most Useful Key]
+[15Jan2025 00:16:38.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has reached the goal [A Fast Comeback]
+[15Jan2025 00:17:44.259] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler lost connection: Disconnected
+[15Jan2025 00:17:44.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler left the game
+[15Jan2025 00:20:26.368] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4064a3e1
+[15Jan2025 00:20:26.375] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Moreauler[/10.147.19.91:60102] logged in with entity id 56416 at (955.6897027118463, 67.0, 462.7194635553994)
+[15Jan2025 00:20:26.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler joined the game
