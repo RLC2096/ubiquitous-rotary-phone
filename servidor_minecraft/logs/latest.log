@@ -70,3 +70,16 @@
 [15Jan2025 00:40:51.049] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3076 Y: 201 Z: 3129
 [15Jan2025 00:40:51.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was doomed to fall by Hoglin
 [15Jan2025 00:40:51.051] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 00:42:30.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Knowledge raises the soul]
+[15Jan2025 00:44:24.319] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 3f7839f3-2003-4c2d-9e33-a5ad1705a533
+[15Jan2025 00:44:24.320] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3083 Y: 150 Z: 3141
+[15Jan2025 00:44:24.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was shot by El_Vertex_mc
+[15Jan2025 00:44:24.331] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 00:45:25.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xonsret> {"pools":[{"rolls":{"min":1,"max":3},"bonus_rolls":{"min":0,"max":2.8},"entries":[{"type":"item","name":"minecraft:emerald","weight":7,"functions":[{"function":"set_count","count":{"min":1,"max":3}}]}]}]}
+[15Jan2025 00:47:45.419] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret lost connection: Disconnected
+[15Jan2025 00:47:45.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret left the game
+[15Jan2025 00:48:26.887] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 88c523b4-cc6b-4431-82eb-00379f70a186
+[15Jan2025 00:48:26.888] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3084 Y: 164 Z: 3138
+[15Jan2025 00:48:26.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was doomed to fall by El_Vertex_mc
+[15Jan2025 00:48:26.897] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 00:52:11.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has reached the goal [Discreet Search]

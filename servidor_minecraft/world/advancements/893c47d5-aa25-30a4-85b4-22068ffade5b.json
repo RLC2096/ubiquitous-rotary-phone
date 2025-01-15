@@ -830,6 +830,7 @@
       "minecraft:vindicator": "2025-01-13 22:46:36 +0000",
       "minecraft:spider": "2024-12-27 00:42:41 +0000",
       "minecraft:creeper": "2024-12-27 00:40:54 +0000",
+      "minecraft:phantom": "2025-01-15 00:47:14 +0000",
       "minecraft:witch": "2025-01-13 22:55:27 +0000",
       "minecraft:wither_skeleton": "2025-01-14 21:17:16 +0000",
       "minecraft:enderman": "2025-01-14 21:08:39 +0000",
@@ -2133,6 +2134,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-27 01:03:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-01-15 00:41:03 +0000"
     },
     "done": true
   },
