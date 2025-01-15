@@ -196,3 +196,25 @@
 [15Jan2025 01:52:12.477] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1763 Y: 78 Z: 1867
 [15Jan2025 01:52:12.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was doomed to fall by Xonsret
 [15Jan2025 01:52:12.478] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 01:54:14.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:54:25.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:55:49.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:56:00.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:56:15.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:57:21.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:59:58.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 3 entities to Moreauler]
+[15Jan2025 02:00:38.648] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID 21776ba7-629e-40e1-babb-bdb15e847252
+[15Jan2025 02:00:38.648] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1808 Y: 84 Z: 1846
+[15Jan2025 02:00:38.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was slain by Xonsret
+[15Jan2025 02:00:38.650] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 02:00:56.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has completed the challenge [Village Defender]
+[15Jan2025 02:00:59.648] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID c337cb2d-431b-4650-adaf-349a29698793
+[15Jan2025 02:00:59.649] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1810 Y: 80 Z: 1839
+[15Jan2025 02:00:59.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by El_Vertex_mc
+[15Jan2025 02:00:59.650] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 02:01:31.199] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID e3f73153-f78e-4820-a3a8-6ae59e70ed51
+[15Jan2025 02:01:31.199] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1815 Y: 80 Z: 1835
+[15Jan2025 02:01:31.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has reached the goal [Chain Death]
+[15Jan2025 02:01:31.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by El_Vertex_mc
+[15Jan2025 02:01:31.202] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 02:01:40.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied effect Bad Omen to Xonsret]
