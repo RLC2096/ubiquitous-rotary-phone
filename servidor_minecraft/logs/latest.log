@@ -447,3 +447,64 @@ java.lang.NullPointerException: null
 [15Jan2025 23:09:47.662] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 moved too quickly! -4.594512277783451,-0.07544406518948676,9.127686027423806
 [15Jan2025 23:09:48.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 4 entities to El_Vertex_mc]
 [15Jan2025 23:10:44.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 4 entities to El_Vertex_mc]
+[15Jan2025 23:12:23.909] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID 9b57ab76-f2d1-4897-a300-a6cbe06181fd
+[15Jan2025 23:12:23.914] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3870 Y: 59 Z: 2779
+[15Jan2025 23:12:23.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc drowned whilst trying to escape GamerJ2002
+[15Jan2025 23:12:23.917] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 23:13:17.352] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[15Jan2025 23:13:17.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[15Jan2025 23:13:19.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret] soy gei
+[15Jan2025 23:13:50.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Summoned new Capuchin Monkey]
+[15Jan2025 23:14:22.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Summoned new Ender Dragon]
+[15Jan2025 23:14:33.385] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Xonsret with unique ID 4e7cb058-c2d7-42b0-a781-0f2fd1500468
+[15Jan2025 23:14:33.385] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3867 Y: 55 Z: 2780
+[15Jan2025 23:14:33.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret fell out of the world
+[15Jan2025 23:14:33.394] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID 335c9579-2350-4168-8a8a-26ea89d3aac6
+[15Jan2025 23:14:33.394] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3869 Y: 60 Z: 2778
+[15Jan2025 23:14:33.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler fell out of the world
+[15Jan2025 23:14:33.402] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID eecbfdde-f6ba-4bbc-a874-4d0dc2aa7100
+[15Jan2025 23:14:33.403] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3868 Y: 42 Z: 2783
+[15Jan2025 23:14:33.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 didn't want to live in the same world as Ender Dragon
+[15Jan2025 23:14:33.417] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/70492, l='ServerLevel[world]', x=3924.50, y=67.00, z=2764.50] died, message: 'Weaponsmith fell out of the world'
+[15Jan2025 23:14:33.418] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/70494, l='ServerLevel[world]', x=3942.50, y=64.00, z=2791.50] died, message: 'Nitwit fell out of the world'
+[15Jan2025 23:14:33.419] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cartographer'/70533, l='ServerLevel[world]', x=3946.50, y=64.00, z=2791.50] died, message: 'Cartographer fell out of the world'
+[15Jan2025 23:14:33.420] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/70572, l='ServerLevel[world]', x=3944.50, y=66.25, z=2791.70] died, message: 'Weaponsmith fell out of the world'
+[15Jan2025 23:14:33.420] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/70573, l='ServerLevel[world]', x=3925.45, y=67.56, z=2763.58] died, message: 'Fletcher fell out of the world'
+[15Jan2025 23:14:33.421] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/70721, l='ServerLevel[world]', x=3960.50, y=64.00, z=2781.50] died, message: 'Farmer fell out of the world'
+[15Jan2025 23:14:33.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Killed 345 entities]
+[15Jan2025 23:14:33.498] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[15Jan2025 23:14:33.498] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 23:14:33.498] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 23:14:53.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the time to 1000]
+[15Jan2025 23:15:22.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xonsret> X: 3869 Y: 60 Z: 2778
+[15Jan2025 23:15:24.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:15:44.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xonsret> X: 3868 Y: 42 Z: 2783
+[15Jan2025 23:16:17.923] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 8f5488ec-c467-4207-af37-756eb3ee6b8b
+[15Jan2025 23:16:17.924] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3859 Y: 43 Z: 2768
+[15Jan2025 23:16:17.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Xonsret
+[15Jan2025 23:16:17.935] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 23:16:30.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:17:08.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:17:13.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:17:20.763] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7c6ccfb9
+[15Jan2025 23:17:20.774] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:52067] logged in with entity id 73523 at (3870.0242608733556, 61.200000047683716, 2779.501886331301)
+[15Jan2025 23:17:20.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[15Jan2025 23:17:24.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to 4904.5, 68.0, 2568.5]
+[15Jan2025 23:17:48.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[15Jan2025 23:18:33.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to 4904.5, 66.0, 2568.5]
+[15Jan2025 23:18:35.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Spectator Mode]
+[15Jan2025 23:18:43.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Eye Spy]
+[15Jan2025 23:18:47.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:18:53.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 4 entities to Xonsret]
+[15Jan2025 23:18:53.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Eye Spy]
+[15Jan2025 23:18:54.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Eye Spy]
+[15Jan2025 23:18:54.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Eye Spy]
+[15Jan2025 23:20:21.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [The End?]
+[15Jan2025 23:20:21.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [The End?]
+[15Jan2025 23:20:22.116] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc moved too quickly! -4817.555702623821,8.392604549951344,-2528.1096286197017
+[15Jan2025 23:20:23.444] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Scanning for legacy world dragon fight...
+[15Jan2025 23:20:23.455] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Found that the dragon has not yet been killed in this world.
+[15Jan2025 23:20:24.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [The End?]
+[15Jan2025 23:20:25.609] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved too quickly! -4817.0045054650545,8.392604549951344,-2528.3324367505115
+[15Jan2025 23:20:27.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[15Jan2025 23:20:31.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [The End?]

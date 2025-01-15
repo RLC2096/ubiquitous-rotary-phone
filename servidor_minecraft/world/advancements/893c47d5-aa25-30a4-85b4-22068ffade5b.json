@@ -593,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-15 23:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2024-12-26 23:25:25 +0000"
@@ -1650,6 +1656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-01-15 23:14:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-26 23:07:19 +0000"
@@ -1766,6 +1778,7 @@
       "minecraft:taiga": "2024-12-26 23:06:27 +0000",
       "minecraft:snowy_tundra": "2025-01-15 23:08:19 +0000",
       "minecraft:taiga_hills": "2024-12-26 23:13:50 +0000",
+      "minecraft:frozen_river": "2025-01-15 23:10:12 +0000",
       "minecraft:bamboo_jungle": "2025-01-13 22:31:18 +0000",
       "minecraft:river": "2024-12-26 23:06:21 +0000",
       "minecraft:snowy_taiga": "2024-12-27 00:58:11 +0000",
@@ -2936,6 +2949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-15 23:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 23:09:35 +0000"
@@ -3212,6 +3231,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/warped_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-15 23:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 01:46:03 +0000"
@@ -3428,6 +3453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-01-15 23:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-26 23:18:32 +0000"
@@ -3482,6 +3513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-15 23:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-26 23:27:20 +0000"
@@ -3497,6 +3534,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-27 01:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-15 23:14:25 +0000"
     },
     "done": true
   },
@@ -3701,6 +3744,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-26 23:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2025-01-15 23:14:25 +0000"
     },
     "done": true
   },
@@ -4154,6 +4203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-01-15 23:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-26 23:06:52 +0000"
@@ -4247,6 +4302,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2025-01-13 00:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-01-15 23:14:25 +0000"
     },
     "done": true
   },
