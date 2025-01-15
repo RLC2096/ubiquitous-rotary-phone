@@ -92,3 +92,16 @@
 [15Jan2025 01:00:57.931] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xonsret[/10.147.19.75:58528] logged in with entity id 74790 at (1767.8765386632947, 78.0, 1886.684279332611)
 [15Jan2025 01:00:57.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret joined the game
 [15Jan2025 01:01:31.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GamerJ2002> Xonsret entre a call idiota
+[15Jan2025 01:02:57.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:03:22.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:03:44.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Sharpness V to Xonsret's item]
+[15Jan2025 01:08:34.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[15Jan2025 01:08:51.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[15Jan2025 01:09:17.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported GamerJ2002 to Xonsret]
+[15Jan2025 01:10:01.662] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID e981e420-431d-41bc-888a-ee188573f93d
+[15Jan2025 01:10:01.663] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3715 Y: 56 Z: 3352
+[15Jan2025 01:10:01.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Ferrous Wroughtnaut
+[15Jan2025 01:10:01.696] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 01:10:57.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:11:17.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:11:46.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has completed the challenge [Free Willy]
