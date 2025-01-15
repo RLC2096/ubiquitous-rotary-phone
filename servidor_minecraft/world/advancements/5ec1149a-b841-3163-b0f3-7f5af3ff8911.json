@@ -3716,6 +3716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-15 22:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/redstone_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-15 01:07:07 +0000"
@@ -4556,6 +4562,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-01-14 02:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-15 22:10:38 +0000"
     },
     "done": true
   },
