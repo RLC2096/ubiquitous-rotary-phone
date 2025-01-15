@@ -180,3 +180,24 @@ java.lang.NullPointerException: null
 [15Jan2025 20:46:07.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [15Jan2025 20:47:26.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [15Jan2025 20:47:42.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 20:50:12.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 20:50:17.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 20:53:34.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Ol' Betsy]
+[15Jan2025 20:54:58.917] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 222cf335-7d1a-426d-a715-daf68fce16d3
+[15Jan2025 20:54:58.918] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1759 Y: 104 Z: 1876
+[15Jan2025 20:54:58.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Xonsret
+[15Jan2025 20:54:58.977] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 20:55:05.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 20:55:08.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 20:55:11.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 20:55:13.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 20:55:23.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 20:55:29.362] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 52be2562-87f3-4254-8a02-712998471267
+[15Jan2025 20:55:29.362] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1766 Y: 78 Z: 1892
+[15Jan2025 20:55:29.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has reached the goal [Chain Death]
+[15Jan2025 20:55:29.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 fell from a high place
+[15Jan2025 20:55:29.381] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 20:55:36.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 20:56:01.727] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@333af147
+[15Jan2025 20:56:01.745] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:50091] logged in with entity id 6445 at (2921.6831322941875, 72.0, 3298.000270120985)
+[15Jan2025 20:56:01.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
