@@ -4545,3 +4545,42 @@ java.lang.NullPointerException: null
 [15Jan2025 22:39:27.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [This Boat Has Legs]
 [15Jan2025 22:39:59.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Straddle My Ol' Saddle]
 [15Jan2025 22:40:13.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has completed the challenge [Hot Tourist Destinations]
+[15Jan2025 22:41:11.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Fetch Me Their Souls!]
+[15Jan2025 22:41:44.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to 1228.5, 49.0, -3.5]
+[15Jan2025 22:41:52.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 22:42:04.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 22:42:11.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 4 entities to Xonsret]
+[15Jan2025 22:42:11.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has completed the challenge [Hot Tourist Destinations]
+[15Jan2025 22:42:12.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has completed the challenge [Hot Tourist Destinations]
+[15Jan2025 22:42:12.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has completed the challenge [Hot Tourist Destinations]
+[15Jan2025 22:42:54.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to GamerJ2002]
+[15Jan2025 22:43:36.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 22:43:43.253] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 22:43:43.258] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 22:43:57.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 22:44:33.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 4 entities to El_Vertex_mc]
+[15Jan2025 22:45:53.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Enderman
+[15Jan2025 22:45:53.002] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1466, y:44, z:-68, dim:minecraft:the_nether]
+[15Jan2025 22:45:53.004] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 22:46:44.658] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 0d3b1dd1-a7ba-49a0-98cf-760306fe6a43
+[15Jan2025 22:46:44.676] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1437 Y: 43 Z: -71
+[15Jan2025 22:46:44.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Enderman
+[15Jan2025 22:46:44.687] [Server thread/DEBUG] [tombstone/]: A new grave of the player GamerJ2002 was created at position [x:1438, y:43, z:-71, dim:minecraft:the_nether]
+[15Jan2025 22:46:44.690] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[15Jan2025 22:46:58.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Straddle My Ol' Saddle]
+[15Jan2025 22:47:23.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Enderman
+[15Jan2025 22:47:23.256] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1452, y:43, z:-51, dim:minecraft:the_nether]
+[15Jan2025 22:47:23.275] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 22:48:20.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 22:48:25.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 22:48:40.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Enderman
+[15Jan2025 22:48:40.100] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1442, y:43, z:-54, dim:minecraft:the_nether]
+[15Jan2025 22:48:40.114] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 22:48:43.149] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 22:48:43.156] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 22:48:55.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Ender Pearl] to Moreauler]
+[15Jan2025 22:49:47.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 22:49:58.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 22:50:19.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Enderman
+[15Jan2025 22:50:19.113] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1453, y:43, z:-60, dim:minecraft:the_nether]
+[15Jan2025 22:50:19.117] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved

@@ -1144,9 +1144,10 @@
       "minecraft:crimson_forest": "2024-12-27 00:56:38 +0000",
       "minecraft:nether_wastes": "2024-12-27 01:03:25 +0000",
       "minecraft:soul_sand_valley": "2024-12-27 01:03:22 +0000",
-      "minecraft:basalt_deltas": "2025-01-14 02:43:50 +0000"
+      "minecraft:basalt_deltas": "2025-01-14 02:43:50 +0000",
+      "minecraft:warped_forest": "2025-01-15 22:42:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
@@ -1784,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-15 22:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 23:06:46 +0000"
@@ -1979,6 +1986,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/warped_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-15 22:43:45 +0000"
     },
     "done": true
   },
@@ -2588,6 +2601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-01-15 22:43:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_remover": {
     "criteria": {
       "has_iron": "2024-12-26 23:07:32 +0000"
@@ -2981,6 +3000,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2025-01-14 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-15 22:43:45 +0000"
     },
     "done": true
   },
@@ -3567,6 +3592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-01-15 22:43:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_ingredient": "2024-12-26 23:20:05 +0000"
@@ -3588,6 +3619,12 @@
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 23:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-01-15 22:43:45 +0000"
     },
     "done": true
   },
@@ -4151,6 +4188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-15 22:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-27 00:41:03 +0000"
@@ -4643,6 +4686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-01-15 22:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-26 23:06:56 +0000"
@@ -4679,9 +4728,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-15 22:43:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 23:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-15 22:43:45 +0000"
     },
     "done": true
   },
@@ -4820,6 +4881,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-26 23:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2025-01-15 22:43:44 +0000"
     },
     "done": true
   },
@@ -5129,6 +5196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-15 22:43:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/netherite_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-01-15 01:05:47 +0000"
@@ -5156,6 +5229,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-13 22:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-01-15 22:43:45 +0000"
     },
     "done": true
   },

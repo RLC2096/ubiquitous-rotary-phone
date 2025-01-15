@@ -791,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-15 22:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-01-13 23:00:51 +0000"
@@ -1977,9 +1983,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-27 00:53:50 +0000",
       "minecraft:nether_wastes": "2025-01-13 00:20:54 +0000",
-      "minecraft:soul_sand_valley": "2025-01-13 00:20:52 +0000"
+      "minecraft:soul_sand_valley": "2025-01-13 00:20:52 +0000",
+      "minecraft:warped_forest": "2025-01-15 22:42:11 +0000",
+      "minecraft:basalt_deltas": "2025-01-15 22:39:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
@@ -2176,6 +2184,12 @@
   "securitycraft:recipes/securitycraft/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-01-14 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-01-15 22:39:27 +0000"
     },
     "done": true
   },
@@ -2933,6 +2947,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-01-15 22:41:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-26 23:06:55 +0000"
@@ -3353,6 +3373,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-01-15 22:39:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-27 01:46:03 +0000"
@@ -3725,6 +3751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-15 22:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-26 23:06:54 +0000"
@@ -4076,6 +4108,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-01-14 00:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-15 22:43:12 +0000"
     },
     "done": true
   },

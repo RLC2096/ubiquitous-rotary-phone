@@ -728,6 +728,7 @@
       "minecraft:spider": "2025-01-14 21:25:59 +0000",
       "minecraft:creeper": "2025-01-14 22:59:12 +0000",
       "minecraft:zombified_piglin": "2025-01-14 22:48:55 +0000",
+      "minecraft:enderman": "2025-01-15 22:45:20 +0000",
       "minecraft:zombie": "2025-01-14 22:33:08 +0000"
     },
     "done": false
@@ -1380,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-01-15 22:45:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-14 21:34:32 +0000"
@@ -1678,9 +1685,10 @@
       "minecraft:crimson_forest": "2025-01-15 22:18:24 +0000",
       "minecraft:nether_wastes": "2025-01-14 22:48:13 +0000",
       "minecraft:soul_sand_valley": "2025-01-15 22:37:46 +0000",
-      "minecraft:basalt_deltas": "2025-01-14 22:46:14 +0000"
+      "minecraft:basalt_deltas": "2025-01-14 22:46:14 +0000",
+      "minecraft:warped_forest": "2025-01-15 22:42:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
@@ -2167,6 +2175,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-15 22:45:49 +0000"
     },
     "done": true
   },
@@ -2869,6 +2883,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv1": {
     "criteria": {
       "has_iron": "2025-01-14 21:08:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-15 22:46:58 +0000"
     },
     "done": true
   },
