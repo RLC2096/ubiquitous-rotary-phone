@@ -6188,3 +6188,38 @@ java.lang.NullPointerException: null
 [15Jan2025 01:29:26.101] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [15Jan2025 01:30:06.262] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/89918, l='ServerLevel[world]', x=3113.30, y=63.00, z=3629.70] died, message: 'Villager was slain by Decaying Zombie'
 [15Jan2025 01:31:53.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has reached the goal [Die Classy]
+[15Jan2025 01:33:31.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Back to childhood]
+[15Jan2025 01:33:31.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Not even afraid of death]
+[15Jan2025 01:34:26.066] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 01:34:26.071] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 01:36:29.266] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID dd11ed53-e1c4-4a76-99f9-9a3b0f135546
+[15Jan2025 01:36:29.266] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1796 Y: 78 Z: 1910
+[15Jan2025 01:36:29.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Xonsret
+[15Jan2025 01:36:29.267] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1795, y:78, z:1910, dim:minecraft:overworld]
+[15Jan2025 01:36:29.269] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 01:36:44.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:37:02.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to Xonsret]
+[15Jan2025 01:37:05.784] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID 1c7c8ec1-1999-40a3-acd7-b990640b5894
+[15Jan2025 01:37:05.784] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1773 Y: 78 Z: 1898
+[15Jan2025 01:37:05.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc fell from a high place
+[15Jan2025 01:37:05.785] [Server thread/DEBUG] [tombstone/]: A new grave of the player El_Vertex_mc was created at position [x:1772, y:78, z:1898, dim:minecraft:overworld]
+[15Jan2025 01:37:05.786] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 01:37:08.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:37:10.253] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Xonsret with unique ID e8d8a22e-d6ef-4737-ac13-acbd900f4f90
+[15Jan2025 01:37:10.254] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1776 Y: 78 Z: 1898
+[15Jan2025 01:37:10.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret fell from a high place
+[15Jan2025 01:37:10.255] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xonsret was created at position [x:1776, y:78, z:1897, dim:minecraft:overworld]
+[15Jan2025 01:37:10.255] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[15Jan2025 01:37:48.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to Xonsret]
+[15Jan2025 01:38:56.272] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID 93ae0f5f-d644-49de-aa74-d818bd2e99f5
+[15Jan2025 01:38:56.272] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1686 Y: 60 Z: 1871
+[15Jan2025 01:38:56.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc drowned
+[15Jan2025 01:38:56.273] [Server thread/DEBUG] [tombstone/]: A new grave of the player El_Vertex_mc was created at position [x:1685, y:61, z:1869, dim:minecraft:overworld]
+[15Jan2025 01:38:56.273] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 01:39:25.577] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 01:39:25.581] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 01:39:49.379] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID 0375a1f3-371a-46e2-b737-db60f58dad01
+[15Jan2025 01:39:49.380] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1719 Y: 82 Z: 1877
+[15Jan2025 01:39:49.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by El_Vertex_mc
+[15Jan2025 01:39:49.381] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1717, y:81, z:1874, dim:minecraft:overworld]
+[15Jan2025 01:39:49.381] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
