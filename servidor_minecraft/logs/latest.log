@@ -3,3 +3,21 @@
 [15Jan2025 00:00:37.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
 [15Jan2025 00:00:43.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
 [15Jan2025 00:00:49.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to Xonsret]
+[15Jan2025 00:01:29.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[15Jan2025 00:02:36.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [What a Deal!]
+[15Jan2025 00:02:53.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 00:03:02.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 00:03:19.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 00:03:51.517] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@565f0e93
+[15Jan2025 00:03:51.526] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:63941] logged in with entity id 43593 at (1215.1256049361607, 71.5625, 1693.8260122259148)
+[15Jan2025 00:03:51.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
+[15Jan2025 00:04:12.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 00:05:07.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 00:05:13.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [A Seedy Place]
+[15Jan2025 00:05:20.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 00:06:21.781] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret lost connection: Disconnected
+[15Jan2025 00:06:21.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret left the game
+[15Jan2025 00:06:30.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Local Brewery]
+[15Jan2025 00:10:41.721] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[15Jan2025 00:11:04.428] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[15Jan2025 00:11:04.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game

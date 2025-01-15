@@ -619,6 +619,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-15 00:06:30 +0000",
       "minecraft:skeleton": "2025-01-14 23:07:10 +0000",
       "minecraft:spider": "2025-01-14 21:25:59 +0000",
       "minecraft:creeper": "2025-01-14 22:59:12 +0000",
@@ -786,6 +787,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-14 21:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-15 00:02:47 +0000"
     },
     "done": true
   },
@@ -1261,6 +1268,7 @@
       "minecraft:taiga_hills": "2025-01-14 21:10:42 +0000",
       "minecraft:frozen_river": "2025-01-14 23:05:10 +0000",
       "minecraft:river": "2025-01-14 21:01:03 +0000",
+      "minecraft:snowy_taiga": "2025-01-15 00:01:30 +0000",
       "minecraft:wooded_mountains": "2025-01-14 23:05:55 +0000",
       "minecraft:wooded_hills": "2025-01-14 23:38:26 +0000",
       "minecraft:plains": "2025-01-14 21:00:01 +0000"
@@ -2198,6 +2206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-15 00:02:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-14 21:17:15 +0000"
@@ -2228,9 +2242,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-15 00:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-01-14 21:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-15 00:02:47 +0000"
     },
     "done": true
   },
@@ -2681,6 +2707,12 @@
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2025-01-14 21:04:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-01-15 00:01:30 +0000"
     },
     "done": true
   },
