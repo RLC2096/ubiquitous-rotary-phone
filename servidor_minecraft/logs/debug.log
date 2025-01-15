@@ -6223,3 +6223,20 @@ java.lang.NullPointerException: null
 [15Jan2025 01:39:49.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by El_Vertex_mc
 [15Jan2025 01:39:49.381] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1717, y:81, z:1874, dim:minecraft:overworld]
 [15Jan2025 01:39:49.381] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 01:44:15.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:44:25.770] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 01:44:25.774] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 01:45:14.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:47:42.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:48:33.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:48:44.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:48:50.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:49:02.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 01:49:25.688] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 01:49:25.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 01:49:52.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 01:52:12.476] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID 0536ea32-3940-4406-89e8-1ee3683d77d3
+[15Jan2025 01:52:12.477] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1763 Y: 78 Z: 1867
+[15Jan2025 01:52:12.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was doomed to fall by Xonsret
+[15Jan2025 01:52:12.478] [Server thread/DEBUG] [tombstone/]: A new grave of the player El_Vertex_mc was created at position [x:1762, y:78, z:1867, dim:minecraft:overworld]
+[15Jan2025 01:52:12.478] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
