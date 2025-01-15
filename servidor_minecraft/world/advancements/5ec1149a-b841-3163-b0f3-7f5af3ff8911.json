@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-15 23:43:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-26 23:10:00 +0000"
@@ -4066,6 +4072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-01-15 23:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/fox_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-01-15 01:05:47 +0000"
@@ -4366,6 +4378,12 @@
   "create:recipes/create.palettes/overgrown_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-13 01:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-15 23:43:00 +0000"
     },
     "done": true
   },
@@ -4678,6 +4696,12 @@
   "minecraft:recipes/travelersbackpack/snow_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-01-15 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-15 23:42:59 +0000"
     },
     "done": true
   },
