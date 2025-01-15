@@ -4584,3 +4584,19 @@ java.lang.NullPointerException: null
 [15Jan2025 22:50:19.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Enderman
 [15Jan2025 22:50:19.113] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:1453, y:43, z:-60, dim:minecraft:the_nether]
 [15Jan2025 22:50:19.117] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 22:51:40.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[15Jan2025 22:52:54.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gamerule doFireTick is now set to: false]
+[15Jan2025 22:53:43.056] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 22:53:43.061] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 22:54:12.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[15Jan2025 22:54:27.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported GamerJ2002 to Xonsret]
+[15Jan2025 22:55:11.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler drowned
+[15Jan2025 22:55:11.804] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:2902, y:84, z:3300, dim:minecraft:overworld]
+[15Jan2025 22:55:11.804] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[15Jan2025 22:58:29.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 22:58:40.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 22:58:42.996] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 22:58:43.001] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 22:59:33.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:00:09.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has completed the challenge [Return to Sender]
+[15Jan2025 23:00:30.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Removed effect Fire Resistance from 4 targets]
