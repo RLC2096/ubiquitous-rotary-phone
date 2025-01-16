@@ -1002,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 21:15:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-13 22:50:12 +0000"
@@ -2650,6 +2656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 21:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 23:24:58 +0000"
@@ -2707,6 +2719,12 @@
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2024-12-26 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 21:15:35 +0000"
     },
     "done": true
   },
@@ -3843,6 +3861,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_stairs": {
     "criteria": {
       "has_block": "2025-01-15 21:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 21:15:35 +0000"
     },
     "done": true
   },
@@ -4984,6 +5008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 21:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/chicken_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-16 20:56:33 +0000"
@@ -5065,6 +5095,12 @@
   "minecraft:recipes/travelersbackpack/netherite_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-16 20:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 21:15:35 +0000"
     },
     "done": true
   },

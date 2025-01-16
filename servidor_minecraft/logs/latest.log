@@ -325,3 +325,21 @@ java.lang.NullPointerException: null
 [16Jan2025 21:05:45.843] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1560 Y: 60 Z: -611
 [16Jan2025 21:05:45.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was doomed to fall by Mimicube
 [16Jan2025 21:05:45.854] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[16Jan2025 21:12:59.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 21:13:11.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 21:14:00.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[16Jan2025 21:15:21.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has reached the goal [Sky's the Limit]
+[16Jan2025 21:16:02.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to Moreauler]
+[16Jan2025 21:16:15.780] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved too quickly! -0.006315871902188519,-10.408991223757695,0.0
+[16Jan2025 21:16:26.997] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved wrongly!
+[16Jan2025 21:18:14.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret was doomed to fall by Mimicube
+[16Jan2025 21:18:14.911] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[16Jan2025 21:18:28.104] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 moved too quickly! 7.792617211278753,1.9564643798524912,-6.458513650552732
+[16Jan2025 21:18:28.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[16Jan2025 21:18:34.263] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 moved too quickly! 9.829280437575449,0.0,-2.5166078172771904
+[16Jan2025 21:18:39.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 21:18:45.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 21:21:24.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 21:21:33.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 21:22:08.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 21:22:14.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]

@@ -2049,6 +2049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_magenta_dye": "2025-01-16 21:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/light_gray_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-26 23:36:56 +0000"
@@ -3428,6 +3434,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-01-15 23:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-01-16 21:20:46 +0000"
     },
     "done": true
   },
