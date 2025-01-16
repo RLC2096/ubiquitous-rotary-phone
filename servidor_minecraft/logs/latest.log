@@ -572,3 +572,17 @@ Reason: Por Negro indigena
 [16Jan2025 23:01:00.623] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/87087, l='ServerLevel[world]', x=2909.87, y=85.00, z=3278.65] died, message: 'Librarian burned to death'
 [16Jan2025 23:02:15.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [16Jan2025 23:03:23.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 23:08:52.382] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler lost connection: Disconnected
+[16Jan2025 23:08:52.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler left the game
+[16Jan2025 23:12:19.716] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 83436892-844b-4b9c-9712-c09b1a27392f
+[16Jan2025 23:12:19.717] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 148 Y: 68 Z: 254
+[16Jan2025 23:12:19.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 fell from a high place
+[16Jan2025 23:12:19.718] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[16Jan2025 23:12:46.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Changed title display times for 3 players]
+[16Jan2025 23:12:59.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Showing new subtitle for 3 players]
+[16Jan2025 23:13:08.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Showing new title for 3 players]
+[16Jan2025 23:14:53.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Changed title display times for 3 players]
+[16Jan2025 23:15:00.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Showing new subtitle for 3 players]
+[16Jan2025 23:15:06.588] [Server thread/WARN] [net.minecraft.util.text.SelectorTextComponent/]: Invalid selector component: ♻
+[16Jan2025 23:15:06.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Showing new title for 3 players]
+[16Jan2025 23:15:29.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to GamerJ2002]
