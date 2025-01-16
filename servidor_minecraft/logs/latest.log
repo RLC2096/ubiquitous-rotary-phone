@@ -248,3 +248,30 @@ java.lang.NullPointerException: null
 [16Jan2025 20:30:34.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Nightmare Stalker
 [16Jan2025 20:30:34.347] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
 [16Jan2025 20:30:57.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Remote Getaway]
+[16Jan2025 20:33:05.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Ender Distancing]
+[16Jan2025 20:33:07.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Capsid-19]
+[16Jan2025 20:33:36.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Capsid-19]
+[16Jan2025 20:36:31.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [The City at the End of the Game]
+[16Jan2025 20:36:41.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [The City at the End of the Game]
+[16Jan2025 20:36:56.575] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 8fca93e1-d0b6-401a-a101-addba98f805a
+[16Jan2025 20:36:56.575] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -933 Y: 69 Z: -514
+[16Jan2025 20:36:56.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Mimicube using [mazito]
+[16Jan2025 20:36:56.588] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[16Jan2025 20:37:39.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has completed the challenge [Great View From Up Here]
+[16Jan2025 20:37:54.223] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[16Jan2025 20:37:54.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[16Jan2025 20:38:11.326] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 5c878173-51d1-4ab8-9859-8b251363025c
+[16Jan2025 20:38:11.326] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -933 Y: 69 Z: -514
+[16Jan2025 20:38:11.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Mimicube using [mazito]
+[16Jan2025 20:38:11.343] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[16Jan2025 20:38:11.560] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved too quickly! -4.3308834526580995,-10.0,6.852105498621029
+[16Jan2025 20:38:24.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [The City at the End of the Game]
+[16Jan2025 20:39:24.583] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5dc9aacb
+[16Jan2025 20:39:24.592] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:62212] logged in with entity id 19048 at (-993.4053693947457, 19.937704506467448, -554.2745690806248)
+[16Jan2025 20:39:24.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[16Jan2025 20:39:25.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set El_Vertex_mc's game mode to Spectator Mode]
+[16Jan2025 20:39:55.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set El_Vertex_mc's game mode to Survival Mode]
+[16Jan2025 20:39:58.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has reached the goal [Sky's the Limit]
+[16Jan2025 20:40:42.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Local Brewery]
+[16Jan2025 20:40:53.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[16Jan2025 20:41:12.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has reached the goal [Sky's the Limit]

@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-16 20:32:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-15 21:40:22 +0000"
@@ -2092,6 +2098,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-16 20:29:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-01-14 22:16:22 +0000"
@@ -2497,6 +2509,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-01-14 23:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-16 20:41:12 +0000"
     },
     "done": true
   },
@@ -3764,6 +3782,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2024-12-26 23:12:49 +0000",
+      "chorus_fruit": "2025-01-16 20:38:11 +0000",
       "bread": "2024-12-26 23:11:53 +0000",
       "golden_carrot": "2025-01-14 23:06:20 +0000",
       "cooked_salmon": "2024-12-26 23:42:34 +0000"
