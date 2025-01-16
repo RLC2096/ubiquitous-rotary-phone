@@ -586,3 +586,21 @@ Reason: Por Negro indigena
 [16Jan2025 23:15:06.588] [Server thread/WARN] [net.minecraft.util.text.SelectorTextComponent/]: Invalid selector component: ♻
 [16Jan2025 23:15:06.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Showing new title for 3 players]
 [16Jan2025 23:15:29.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to GamerJ2002]
+[16Jan2025 23:15:51.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 23:17:29.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Changed title display times for 3 players]
+[16Jan2025 23:17:36.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Showing new subtitle for 3 players]
+[16Jan2025 23:17:42.124] [Server thread/WARN] [net.minecraft.util.text.SelectorTextComponent/]: Invalid selector component: ♻Ya no soy gey
+[16Jan2025 23:17:42.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Showing new title for 3 players]
+[16Jan2025 23:19:05.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Changed title display times for 3 players]
+[16Jan2025 23:19:11.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Showing new subtitle for 3 players]
+[16Jan2025 23:19:17.364] [Server thread/WARN] [net.minecraft.util.text.SelectorTextComponent/]: Invalid selector component: ♻Ya no soy gey☯
+[16Jan2025 23:19:17.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Showing new title for 3 players]
+[16Jan2025 23:21:20.031] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 60cc3800-d138-4bbe-a06f-fd4134248a80
+[16Jan2025 23:21:20.031] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 39 Y: 61 Z: 15
+[16Jan2025 23:21:20.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Nightmare Stalker
+[16Jan2025 23:21:20.043] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[16Jan2025 23:21:21.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityIceBreath['entity.mowziesmobs.ice_breath'/101573, l='ServerLevel[world]', x=35.58, y=62.12, z=17.62]
+[16Jan2025 23:22:40.476] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[16Jan2025 23:22:40.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[16Jan2025 23:25:53.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set GamerJ2002's game mode to Creative Mode]
+[16Jan2025 23:25:57.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set GamerJ2002's game mode to Survival Mode]
