@@ -5062,3 +5062,20 @@ java.lang.NullPointerException: null
 [15Jan2025 23:51:57.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Spectator Mode]
 [15Jan2025 23:51:59.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [15Jan2025 23:52:54.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:53:48.751] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 23:53:48.756] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 23:55:09.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:55:17.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[15Jan2025 23:56:53.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[15Jan2025 23:57:12.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Moreauler to El_Vertex_mc]
+[15Jan2025 23:57:26.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has completed the challenge [Cover Me in Debris]
+[15Jan2025 23:58:48.951] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Jan2025 23:58:48.956] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Jan2025 23:59:14.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has completed the challenge [Serious Dedication]
+[15Jan2025 23:59:26.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 00:01:51.261] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Xonsret with unique ID 952d1814-ba80-411d-9516-525b4462e119
+[16Jan2025 00:01:51.263] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 474 Y: 41 Z: 10
+[16Jan2025 00:01:51.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret tried to swim in lava
+[16Jan2025 00:01:51.265] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xonsret was created at position [x:479, y:41, z:0, dim:minecraft:the_nether]
+[16Jan2025 00:01:51.268] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[16Jan2025 00:02:59.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]

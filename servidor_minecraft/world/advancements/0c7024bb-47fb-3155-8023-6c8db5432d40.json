@@ -2764,6 +2764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-15 23:56:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-26 23:24:58 +0000"
@@ -4454,6 +4460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-15 23:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-12 01:15:55 +0000"
@@ -4625,6 +4637,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks": {
     "criteria": {
       "has_block": "2025-01-15 21:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-15 23:57:26 +0000"
     },
     "done": true
   },
