@@ -743,6 +743,12 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "1": "2025-01-16 21:44:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-01-15 01:36:36 +0000"
@@ -4334,6 +4340,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-13 01:31:08 +0000"
+    },
+    "done": true
+  },
+  "create:overstressed": {
+    "criteria": {
+      "0": "2025-01-16 21:44:58 +0000"
     },
     "done": true
   },
