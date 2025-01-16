@@ -3,3 +3,18 @@
 [16Jan2025 00:01:51.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret tried to swim in lava
 [16Jan2025 00:01:51.268] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
 [16Jan2025 00:02:59.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 00:03:14.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 00:03:19.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to Moreauler]
+[16Jan2025 00:04:46.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Efficiency V to Xonsret's item]
+[16Jan2025 00:09:12.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 00:09:38.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 00:09:51.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 00:09:52.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 00:09:57.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 00:09:58.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 00:12:21.097] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler lost connection: Disconnected
+[16Jan2025 00:12:21.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler left the game
+[16Jan2025 00:12:57.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret withered away whilst fighting El_Vertex_mc
+[16Jan2025 00:12:57.801] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[16Jan2025 00:13:16.547] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[16Jan2025 00:13:16.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
