@@ -4540,3 +4540,32 @@ java.lang.NullPointerException: null
 [16Jan2025 20:51:15.297] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [16Jan2025 20:51:15.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [16Jan2025 20:51:28.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:51:55.150] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved too quickly! -3.11802806668868,-15.0,-1.4084413184759796
+[16Jan2025 20:52:47.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:52:51.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:55:16.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to Xonsret]
+[16Jan2025 20:55:27.879] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID e85027de-c56b-4e4b-802a-2827b0f0071f
+[16Jan2025 20:55:27.879] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -924 Y: 60 Z: -515
+[16Jan2025 20:55:27.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was blown up by Phantom Creeper
+[16Jan2025 20:55:27.890] [Server thread/DEBUG] [tombstone/]: A new grave of the player GamerJ2002 was created at position [x:-927, y:60, z:-516, dim:minecraft:the_end]
+[16Jan2025 20:55:27.896] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID ad632636-4a61-477d-a702-b42f9196a64f
+[16Jan2025 20:55:27.897] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -930 Y: 60 Z: -509
+[16Jan2025 20:55:27.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was blown up by Phantom Creeper
+[16Jan2025 20:55:27.899] [Server thread/DEBUG] [tombstone/]: A new grave of the player Moreauler was created at position [x:-925, y:60, z:-515, dim:minecraft:the_end]
+[16Jan2025 20:55:27.911] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[16Jan2025 20:55:27.911] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[16Jan2025 20:56:08.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[16Jan2025 20:56:14.026] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved too quickly! 7.766041140263724,-32.0,-7.684382076596194
+[16Jan2025 20:56:15.323] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Jan2025 20:56:15.328] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 20:56:23.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[16Jan2025 20:57:13.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:57:26.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:59:37.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:59:43.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 21:00:03.606] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Moreauler) moved too quickly! -1051.1432879910926,12.0,-809.229053564975
+[16Jan2025 21:00:03.667] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Moreauler) moved too quickly! -1051.0995689285523,12.0,-809.29413200133
+[16Jan2025 21:00:03.707] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Moreauler) moved too quickly! -1051.0504559083497,12.0,-809.3659880985309
+[16Jan2025 21:00:03.751] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Moreauler) moved too quickly! -1050.997200187866,12.0,-809.4412597267367
+[16Jan2025 21:01:16.257] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Jan2025 21:01:16.262] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
