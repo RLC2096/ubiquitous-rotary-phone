@@ -4977,3 +4977,18 @@ java.lang.NullPointerException: null
 [16Jan2025 21:51:13.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [16Jan2025 21:51:21.854] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [16Jan2025 21:51:21.857] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 21:54:37.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 21:56:22.209] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Jan2025 21:56:22.213] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 21:57:00.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 21:57:41.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 21:59:50.986] [Worker-Main-5/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[16Jan2025 21:59:50.987] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md40418b$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[16Jan2025 21:59:50.987] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md40418b$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[16Jan2025 21:59:50.987] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md40418b$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[16Jan2025 22:00:21.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 22:00:24.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 22:01:22.614] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Jan2025 22:01:22.618] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 22:01:36.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Jennifer Dumped Me]
+[16Jan2025 22:02:43.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
