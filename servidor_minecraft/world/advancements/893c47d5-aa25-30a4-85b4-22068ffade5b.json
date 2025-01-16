@@ -2664,6 +2664,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2024-12-26 23:13:31 +0000",
+      "chorus_fruit": "2025-01-16 21:01:42 +0000",
       "baked_potato": "2025-01-14 00:48:37 +0000",
       "bread": "2024-12-26 23:09:49 +0000",
       "rotten_flesh": "2025-01-14 23:32:42 +0000",

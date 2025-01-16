@@ -4569,3 +4569,13 @@ java.lang.NullPointerException: null
 [16Jan2025 21:00:03.751] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Moreauler) moved too quickly! -1050.997200187866,12.0,-809.4412597267367
 [16Jan2025 21:01:16.257] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [16Jan2025 21:01:16.262] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 21:01:49.364] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 moved too quickly! -4.323320565908489,-14.0,-0.9224540494764142
+[16Jan2025 21:05:45.842] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 1ed45666-0f05-4aa5-a1a1-1d6514d2bca8
+[16Jan2025 21:05:45.843] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1560 Y: 60 Z: -611
+[16Jan2025 21:05:45.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was doomed to fall by Mimicube
+[16Jan2025 21:05:45.852] [Server thread/DEBUG] [tombstone/]: A new grave of the player GamerJ2002 was created at position [x:-1561, y:60, z:-612, dim:minecraft:the_end]
+[16Jan2025 21:05:45.854] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[16Jan2025 21:06:15.679] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Jan2025 21:06:15.684] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 21:11:15.736] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Jan2025 21:11:15.741] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
