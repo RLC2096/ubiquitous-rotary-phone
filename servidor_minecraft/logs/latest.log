@@ -486,3 +486,35 @@ Reason: Por Negro indigena
 [16Jan2025 22:20:37.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1000000000 experience points to Moreauler]
 [16Jan2025 22:22:07.793] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-272, y=66, z=2945} BlockPos{x=-272, y=58, z=2945}
 [16Jan2025 22:24:26.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 22:25:09.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 22:25:39.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 22:26:12.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 22:26:29.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[16Jan2025 22:26:40.243] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID b71a95d0-429c-4262-b43e-77de6876fc2b
+[16Jan2025 22:26:40.243] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -267 Y: 56 Z: 2947
+[16Jan2025 22:26:40.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc was slain by Xonsret
+[16Jan2025 22:26:40.245] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[16Jan2025 22:27:03.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 22:27:06.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 22:27:08.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret was slain by El_Vertex_mc
+[16Jan2025 22:27:08.141] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[16Jan2025 22:27:48.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 22:28:26.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 22:29:19.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 22:30:36.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
+[16Jan2025 22:30:59.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
+[16Jan2025 22:31:38.390] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1756, y=105, z=1933} BlockPos{x=1756, y=104, z=1932}
+[16Jan2025 22:31:38.450] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1756, y=105, z=1933} BlockPos{x=1756, y=104, z=1932}
+[16Jan2025 22:32:01.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
+[16Jan2025 22:32:06.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
+[16Jan2025 22:32:12.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
+[16Jan2025 22:32:26.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Mending to Xonsret's item]
+[16Jan2025 22:32:33.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Mending to Xonsret's item]
+[16Jan2025 22:32:56.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Mending to Xonsret's item]
+[16Jan2025 22:33:17.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
+[16Jan2025 22:33:32.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Mending to Xonsret's item]
+[16Jan2025 22:33:42.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Mending to Xonsret's item]
+[16Jan2025 22:33:52.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
+[16Jan2025 22:34:02.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Mending to Xonsret's item]
+[16Jan2025 22:34:31.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
+[16Jan2025 22:34:44.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Unbreaking III to Xonsret's item]
