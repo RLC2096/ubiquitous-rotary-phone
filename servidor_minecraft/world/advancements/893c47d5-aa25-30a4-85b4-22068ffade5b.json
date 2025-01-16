@@ -1884,6 +1884,7 @@
       "minecraft:taiga": "2024-12-26 23:06:27 +0000",
       "minecraft:snowy_tundra": "2025-01-15 23:08:19 +0000",
       "minecraft:taiga_hills": "2024-12-26 23:13:50 +0000",
+      "minecraft:desert": "2025-01-16 22:16:55 +0000",
       "minecraft:frozen_river": "2025-01-15 23:10:12 +0000",
       "minecraft:bamboo_jungle": "2025-01-13 22:31:18 +0000",
       "minecraft:river": "2024-12-26 23:06:21 +0000",
@@ -1891,6 +1892,7 @@
       "minecraft:wooded_mountains": "2025-01-13 01:58:01 +0000",
       "minecraft:wooded_hills": "2024-12-27 00:43:15 +0000",
       "minecraft:snowy_taiga_hills": "2025-01-13 00:48:11 +0000",
+      "minecraft:savanna": "2025-01-16 22:16:07 +0000",
       "minecraft:plains": "2024-12-26 23:05:20 +0000"
     },
     "done": false
@@ -4481,6 +4483,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-01-16 20:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 22:20:51 +0000"
     },
     "done": true
   },

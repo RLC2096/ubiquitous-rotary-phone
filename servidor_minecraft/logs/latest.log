@@ -474,3 +474,15 @@ java.lang.NullPointerException: null
 Reason: Por Negro indigena
 [16Jan2025 22:14:07.088] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1d16b37f[id=893c47d5-aa25-30a4-85b4-22068ffade5b,name=GamerJ2002,properties={},legacy=false] (/10.147.19.237:54776) lost connection: You are banned from this server.
 Reason: Por Negro indigena
+[16Jan2025 22:14:47.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 22:14:47.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EEunban GamerJ2002<--[HERE]
+[16Jan2025 22:15:02.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 22:15:02.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: un-ban GamerJ2002<--[HERE]
+[16Jan2025 22:15:49.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Unbanned GamerJ2002]
+[16Jan2025 22:16:07.037] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:54878] logged in with entity id 65944 at (-683.0219151444606, 60.0, -1442.1240516763726)
+[16Jan2025 22:16:07.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
+[16Jan2025 22:17:23.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported GamerJ2002 to El_Vertex_mc]
+[16Jan2025 22:19:20.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Protection IV to Moreauler's item]
+[16Jan2025 22:20:37.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1000000000 experience points to Moreauler]
+[16Jan2025 22:22:07.793] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-272, y=66, z=2945} BlockPos{x=-272, y=58, z=2945}
+[16Jan2025 22:24:26.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
