@@ -217,3 +217,34 @@ java.lang.NullPointerException: null
 [16Jan2025 20:20:10.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [16Jan2025 20:20:12.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [16Jan2025 20:20:25.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has completed the challenge [Serious Dedication]
+[16Jan2025 20:21:48.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:21:48.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:22:53.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Infinity to Xonsret's item]
+[16Jan2025 20:23:03.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Power V to Xonsret's item]
+[16Jan2025 20:23:09.191] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc moved too quickly! -4816.8474838703,8.464159374955443,-2528.689815355204
+[16Jan2025 20:23:14.088] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[16Jan2025 20:23:14.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[16Jan2025 20:23:34.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Flame to Xonsret's item]
+[16Jan2025 20:23:47.151] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@c74c45b
+[16Jan2025 20:23:47.163] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:62103] logged in with entity id 13290 at (101.13907259538028, 49.0, 0.5530829288504362)
+[16Jan2025 20:23:47.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[16Jan2025 20:25:37.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:26:12.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:28:46.023] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Moreauler with unique ID 75c13b03-7560-49e9-883d-222e7e44e960
+[16Jan2025 20:28:46.024] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -92 Y: 58 Z: -7
+[16Jan2025 20:28:46.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler was slain by Nightmare Stalker
+[16Jan2025 20:28:46.030] [Server thread/INFO] [tombstone/]: The player Moreauler has successfully been saved
+[16Jan2025 20:29:32.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:29:39.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:29:53.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Remote Getaway]
+[16Jan2025 20:29:56.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Remote Getaway]
+[16Jan2025 20:29:59.032] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 596f8362-a6ba-4c26-9cd1-873ca02fb381
+[16Jan2025 20:29:59.033] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -74 Y: 60 Z: 5
+[16Jan2025 20:29:59.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Nightmare Stalker
+[16Jan2025 20:29:59.047] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[16Jan2025 20:30:09.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler has made the advancement [Remote Getaway]
+[16Jan2025 20:30:34.326] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 0d42bb35-b185-4562-a5dd-36abaa6a2f69
+[16Jan2025 20:30:34.328] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -92 Y: 59 Z: -3
+[16Jan2025 20:30:34.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Nightmare Stalker
+[16Jan2025 20:30:34.347] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[16Jan2025 20:30:57.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Remote Getaway]
