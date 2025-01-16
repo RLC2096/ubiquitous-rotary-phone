@@ -929,6 +929,7 @@
       "minecraft:phantom": "2025-01-15 00:47:14 +0000",
       "minecraft:witch": "2025-01-13 22:55:27 +0000",
       "minecraft:wither_skeleton": "2025-01-14 21:17:16 +0000",
+      "minecraft:shulker": "2025-01-16 20:42:06 +0000",
       "minecraft:piglin": "2025-01-16 20:20:13 +0000",
       "minecraft:enderman": "2025-01-14 21:08:39 +0000",
       "minecraft:silverfish": "2025-01-15 23:19:07 +0000",
@@ -3969,6 +3970,12 @@
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2024-12-27 00:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-16 20:46:18 +0000"
     },
     "done": true
   },

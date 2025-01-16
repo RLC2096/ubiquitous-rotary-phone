@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-01-16 20:32:05 +0000"
@@ -332,6 +338,12 @@
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-01-14 21:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:49:10 +0000"
     },
     "done": true
   },
@@ -770,6 +782,7 @@
       "minecraft:spider": "2025-01-14 21:25:59 +0000",
       "minecraft:creeper": "2025-01-14 22:59:12 +0000",
       "minecraft:zombified_piglin": "2025-01-14 22:48:55 +0000",
+      "minecraft:shulker": "2025-01-16 20:41:45 +0000",
       "minecraft:enderman": "2025-01-15 22:45:20 +0000",
       "minecraft:zombie": "2025-01-14 22:33:08 +0000"
     },
@@ -1616,6 +1629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:49:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-14 23:26:11 +0000"
@@ -2013,6 +2032,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_stairs": {
     "criteria": {
       "has_block": "2025-01-15 21:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:49:10 +0000"
     },
     "done": true
   },
@@ -3729,6 +3754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-01-14 21:53:55 +0000"
@@ -3858,6 +3889,12 @@
   "create:recipes/create.base/smelting/copper_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-01-14 21:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:49:10 +0000"
     },
     "done": true
   },

@@ -1025,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:43:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-13 01:25:17 +0000"
@@ -2859,6 +2865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 23:07:32 +0000"
@@ -2946,6 +2958,12 @@
   "minecraft:recipes/travelersbackpack/redstone_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-01-15 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:43:52 +0000"
     },
     "done": true
   },
@@ -4115,6 +4133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-26 23:12:07 +0000"
@@ -5054,6 +5078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-16 20:41:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-14 02:47:59 +0000"
@@ -5318,6 +5348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/chicken_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-15 01:07:07 +0000"
@@ -5417,6 +5453,12 @@
   "minecraft:recipes/travelersbackpack/netherite_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-15 01:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-16 20:43:52 +0000"
     },
     "done": true
   },
