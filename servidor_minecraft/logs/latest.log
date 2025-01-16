@@ -196,3 +196,24 @@ java.lang.NullPointerException: null
 [16Jan2025 20:09:25.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Silk Touch to Xonsret's item]
 [16Jan2025 20:09:39.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Unbreaking III to Xonsret's item]
 [16Jan2025 20:09:55.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:10:45.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Successfully filled 1134 blocks]
+[16Jan2025 20:12:52.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:13:20.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Fortune III to Xonsret's item]
+[16Jan2025 20:13:51.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Mending to Xonsret's item]
+[16Jan2025 20:14:01.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Unbreaking III to Xonsret's item]
+[16Jan2025 20:18:16.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:18:21.539] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Moreauler lost connection: Disconnected
+[16Jan2025 20:18:21.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler left the game
+[16Jan2025 20:18:23.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:18:49.058] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Xonsret with unique ID 9d13eb77-b7c5-4225-bd79-50c2d7bd32d6
+[16Jan2025 20:18:49.059] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1748 Y: 79 Z: 1885
+[16Jan2025 20:18:49.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret was slain by El_Vertex_mc
+[16Jan2025 20:18:49.062] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[16Jan2025 20:18:58.090] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a960e9c
+[16Jan2025 20:18:58.099] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Moreauler[/10.147.19.91:58745] logged in with entity id 10186 at (54.69999998807907, 51.0, -78.37460271914995)
+[16Jan2025 20:18:58.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Moreauler joined the game
+[16Jan2025 20:19:06.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:19:29.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:20:10.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 20:20:12.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 20:20:25.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has completed the challenge [Serious Dedication]
