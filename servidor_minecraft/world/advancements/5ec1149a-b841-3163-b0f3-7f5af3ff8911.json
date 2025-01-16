@@ -767,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 22:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-13 22:38:25 +0000"
@@ -854,6 +860,12 @@
   "minecraft:recipes/travelersbackpack/wither_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-01-15 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-16 22:03:59 +0000"
     },
     "done": true
   },
@@ -3887,6 +3899,7 @@
       "minecraft:taiga_hills": "2024-12-27 00:29:13 +0000",
       "minecraft:frozen_river": "2024-12-26 23:48:55 +0000",
       "minecraft:jungle": "2025-01-16 22:00:24 +0000",
+      "minecraft:jungle_hills": "2025-01-16 22:01:23 +0000",
       "minecraft:bamboo_jungle": "2025-01-16 21:57:37 +0000",
       "minecraft:river": "2024-12-26 23:02:26 +0000",
       "minecraft:snowy_taiga": "2024-12-26 23:49:14 +0000",
@@ -4622,6 +4635,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-26 23:01:39 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-01-16 22:01:36 +0000"
     },
     "done": true
   },

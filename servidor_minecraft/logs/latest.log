@@ -457,3 +457,20 @@ java.lang.NullPointerException: null
 [16Jan2025 22:00:24.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [16Jan2025 22:01:36.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Jennifer Dumped Me]
 [16Jan2025 22:02:43.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 22:04:18.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 22:05:04.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has completed the challenge [The Power of the Sun]
+[16Jan2025 22:05:08.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 22:06:08.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Silk Touch to Xonsret's item]
+[16Jan2025 22:06:12.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[16Jan2025 22:06:32.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4792ms or 95 ticks behind
+[16Jan2025 22:07:58.244] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@765f3c0f
+[16Jan2025 22:10:18.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 22:11:08.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Banned GamerJ2002: Por Negro indigena]
+[16Jan2025 22:11:35.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 22:12:35.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 22:12:43.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 22:13:43.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1000000000 experience points to El_Vertex_mc]
+[16Jan2025 22:14:07.049] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@1d16b37f[id=893c47d5-aa25-30a4-85b4-22068ffade5b,name=GamerJ2002,properties={},legacy=false] (/10.147.19.237:54776): You are banned from this server.
+Reason: Por Negro indigena
+[16Jan2025 22:14:07.088] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1d16b37f[id=893c47d5-aa25-30a4-85b4-22068ffade5b,name=GamerJ2002,properties={},legacy=false] (/10.147.19.237:54776) lost connection: You are banned from this server.
+Reason: Por Negro indigena

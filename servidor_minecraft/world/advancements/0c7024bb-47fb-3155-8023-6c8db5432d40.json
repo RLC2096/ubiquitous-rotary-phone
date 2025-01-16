@@ -2068,6 +2068,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-01-16 22:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-01-13 23:04:22 +0000"
@@ -4011,6 +4017,12 @@
   "minecraft:recipes/travelersbackpack/pumpkin_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-16 20:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-01-16 22:09:33 +0000"
     },
     "done": true
   },
