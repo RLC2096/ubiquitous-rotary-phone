@@ -5688,3 +5688,63 @@ Reason: Por Negro indigena
 [16Jan2025 23:35:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
 [16Jan2025 23:36:28.668] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [16Jan2025 23:36:28.671] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 23:36:44.001] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Xonsret with unique ID ffb26455-7168-4710-80fb-66ae044dde20
+[16Jan2025 23:36:44.001] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1801 Y: 78 Z: 1870
+[16Jan2025 23:36:44.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret was slain by GamerJ2002
+[16Jan2025 23:36:44.002] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xonsret was created at position [x:1800, y:78, z:1870, dim:minecraft:overworld]
+[16Jan2025 23:36:44.003] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[16Jan2025 23:39:26.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 23:39:38.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Command Block] to Xonsret]
+[16Jan2025 23:40:11.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[16Jan2025 23:40:16.752] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:40:16.752] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:40:16.752] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:40:16.753] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[16Jan2025 23:41:29.018] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Jan2025 23:41:29.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 23:41:49.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[16Jan2025 23:42:26.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[16Jan2025 23:43:08.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[16Jan2025 23:43:09.544] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:43:09.544] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:43:09.545] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:43:09.545] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[16Jan2025 23:43:09.545] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[16Jan2025 23:43:41.092] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/109047, l='ServerLevel[world]', x=-111.77, y=13.00, z=173.13]
+[16Jan2025 23:43:41.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to GamerJ2002]
+[16Jan2025 23:43:57.897] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:43:57.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:43:57.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:43:57.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[16Jan2025 23:43:57.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[16Jan2025 23:44:22.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 23:44:23.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 23:44:25.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Spectator Mode]
+[16Jan2025 23:44:33.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 23:44:35.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:44:35.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:44:35.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:44:35.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[16Jan2025 23:44:35.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[16Jan2025 23:44:37.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Spectator Mode]
+[16Jan2025 23:44:39.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[16Jan2025 23:44:56.413] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:44:56.413] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:44:56.414] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:44:56.414] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[16Jan2025 23:44:56.414] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[16Jan2025 23:45:05.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Spectator Mode]
+[16Jan2025 23:45:07.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[16Jan2025 23:46:26.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[16Jan2025 23:46:27.639] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:46:27.639] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:46:27.640] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:46:27.640] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[16Jan2025 23:46:27.640] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[16Jan2025 23:46:29.149] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Jan2025 23:46:29.154] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 23:46:42.533] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:46:42.533] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:46:42.533] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:46:42.533] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[16Jan2025 23:46:42.533] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
