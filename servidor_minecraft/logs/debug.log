@@ -5789,3 +5789,80 @@ Reason: Por Negro indigena
 [16Jan2025 23:54:16.610] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
 [16Jan2025 23:56:28.614] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [16Jan2025 23:56:28.620] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Jan2025 23:57:56.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[16Jan2025 23:57:58.587] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:57:58.587] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:57:58.588] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:57:58.588] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[16Jan2025 23:57:58.588] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[16Jan2025 23:58:07.738] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:58:07.739] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:58:07.739] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:58:07.739] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[16Jan2025 23:58:07.739] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[16Jan2025 23:58:21.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[16Jan2025 23:58:25.332] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[16Jan2025 23:58:25.332] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[16Jan2025 23:58:25.333] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[16Jan2025 23:58:25.333] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[16Jan2025 23:58:25.333] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[16Jan2025 23:58:25.333] [Server thread/WARN] [net.minecraft.entity.Entity/]: Unable to add mob to team "xd" (that team probably doesn't exist)
+[16Jan2025 23:59:56.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[17Jan2025 00:00:00.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[17Jan2025 00:00:02.774] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 00:00:02.774] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 00:00:02.774] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 00:00:02.774] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 00:00:02.775] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Jan2025 00:00:02.775] [Server thread/WARN] [net.minecraft.entity.Entity/]: Unable to add mob to team "xd" (that team probably doesn't exist)
+[17Jan2025 00:01:28.637] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Jan2025 00:01:28.641] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Jan2025 00:01:40.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 64 [Golden Carrot] to GamerJ2002]
+[17Jan2025 00:01:55.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[17Jan2025 00:01:56.924] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 00:01:56.924] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 00:01:56.924] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 00:01:56.924] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 00:01:56.925] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Jan2025 00:01:56.925] [Server thread/WARN] [net.minecraft.entity.Entity/]: Unable to add mob to team "xd" (that team probably doesn't exist)
+[17Jan2025 00:03:30.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Command Block] to Xonsret]
+[17Jan2025 00:03:39.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[17Jan2025 00:03:41.631] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 00:03:41.631] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 00:03:41.631] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 00:03:41.631] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 00:03:41.631] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Jan2025 00:03:45.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Spectator Mode]
+[17Jan2025 00:03:50.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[17Jan2025 00:03:54.626] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 00:03:54.626] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 00:03:54.627] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 00:03:54.627] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 00:03:54.627] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Jan2025 00:04:42.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[17Jan2025 00:04:44.223] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 00:04:44.223] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 00:04:44.223] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 00:04:44.223] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 00:04:44.223] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Jan2025 00:04:49.117] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 00:04:49.117] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 00:04:49.118] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 00:04:49.118] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 00:04:49.118] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Jan2025 00:05:50.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has made the advancement [Spooky Scary Skeleton]
+[17Jan2025 00:06:02.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[17Jan2025 00:06:07.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 has completed the challenge [Cover Me in Debris]
+[17Jan2025 00:06:10.977] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 00:06:10.977] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 00:06:10.977] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 00:06:10.978] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 00:06:10.978] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Jan2025 00:06:28.631] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Jan2025 00:06:28.635] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Jan2025 00:07:12.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[17Jan2025 00:07:15.624] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 00:07:15.624] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 00:07:15.624] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 00:07:15.624] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 00:07:15.625] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
