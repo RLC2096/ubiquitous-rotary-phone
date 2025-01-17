@@ -7849,3 +7849,6 @@
 [17Jan2025 03:06:38.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Summoned new Primed TNT]
 [17Jan2025 03:06:38.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Killed Arrow]
 [17Jan2025 03:09:03.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set El_Vertex_mc's game mode to Creative Mode]
+[17Jan2025 03:15:12.327] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/187928, l='ServerLevel[world]', x=-180.22, y=68.00, z=2925.96]
+[17Jan2025 03:15:12.327] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/187928, l='ServerLevel[world]', x=-180.22, y=68.00, z=2925.96]
+[17Jan2025 03:15:44.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the time to 1000]
