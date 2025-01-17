@@ -14508,3 +14508,13 @@ Reason: Por Negro indigena
 [17Jan2025 03:16:49.882] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [17Jan2025 03:21:49.900] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [17Jan2025 03:21:49.904] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Jan2025 03:26:49.898] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:26:49.902] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Jan2025 03:26:59.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied effect Night Vision to 2 targets]
+[17Jan2025 03:28:15.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Removed effect Night Vision from 2 targets]
+[17Jan2025 03:29:19.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set El_Vertex_mc's game mode to Survival Mode]
+[17Jan2025 03:29:27.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set El_Vertex_mc's game mode to Creative Mode]
+[17Jan2025 03:30:06.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has made the advancement [Bring Home the Beacon]
+[17Jan2025 03:30:06.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Bring Home the Beacon]
+[17Jan2025 03:31:49.924] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:31:49.929] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

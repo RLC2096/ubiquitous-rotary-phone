@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-17 03:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cake_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-01-16 22:44:44 +0000"
@@ -545,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-17 03:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/creeper_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-16 20:56:33 +0000"
@@ -834,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-01-17 03:30:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-15 21:40:22 +0000"
@@ -1053,6 +1071,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-13 22:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-17 03:23:12 +0000"
     },
     "done": true
   },
@@ -2662,6 +2686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-17 03:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-26 23:07:10 +0000"
@@ -2767,6 +2797,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-14 01:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_blackstone_bricks": "2025-01-17 03:26:18 +0000"
     },
     "done": true
   },
@@ -2917,6 +2953,12 @@
   "minecraft:recipes/travelersbackpack/blaze_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-16 20:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-17 03:26:18 +0000"
     },
     "done": true
   },
@@ -3079,6 +3121,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-13 00:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-17 03:23:12 +0000"
     },
     "done": true
   },
@@ -3548,6 +3596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-17 03:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2025-01-13 00:18:12 +0000"
@@ -3683,6 +3737,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-14 23:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-17 03:23:12 +0000"
     },
     "done": true
   },
@@ -3856,6 +3916,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2025-01-17 03:27:29 +0000",
       "minecraft:snowy_mountains": "2025-01-12 01:46:48 +0000",
       "minecraft:forest": "2024-12-26 22:38:04 +0000",
       "minecraft:mountains": "2024-12-27 00:01:19 +0000",
@@ -4434,6 +4495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-17 03:23:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-01-14 23:43:53 +0000"
@@ -4779,6 +4846,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-13 22:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-17 03:26:18 +0000"
     },
     "done": true
   },
