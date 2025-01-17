@@ -840,6 +840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-17 02:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-15 23:48:46 +0000"
@@ -921,6 +927,12 @@
   "minecraft:recipes/travelersbackpack/diamond_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-01-16 22:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-17 02:55:36 +0000"
     },
     "done": true
   },

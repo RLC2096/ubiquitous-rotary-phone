@@ -14429,3 +14429,15 @@ Reason: Por Negro indigena
 [17Jan2025 02:51:17.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'explosive_arrow' to Arrow]
 [17Jan2025 02:51:17.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Summoned new Primed TNT]
 [17Jan2025 02:51:17.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Killed Arrow]
+[17Jan2025 02:51:50.090] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Jan2025 02:51:50.094] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Jan2025 02:53:32.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[17Jan2025 02:54:15.550] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 02:54:15.550] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 02:54:15.550] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 02:54:15.550] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 02:54:15.550] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Jan2025 02:55:17.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the time to 1000]
+[17Jan2025 02:55:23.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the weather to clear]
+[17Jan2025 02:56:50.010] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Jan2025 02:56:50.014] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
