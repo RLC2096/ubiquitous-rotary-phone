@@ -14518,3 +14518,31 @@ Reason: Por Negro indigena
 [17Jan2025 03:30:06.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc has made the advancement [Bring Home the Beacon]
 [17Jan2025 03:31:49.924] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [17Jan2025 03:31:49.929] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Jan2025 03:32:21.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xonsret> BRO
+[17Jan2025 03:32:23.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xonsret> DS
+[17Jan2025 03:32:56.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[17Jan2025 03:33:00.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Gave 1 [Wither Skeleton Spawn Egg] to Xonsret]
+[17Jan2025 03:33:04.540] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 03:33:04.540] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 03:33:04.540] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 03:33:04.540] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 03:33:18.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has reached the goal [Strong Undead]
+[17Jan2025 03:33:33.287] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 03:33:33.287] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 03:33:33.287] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 03:33:33.287] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 03:34:03.786] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 03:34:03.786] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 03:34:03.786] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 03:34:03.786] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 03:34:15.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[17Jan2025 03:35:00.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[17Jan2025 03:36:49.952] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:36:49.956] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Jan2025 03:39:09.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set the time to 1000]
+[17Jan2025 03:40:53.325] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 03:40:53.325] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 03:40:53.325] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 03:40:53.325] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 03:41:49.915] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:41:49.920] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
