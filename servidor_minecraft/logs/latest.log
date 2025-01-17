@@ -3640,3 +3640,29 @@
 [17Jan2025 01:07:36.895] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of El_Vertex_mc) moved too quickly! 3173.5968357969555,28.5,349.61439603675854
 [17Jan2025 01:07:39.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'thunder_arrow' to Arrow]
 [17Jan2025 01:07:40.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'thunder_arrow' to Arrow]
+[17Jan2025 01:09:48.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Command Block] to Xonsret]
+[17Jan2025 01:10:42.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Arco del Trueno] to Xonsret]
+[17Jan2025 01:12:50.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[17Jan2025 01:13:08.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[17Jan2025 01:13:14.487] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Jan2025 01:13:14.487] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Jan2025 01:13:14.488] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Jan2025 01:13:14.488] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Jan2025 01:13:14.488] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Jan2025 01:14:50.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported GamerJ2002 to El_Vertex_mc]
+[17Jan2025 01:14:55.483] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 lost connection: Disconnected
+[17Jan2025 01:14:55.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 left the game
+[17Jan2025 01:16:36.986] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b13b6f4
+[17Jan2025 01:16:36.993] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:58631] logged in with entity id 140732 at (-267.47403780468386, 56.0, 2942.3311439587596)
+[17Jan2025 01:16:36.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
+[17Jan2025 01:16:54.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GamerJ2002> franco la callxd
+[17Jan2025 01:17:28.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Arco Explosivo] to Xonsret]
+[17Jan2025 01:17:32.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'explosive_arrow' to Arrow]
+[17Jan2025 01:17:34.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'explosive_arrow' to Arrow]
+[17Jan2025 01:17:41.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'explosive_arrow' to Arrow]
+[17Jan2025 01:18:03.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'explosive_arrow' to Arrow]
+[17Jan2025 01:18:22.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'explosive_arrow' to Arrow]
+[17Jan2025 01:18:39.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Arrow] to Xonsret]
+[17Jan2025 01:18:46.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Arrow] to Xonsret]
+[17Jan2025 01:18:51.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'explosive_arrow' to Arrow]
+[17Jan2025 01:18:57.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Added tag 'explosive_arrow' to Arrow]
