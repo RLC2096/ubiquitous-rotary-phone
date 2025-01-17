@@ -1365,6 +1365,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-01-17 02:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bee_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-01-15 01:05:47 +0000"
