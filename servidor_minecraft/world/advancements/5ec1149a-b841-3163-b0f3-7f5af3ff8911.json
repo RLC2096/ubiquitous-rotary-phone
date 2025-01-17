@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/travelersbackpack/fox_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bat_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-15 01:07:07 +0000"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bat_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-26 23:08:52 +0000"
@@ -80,6 +92,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-14 02:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cake_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -155,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/gold_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-16 22:16:58 +0000"
@@ -173,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/chicken_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-26 23:23:33 +0000"
@@ -188,6 +218,18 @@
   "create:recipes/create.palettes/chiseled_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2025-01-13 01:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/spider_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -344,6 +386,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/coal_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -923,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/diamond_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-01-16 22:03:59 +0000"
@@ -968,6 +1022,12 @@
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-01-16 20:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/redstone_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -1479,6 +1539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/enderman_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-26 23:10:00 +0000"
@@ -1614,6 +1680,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-26 23:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sandstone_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -1860,6 +1932,12 @@
   "securitycraft:recipes/securitycraft/emerald_mine": {
     "criteria": {
       "has_mine": "2025-01-14 00:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bee_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -2151,9 +2229,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/sponge_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-13 01:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pumpkin_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -2475,6 +2565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-13 01:25:17 +0000"
@@ -2505,6 +2601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/villager_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 23:29:27 +0000"
@@ -2520,6 +2622,12 @@
   "create:recipes/create.palettes/paved_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-13 01:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/snow_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -2541,6 +2649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/cactus_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-01-13 22:01:25 +0000"
@@ -2550,6 +2664,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-13 01:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/quartz_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -2598,6 +2718,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-01-16 00:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/netherite_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -2730,6 +2856,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-12-26 23:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ghast_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -3141,6 +3273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/end_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-26 23:23:05 +0000"
@@ -3333,6 +3471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/iron_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-15 01:07:07 +0000"
@@ -3384,6 +3528,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-26 23:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -3503,6 +3653,12 @@
       "minecraft:zombie": "2024-12-26 23:33:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/travelersbackpack/melon_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -3648,6 +3804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/cow_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-27 00:41:03 +0000"
@@ -3786,6 +3948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/ocelot_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2025-01-13 01:27:49 +0000"
@@ -3858,6 +4026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/skeleton_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2024-12-26 23:07:32 +0000"
@@ -3906,6 +4080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/sheep_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 23:12:42 +0000"
@@ -3915,6 +4095,12 @@
   "minecraft:recipes/travelersbackpack/snow_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-15 01:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/nether_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -4185,6 +4371,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-01-15 00:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/hay_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -4803,6 +4995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/creeper_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-26 23:10:00 +0000"
@@ -4911,6 +5109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/squid_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pig_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-01-15 01:05:47 +0000"
@@ -4962,6 +5166,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-13 22:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -5121,6 +5331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/pig_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 23:09:07 +0000"
@@ -5193,6 +5409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bookshelf_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-12 23:55:59 +0000"
@@ -5244,6 +5466,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 23:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/blaze_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -5397,6 +5625,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/magma_cube_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/standard_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2024-12-26 23:13:33 +0000"
@@ -5493,6 +5733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/wither_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-26 23:09:57 +0000"
@@ -5586,6 +5832,12 @@
   "minecraft:recipes/travelersbackpack/dragon_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-15 01:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/horse_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
@@ -5772,6 +6024,12 @@
   "minecraft:recipes/travelersbackpack/netherite_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-01-15 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/lapis_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-01-17 04:06:23 +0000"
     },
     "done": true
   },
