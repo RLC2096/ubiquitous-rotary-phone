@@ -278,3 +278,18 @@ java.lang.NullPointerException: null
 [18Jan2025 19:37:47.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [18Jan2025 19:38:02.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 3 entities to Xonsret]
 [18Jan2025 19:38:04.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 19:44:50.153] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[18Jan2025 19:45:08.193] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[18Jan2025 19:45:08.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[18Jan2025 19:45:21.922] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4de4f668
+[18Jan2025 19:45:21.934] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:50477] logged in with entity id 11550 at (-1488.1399310713507, 65.0, 2370.3678852902262)
+[18Jan2025 19:45:21.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[18Jan2025 19:45:36.797] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 3400c8ed-d409-4745-bca3-1f3b4b29a4b2
+[18Jan2025 19:45:36.798] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1500 Y: 65 Z: 2371
+[18Jan2025 19:45:36.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was slain by Ignis
+[18Jan2025 19:45:36.826] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[18Jan2025 19:46:08.545] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GamerJ2002 with unique ID 444daae4-e786-4b23-b8e9-c4577852e778
+[18Jan2025 19:46:08.545] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1481 Y: 65 Z: 2338
+[18Jan2025 19:46:08.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 was killed by Ignis using magic
+[18Jan2025 19:46:08.556] [Server thread/INFO] [tombstone/]: The player GamerJ2002 has successfully been saved
+[18Jan2025 19:46:30.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
