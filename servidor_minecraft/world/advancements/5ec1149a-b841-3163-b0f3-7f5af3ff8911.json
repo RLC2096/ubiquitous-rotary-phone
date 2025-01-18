@@ -1187,6 +1187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-18 18:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pumpkin_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-01-15 00:54:25 +0000"
@@ -3075,6 +3081,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-18 18:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_blackstone_bricks": "2025-01-14 02:37:48 +0000"
@@ -3684,6 +3696,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-18 18:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 23:29:27 +0000"
@@ -3954,6 +3972,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-18 18:58:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2025-01-13 01:27:49 +0000"
@@ -4095,6 +4119,12 @@
   "minecraft:recipes/travelersbackpack/snow_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-01-15 01:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-18 18:58:26 +0000"
     },
     "done": true
   },
@@ -5460,6 +5490,12 @@
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2025-01-15 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-18 18:58:26 +0000"
     },
     "done": true
   },

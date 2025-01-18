@@ -4426,6 +4426,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 18:54:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-13 22:50:11 +0000"
@@ -4448,6 +4454,7 @@
     "criteria": {
       "sweet_berries": "2024-12-26 23:12:49 +0000",
       "chorus_fruit": "2025-01-16 20:38:11 +0000",
+      "cooked_beef": "2025-01-18 18:39:02 +0000",
       "bread": "2024-12-26 23:11:53 +0000",
       "golden_carrot": "2025-01-14 23:06:20 +0000",
       "cooked_salmon": "2024-12-26 23:42:34 +0000"

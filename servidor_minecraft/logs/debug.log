@@ -3885,3 +3885,89 @@ java.lang.NullPointerException: null
 [18Jan2025 18:36:58.150] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [18Jan2025 18:40:43.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [18Jan2025 18:40:49.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 18:41:58.142] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Jan2025 18:41:58.148] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Jan2025 18:46:45.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 18:46:46.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 18:46:58.065] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Jan2025 18:46:58.073] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Jan2025 18:47:32.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 18:47:38.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 18:48:02.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Sharpness V to Xonsret's item]
+[18Jan2025 18:48:08.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Mending to Xonsret's item]
+[18Jan2025 18:48:16.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Unbreaking III to Xonsret's item]
+[18Jan2025 18:48:32.906] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved too quickly! -4817.347425221085,8.392604549951344,-2527.341347385886
+[18Jan2025 18:51:00.831] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:00.930] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:01.028] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:01.126] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:01.230] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:01.326] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:01.426] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:01.530] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:01.626] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:01.730] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:01.828] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2354}
+[18Jan2025 18:51:02.478] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1939, y=70, z=2353}
+[18Jan2025 18:51:15.526] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:15.626] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:15.726] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:15.830] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:15.928] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:16.026] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:16.126] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:16.226] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:16.328] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:16.378] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:16.526] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2356}
+[18Jan2025 18:51:16.630] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2357}
+[18Jan2025 18:51:17.126] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2358}
+[18Jan2025 18:51:17.230] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2358}
+[18Jan2025 18:51:17.328] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2358}
+[18Jan2025 18:51:17.426] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2358}
+[18Jan2025 18:51:17.526] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2358}
+[18Jan2025 18:51:17.626] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2358}
+[18Jan2025 18:51:17.730] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2358}
+[18Jan2025 18:51:17.826] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2358}
+[18Jan2025 18:51:17.930] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2358}
+[18Jan2025 18:51:18.376] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1935, y=70, z=2357}
+[18Jan2025 18:51:18.460] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1935, y=70, z=2357}
+[18Jan2025 18:51:18.478] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:18.578] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:18.678] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:18.778] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:18.901] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.026] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.126] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.226] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.326] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.427] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.526] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.626] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.730] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.828] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.926] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1936, y=70, z=2355}
+[18Jan2025 18:51:19.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1937, y=70, z=2355}
+[18Jan2025 18:51:23.628] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1938, y=72, z=2355}
+[18Jan2025 18:51:57.883] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Jan2025 18:51:57.889] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Jan2025 18:51:58.678] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1942, y=69, z=2361}
+[18Jan2025 18:51:58.778] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1948, y=71, z=2376} BlockPos{x=1942, y=69, z=2361}
+[18Jan2025 18:53:00.464] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[18Jan2025 18:53:00.465] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdf61ad7$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[18Jan2025 18:53:00.465] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdf61ad7$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[18Jan2025 18:53:00.466] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdf61ad7$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[18Jan2025 18:53:06.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 18:53:45.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 18:54:07.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret was slain by Nightmare Stalker
+[18Jan2025 18:54:07.259] [Server thread/DEBUG] [tombstone/]: A new grave of the player Xonsret was created at position [x:-21, y:64, z:17, dim:minecraft:the_end]
+[18Jan2025 18:54:07.263] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[18Jan2025 18:54:21.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret has reached the goal [Chain Death]
+[18Jan2025 18:54:21.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret was slain by Nightmare Stalker
+[18Jan2025 18:54:21.116] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[18Jan2025 18:54:28.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 18:55:11.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 18:56:58.244] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Jan2025 18:56:58.250] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Jan2025 19:01:57.917] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Jan2025 19:01:57.922] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
