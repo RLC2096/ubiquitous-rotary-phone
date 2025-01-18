@@ -280,3 +280,19 @@ java.lang.NullPointerException: null
 [18Jan2025 18:25:59.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arrow: Summoned new Primed TNT]
 [18Jan2025 18:25:59.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Killed Arrow]
 [18Jan2025 18:26:10.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 18:31:50.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 18:31:57.912] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Xonsret moved too quickly! 0.0,-12.113482277049329,0.0
+[18Jan2025 18:31:58.962] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Xonsret with unique ID 6c8f1149-c7c9-408c-b3f8-9f681cc7271b
+[18Jan2025 18:31:58.965] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 98 Y: 5 Z: -10
+[18Jan2025 18:31:58.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xonsret didn't want to live in the same world as Phantom Creeper
+[18Jan2025 18:31:58.994] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
+[18Jan2025 18:32:23.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 18:34:28.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 18:34:34.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 18:35:51.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 18:36:01.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 18:36:13.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Mending to Xonsret's item]
+[18Jan2025 18:36:22.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Efficiency V to Xonsret's item]
+[18Jan2025 18:36:32.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Applied enchantment Unbreaking III to Xonsret's item]
+[18Jan2025 18:40:43.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 18:40:49.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
