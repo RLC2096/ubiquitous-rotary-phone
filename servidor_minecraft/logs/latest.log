@@ -367,3 +367,34 @@ java.lang.NullPointerException: null
 [18Jan2025 18:54:21.116] [Server thread/INFO] [tombstone/]: The player Xonsret has successfully been saved
 [18Jan2025 18:54:28.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
 [18Jan2025 18:55:11.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 19:05:07.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Stick] to Xonsret]
+[18Jan2025 19:06:06.051] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GamerJ2002 moved wrongly!
+[18Jan2025 19:06:14.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 19:06:22.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 19:07:21.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Gave 1 [Bow] to Xonsret]
+[18Jan2025 19:07:26.496] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Disconnected
+[18Jan2025 19:07:26.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[18Jan2025 19:07:53.569] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6460f9a2
+[18Jan2025 19:07:53.579] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:58791] logged in with entity id 24611 at (1756.640379332521, -24.246001083119022, 1874.699999988079)
+[18Jan2025 19:07:53.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[18Jan2025 19:07:59.097] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc was kicked for floating too long!
+[18Jan2025 19:07:59.099] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: El_Vertex_mc lost connection: Flying is not enabled on this server
+[18Jan2025 19:07:59.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc left the game
+[18Jan2025 19:07:59.149] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[18Jan2025 19:08:16.116] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b71e8e9
+[18Jan2025 19:08:16.131] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:58794] logged in with entity id 24632 at (1756.6117666782402, -231.15891814774548, 1874.5580121985486)
+[18Jan2025 19:08:16.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[18Jan2025 19:08:16.184] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for El_Vertex_mc with unique ID 7f8d77b7-16d2-4a08-bf4a-144e722637d0
+[18Jan2025 19:08:16.185] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 1756 Y: 71 Z: 1874
+[18Jan2025 19:08:16.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc fell out of the world
+[18Jan2025 19:08:16.187] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[18Jan2025 19:08:17.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set El_Vertex_mc's game mode to Spectator Mode]
+[18Jan2025 19:08:52.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set El_Vertex_mc's game mode to Survival Mode]
+[18Jan2025 19:09:04.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc suffocated in a wall
+[18Jan2025 19:09:04.547] [Server thread/INFO] [tombstone/]: The player El_Vertex_mc has successfully been saved
+[18Jan2025 19:09:06.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set El_Vertex_mc's game mode to Spectator Mode]
+[18Jan2025 19:10:22.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Spectator Mode]
+[18Jan2025 19:10:40.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 19:11:04.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Spectator Mode]
+[18Jan2025 19:11:25.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set El_Vertex_mc's game mode to Survival Mode]
+[18Jan2025 19:11:30.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
