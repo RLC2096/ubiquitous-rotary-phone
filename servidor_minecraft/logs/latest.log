@@ -266,3 +266,15 @@ java.lang.NullPointerException: null
 [18Jan2025 19:33:43.928] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@47768e8d
 [18Jan2025 19:33:43.943] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: El_Vertex_mc[/10.147.19.160:50365] logged in with entity id 1759 at (-1491.5485307730735, 86.0, 2322.8645675296957)
 [18Jan2025 19:33:43.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: El_Vertex_mc joined the game
+[18Jan2025 19:34:17.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 19:34:29.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 19:34:44.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported El_Vertex_mc to Xonsret]
+[18Jan2025 19:35:33.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 19:36:07.115] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@46474bf0
+[18Jan2025 19:36:07.127] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GamerJ2002[/10.147.19.237:57770] logged in with entity id 2715 at (1215.4501588729536, 71.5625, 1693.7588221767555)
+[18Jan2025 19:36:07.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GamerJ2002 joined the game
+[18Jan2025 19:37:17.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Xonsret> ./tbrequestteleport
+[18Jan2025 19:37:32.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
+[18Jan2025 19:37:47.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Creative Mode]
+[18Jan2025 19:38:02.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Teleported 3 entities to Xonsret]
+[18Jan2025 19:38:04.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Xonsret: Set own game mode to Survival Mode]
