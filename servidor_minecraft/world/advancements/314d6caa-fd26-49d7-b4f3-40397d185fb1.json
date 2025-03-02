@@ -1857,6 +1857,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-03-02 22:45:02 +0000",
+      "minecraft:wolf": "2025-03-02 22:56:03 +0000",
       "minecraft:bee": "2025-03-02 00:24:04 +0000"
     },
     "done": false
@@ -2617,6 +2618,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-02 22:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-03-02 22:25:43 +0000"
@@ -2626,6 +2633,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-02 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-02 22:52:41 +0000"
     },
     "done": true
   },
