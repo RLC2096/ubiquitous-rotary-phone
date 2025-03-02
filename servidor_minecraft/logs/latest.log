@@ -1,105 +1,30 @@
-[22:23:43] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[22:23:44] [main/INFO]: Loading 5 mods:
-	- fabricloader 0.16.3
-	   \-- mixinextras 0.4.1
-	- java 21
-	- minecraft 1.21
-	- sharedadvancements 1.21.3-5.0.0
-[22:23:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:23:44] [main/INFO]: Compatibility level set to JAVA_17
-[22:23:52] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
-[22:23:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:23:54] [main/INFO]: Loaded 1290 recipes
-[22:23:54] [main/INFO]: Loaded 1399 advancements
-[22:23:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:23:55] [Server thread/INFO]: Starting minecraft server version 1.21
-[22:23:55] [Server thread/INFO]: Loading properties
-[22:23:55] [Server thread/INFO]: Default game type: SURVIVAL
-[22:23:55] [Server thread/INFO]: Generating keypair
-[22:23:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:23:55] [Server thread/INFO]: Using epoll channel type
-[22:23:55] [Server thread/INFO]: Preparing level "world"
-[22:24:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:24:01] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[22:24:01] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[22:24:02] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[22:24:02] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[22:24:03] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[22:24:03] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[22:24:04] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[22:24:04] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[22:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[22:24:05] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[22:24:06] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[22:24:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[22:24:07] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[22:24:07] [Server thread/INFO]: Time elapsed: 6409 ms
-[22:24:07] [Server thread/INFO]: Done (12.179s)! For help, type "help"
-[22:24:22] [User Authenticator #1/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
-[22:24:23] [Server thread/INFO]: Xonsret[/10.147.19.75:49254] logged in with entity id 1 at (-23.5, 113.0, -103.5)
-[22:24:23] [Server thread/INFO]: Xonsret joined the game
-[22:24:52] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[22:24:52] [Server thread/INFO]: Xonsret left the game
-[22:27:26] [User Authenticator #2/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
-[22:27:27] [Server thread/INFO]: Xonsret[/10.147.19.75:49309] logged in with entity id 488 at (-19.994443127506738, 122.0, -107.09002463553962)
-[22:27:27] [Server thread/INFO]: Xonsret joined the game
-[22:30:15] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[22:30:15] [Server thread/INFO]: Xonsret left the game
-[22:32:30] [User Authenticator #3/INFO]: UUID of player El_Vertex_mc is 0eee84af-6cf9-46dc-b4f8-3ac0fe55989e
-[22:32:32] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:50061] logged in with entity id 1111 at (-21.5, 108.0, -86.5)
-[22:32:32] [Server thread/INFO]: El_Vertex_mc joined the game
-[22:32:41] [User Authenticator #4/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
-[22:32:42] [Server thread/INFO]: Xonsret[/10.147.19.75:49597] logged in with entity id 1378 at (-20.684795577657805, 120.0, -115.48886394580876)
-[22:32:42] [Server thread/INFO]: Xonsret joined the game
-[22:34:18] [Server thread/INFO]: Xonsret has made the advancement [Stone Age]
-[22:34:18] [Server thread/INFO]: El_Vertex_mc has made the advancement [Stone Age]
-[22:34:32] [Server thread/INFO]: Xonsret has made the advancement [Getting an Upgrade]
-[22:34:32] [Server thread/INFO]: El_Vertex_mc has made the advancement [Getting an Upgrade]
-[22:36:10] [Server thread/INFO]: Xonsret has made the advancement [Acquire Hardware]
-[22:36:10] [Server thread/INFO]: El_Vertex_mc has made the advancement [Acquire Hardware]
-[22:37:22] [Server thread/INFO]: El_Vertex_mc has made the advancement [Monster Hunter]
-[22:37:22] [Server thread/INFO]: Xonsret has made the advancement [Monster Hunter]
-[22:37:26] [Server thread/INFO]: El_Vertex_mc was slain by Zombie
-[22:37:48] [Server thread/INFO]: Xonsret has made the advancement [Not Today, Thank You]
-[22:37:48] [Server thread/INFO]: El_Vertex_mc has made the advancement [Not Today, Thank You]
-[22:38:05] [Server thread/INFO]: El_Vertex_mc was slain by Zombie
-[22:38:58] [Server thread/INFO]: El_Vertex_mc was shot by Skeleton
-[22:39:31] [Server thread/INFO]: Xonsret was shot by Skeleton
-[22:39:59] [Server thread/INFO]: Xonsret was slain by Zombie
-[22:40:50] [Server thread/INFO]: El_Vertex_mc was blown up by Creeper
-[22:41:34] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[22:41:34] [Server thread/INFO]: Xonsret left the game
-[22:41:34] [Server thread/INFO]: El_Vertex_mc has made the advancement [Sweet Dreams]
-[22:41:47] [User Authenticator #5/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
-[22:41:48] [Server thread/INFO]: Xonsret[/10.147.19.75:50107] logged in with entity id 3241 at (35.69999998807907, 107.0, -103.91018672443563)
-[22:41:48] [Server thread/INFO]: Xonsret joined the game
-[22:41:48] [Server thread/INFO]: Xonsret has made the advancement [Sweet Dreams]
-[22:47:37] [Server thread/INFO]: Xonsret has made the advancement [Isn't It Iron Pick]
-[22:47:37] [Server thread/INFO]: El_Vertex_mc has made the advancement [Isn't It Iron Pick]
-[22:53:47] [Server thread/INFO]: Xonsret has made the advancement [Suit Up]
-[22:53:47] [Server thread/INFO]: El_Vertex_mc has made the advancement [Suit Up]
-[22:55:00] [Server thread/INFO]: Xonsret was blown up by Creeper
-[22:57:11] [Server thread/INFO]: Xonsret was shot by Skeleton
-[22:59:13] [Server thread/INFO]: Xonsret burned to death
-[22:59:29] [Server thread/INFO]: El_Vertex_mc has made the advancement [Hot Stuff]
-[22:59:29] [Server thread/INFO]: Xonsret has made the advancement [Hot Stuff]
-[23:01:05] [Server thread/INFO]: Xonsret tried to swim in lava
-[23:01:38] [Server thread/INFO]: El_Vertex_mc has made the advancement [Diamonds!]
-[23:01:38] [Server thread/INFO]: Xonsret has made the advancement [Diamonds!]
-[23:02:53] [Server thread/INFO]: Xonsret fell from a high place
-[23:04:55] [Server thread/INFO]: El_Vertex_mc was slain by Zombie Villager
-[23:10:47] [Server thread/INFO]: El_Vertex_mc has made the advancement [Sneak 100]
-[23:10:47] [Server thread/INFO]: Xonsret has made the advancement [Sneak 100]
-[23:19:22] [Server thread/INFO]: El_Vertex_mc was slain by Zombie
-[23:21:19] [Server thread/INFO]: Xonsret was slain by Zombie
-[23:28:04] [Server thread/INFO]: <El_Vertex_mc> 538,68
-[23:38:29] [Server thread/INFO]: El_Vertex_mc was slain by Cave Spider
-[23:41:22] [Server thread/INFO]: El_Vertex_mc was shot by Skeleton
-[23:44:24] [Server thread/INFO]: <Xonsret> 41-41-186
-[23:49:07] [Server thread/INFO]: El_Vertex_mc was slain by Cave Spider
-[23:49:25] [Server thread/INFO]: El_Vertex_mc was shot by Skeleton
-[23:49:56] [Server thread/INFO]: El_Vertex_mc was slain by Cave Spider
-[23:50:28] [Server thread/INFO]: El_Vertex_mc was slain by Cave Spider
-[23:51:17] [Server thread/INFO]: El_Vertex_mc was slain by Cave Spider
-[23:52:25] [Server thread/INFO]: El_Vertex_mc was slain by Zombie
-[23:53:43] [Server thread/INFO]: El_Vertex_mc was slain by Cave Spider
+[00:23:47] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:24:04] [Server thread/INFO]: El_Vertex_mc has made the advancement [The Parrots and the Bats]
+[00:24:04] [Server thread/INFO]: Xonsret has made the advancement [The Parrots and the Bats]
+[00:25:45] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:25:59] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:26:06] [Server thread/INFO]: Xonsret was blown up by Creeper
+[00:26:28] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:27:00] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:27:13] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:27:34] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:27:47] [Server thread/INFO]: El_Vertex_mc has made the advancement [The Cutest Predator]
+[00:27:47] [Server thread/INFO]: Xonsret has made the advancement [The Cutest Predator]
+[00:27:47] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:28:34] [Server thread/INFO]: El_Vertex_mc has made the advancement [Tactical Fishing]
+[00:28:34] [Server thread/INFO]: Xonsret has made the advancement [Tactical Fishing]
+[00:34:42] [Server thread/INFO]: El_Vertex_mc has made the advancement [Ice Bucket Challenge]
+[00:34:42] [Server thread/INFO]: Xonsret has made the advancement [Ice Bucket Challenge]
+[00:36:57] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:40:19] [Server thread/INFO]: Xonsret has made the advancement [Take Aim]
+[00:40:19] [Server thread/INFO]: El_Vertex_mc has made the advancement [Take Aim]
+[00:40:46] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:41:17] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:41:33] [Server thread/INFO]: Xonsret was slain by Spider
+[00:41:42] [Server thread/INFO]: Xonsret was slain by Skeleton
+[00:41:57] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:42:14] [Server thread/INFO]: Xonsret was shot by Skeleton
+[00:42:58] [Server thread/INFO]: <El_Vertex_mc> f
+[00:43:03] [Server thread/INFO]: Xonsret was slain by Skeleton
+[00:43:15] [Server thread/INFO]: Xonsret was slain by Skeleton
+[00:43:22] [Server thread/INFO]: Xonsret was blown up by Creeper
