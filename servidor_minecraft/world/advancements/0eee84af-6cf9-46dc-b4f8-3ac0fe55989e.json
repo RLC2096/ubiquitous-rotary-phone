@@ -598,6 +598,7 @@
       "golden_apple": "2025-03-02 02:33:45 +0000",
       "honey_bottle": "2025-03-02 01:55:33 +0000",
       "rotten_flesh": "2025-03-01 22:39:19 +0000",
+      "cookie": "2025-03-02 22:20:36 +0000",
       "cooked_mutton": "2025-03-01 22:41:23 +0000",
       "glow_berries": "2025-03-02 01:47:11 +0000",
       "sweet_berries": "2025-03-02 00:10:52 +0000",
@@ -2439,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-02 22:19:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-02 21:59:47 +0000"
@@ -2450,6 +2457,12 @@
       "has_needed_dye": "2025-03-02 21:59:47 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-03-02 22:19:15 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
