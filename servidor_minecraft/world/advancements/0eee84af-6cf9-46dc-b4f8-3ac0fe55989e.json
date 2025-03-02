@@ -595,6 +595,7 @@
       "cooked_porkchop": "2025-03-01 22:50:12 +0000",
       "chicken": "2025-03-02 01:24:56 +0000",
       "bread": "2025-03-01 23:18:04 +0000",
+      "golden_apple": "2025-03-02 02:33:45 +0000",
       "honey_bottle": "2025-03-02 01:55:33 +0000",
       "rotten_flesh": "2025-03-01 22:39:19 +0000",
       "cooked_mutton": "2025-03-01 22:41:23 +0000",
@@ -2278,6 +2279,12 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-03-02 02:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-02 02:24:42 +0000"
     },
     "done": true
   },
