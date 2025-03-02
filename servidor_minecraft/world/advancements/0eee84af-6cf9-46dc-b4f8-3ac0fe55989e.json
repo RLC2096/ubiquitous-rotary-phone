@@ -456,6 +456,7 @@
       "minecraft:cave_spider": "2025-03-01 23:36:38 +0000",
       "minecraft:skeleton": "2025-03-01 22:38:03 +0000",
       "minecraft:breeze": "2025-03-02 02:07:10 +0000",
+      "minecraft:enderman": "2025-03-02 22:35:20 +0000",
       "minecraft:spider": "2025-03-01 22:37:22 +0000",
       "minecraft:zombie": "2025-03-01 22:38:02 +0000",
       "minecraft:creeper": "2025-03-01 22:43:31 +0000",
@@ -599,6 +600,7 @@
       "honey_bottle": "2025-03-02 01:55:33 +0000",
       "rotten_flesh": "2025-03-01 22:39:19 +0000",
       "cookie": "2025-03-02 22:20:36 +0000",
+      "suspicious_stew": "2025-03-02 22:37:12 +0000",
       "cooked_mutton": "2025-03-01 22:41:23 +0000",
       "glow_berries": "2025-03-02 01:47:11 +0000",
       "sweet_berries": "2025-03-02 00:10:52 +0000",
@@ -2482,6 +2484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-02 22:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-03-02 21:59:47 +0000"
@@ -2509,6 +2517,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-02 21:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-02 22:25:43 +0000"
     },
     "done": true
   },
