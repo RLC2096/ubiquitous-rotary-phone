@@ -1257,10 +1257,12 @@
     "criteria": {
       "minecraft:cave_spider": "2025-03-02 01:11:38 +0000",
       "minecraft:skeleton": "2025-03-02 01:11:38 +0000",
+      "minecraft:breeze": "2025-03-02 02:07:10 +0000",
       "minecraft:spider": "2025-03-02 01:11:38 +0000",
       "minecraft:zombie": "2025-03-02 01:11:38 +0000",
       "minecraft:creeper": "2025-03-02 01:11:38 +0000",
-      "minecraft:drowned": "2025-03-02 01:11:38 +0000"
+      "minecraft:drowned": "2025-03-02 01:11:38 +0000",
+      "minecraft:husk": "2025-03-02 01:57:43 +0000"
     },
     "done": false
   },
@@ -1649,6 +1651,7 @@
       "cooked_porkchop": "2025-03-02 01:11:38 +0000",
       "chicken": "2025-03-02 01:24:56 +0000",
       "bread": "2025-03-02 01:11:38 +0000",
+      "honey_bottle": "2025-03-02 01:55:33 +0000",
       "rotten_flesh": "2025-03-02 01:11:38 +0000",
       "cooked_mutton": "2025-03-02 01:11:38 +0000",
       "glow_berries": "2025-03-02 01:47:11 +0000",
@@ -1656,8 +1659,10 @@
       "salmon": "2025-03-02 01:16:42 +0000",
       "cooked_beef": "2025-03-02 01:11:38 +0000",
       "beef": "2025-03-02 01:11:38 +0000",
+      "baked_potato": "2025-03-02 01:58:44 +0000",
       "porkchop": "2025-03-02 01:11:38 +0000",
       "cooked_rabbit": "2025-03-02 01:25:53 +0000",
+      "cooked_chicken": "2025-03-02 02:04:37 +0000",
       "mushroom_stew": "2025-03-02 01:11:38 +0000",
       "cooked_salmon": "2025-03-02 01:11:38 +0000"
     },
@@ -2149,12 +2154,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/minecraft_trials_edition": {
-    "criteria": {
-      "minecraft_trials_edition": "2025-03-02 01:43:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-03-02 01:43:30 +0000"
@@ -2164,12 +2163,6 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs": {
     "criteria": {
       "has_tuff_bricks": "2025-03-02 01:43:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-03-02 01:43:40 +0000"
     },
     "done": true
   },
@@ -2185,12 +2178,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-03-02 01:43:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/tuff_brick_wall": {
     "criteria": {
       "has_tuff_bricks": "2025-03-02 01:43:30 +0000"
@@ -2203,9 +2190,99 @@
     },
     "done": true
   },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-03-02 01:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-03-02 01:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-03-02 01:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-03-02 01:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-02 01:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-02 02:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-02 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-03-02 02:02:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-03-02 02:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-03-02 02:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-03-02 01:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-02 01:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-02 01:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-02 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-03-02 02:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-03-02 01:55:08 +0000"
     },
     "done": true
   },
