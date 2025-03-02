@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-02 00:40:47 +0000",
+      "minecraft:flower_forest": "2025-03-02 23:46:10 +0000",
       "minecraft:beach": "2025-03-02 00:16:07 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-02 00:51:52 +0000",
       "minecraft:dark_forest": "2025-03-01 22:32:42 +0000",
@@ -23,6 +24,7 @@
       "minecraft:frozen_river": "2025-03-02 00:48:41 +0000",
       "minecraft:deep_dark": "2025-03-01 23:10:35 +0000",
       "minecraft:ocean": "2025-03-02 00:40:23 +0000",
+      "minecraft:sunflower_plains": "2025-03-02 23:48:26 +0000",
       "minecraft:grove": "2025-03-01 22:49:56 +0000",
       "minecraft:meadow": "2025-03-01 22:50:28 +0000",
       "minecraft:birch_forest": "2025-03-01 22:37:11 +0000",
@@ -456,7 +458,9 @@
       "minecraft:cave_spider": "2025-03-01 23:36:38 +0000",
       "minecraft:skeleton": "2025-03-01 22:38:03 +0000",
       "minecraft:breeze": "2025-03-02 02:07:10 +0000",
+      "minecraft:zombified_piglin": "2025-03-02 23:36:08 +0000",
       "minecraft:enderman": "2025-03-02 22:35:20 +0000",
+      "minecraft:magma_cube": "2025-03-02 23:38:13 +0000",
       "minecraft:spider": "2025-03-01 22:37:22 +0000",
       "minecraft:zombie": "2025-03-01 22:38:02 +0000",
       "minecraft:creeper": "2025-03-01 22:43:31 +0000",
@@ -1985,7 +1989,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-03-02 00:45:38 +0000"
+      "minecraft:soul_sand_valley": "2025-03-02 00:45:38 +0000",
+      "minecraft:basalt_deltas": "2025-03-02 23:36:27 +0000"
     },
     "done": false
   },
@@ -2439,9 +2444,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-02 23:38:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-03-02 21:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-02 23:41:56 +0000"
     },
     "done": true
   },
@@ -2541,6 +2558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-02 23:36:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-03-02 21:59:47 +0000"
@@ -2565,9 +2588,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-02 23:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-02 23:19:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-03-02 21:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-02 23:19:23 +0000"
     },
     "done": true
   },
@@ -2583,6 +2624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-02 23:36:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-02 21:59:47 +0000"
@@ -2595,15 +2642,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-02 23:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:18:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-02 23:48:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-02 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-02 23:31:17 +0000"
     },
     "done": true
   },
@@ -2637,9 +2702,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-02 23:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-02 23:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-03-02 21:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-02 23:37:36 +0000"
     },
     "done": true
   },
@@ -2661,9 +2744,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-02 23:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2025-03-02 23:30:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-03-02 23:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-02 23:43:05 +0000"
     },
     "done": true
   },
@@ -2691,6 +2792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-02 23:19:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-03-02 21:59:47 +0000"
@@ -2715,6 +2822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-02 23:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-03-02 21:59:47 +0000"
@@ -2733,6 +2846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-03-02 23:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 23:18:37 +0000"
@@ -2742,6 +2861,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-02 21:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-02 23:47:27 +0000"
     },
     "done": true
   },

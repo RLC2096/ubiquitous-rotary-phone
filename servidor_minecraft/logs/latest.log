@@ -40,3 +40,29 @@
 [22:45:11] [Server thread/INFO]: Xonsret was shot by Skeleton
 [22:45:43] [Server thread/INFO]: Xonsret was shot by Skeleton
 [23:09:41] [Server thread/INFO]: <El_Vertex_mc> La vida ya no tiene color, todo lo veo negro
+[23:28:56] [Server thread/INFO]: Villager class_1646['Villager'/45, l='ServerLevel[world]', x=344.93, y=39.00, z=-854.21] died, message: 'Villager hit the ground too hard while trying to escape Zombie'
+[23:29:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=557, y=69, z=-876} class_2338{x=558, y=69, z=-875}
+[23:29:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=557, y=69, z=-876} class_2338{x=558, y=69, z=-875}
+[23:29:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=556, y=70, z=-876} class_2338{x=556, y=68, z=-877}
+[23:29:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=565, y=71, z=-890} class_2338{x=565, y=69, z=-891}
+[23:29:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=567, y=70, z=-888} class_2338{x=568, y=69, z=-887}
+[23:29:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=567, y=70, z=-888} class_2338{x=568, y=69, z=-887}
+[23:29:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=567, y=71, z=-887} class_2338{x=567, y=69, z=-886}
+[23:29:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=572, y=71, z=-892} class_2338{x=574, y=70, z=-890}
+[23:29:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=572, y=71, z=-892} class_2338{x=574, y=70, z=-890}
+[23:30:26] [Server thread/INFO]: El_Vertex_mc has made the advancement [Wax On]
+[23:30:26] [Server thread/INFO]: Xonsret has made the advancement [Wax On]
+[23:31:17] [Server thread/INFO]: El_Vertex_mc has made the advancement [Enchanter]
+[23:31:17] [Server thread/INFO]: Xonsret has made the advancement [Enchanter]
+[23:36:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=270, y=60, z=-920} class_2338{x=270, y=61, z=-920}
+[23:39:29] [Server thread/INFO]: El_Vertex_mc fell from a high place
+[23:39:45] [Server thread/INFO]: El_Vertex_mc fell from a high place
+[23:44:52] [Server thread/INFO]: Xonsret lost connection: Disconnected
+[23:44:52] [Server thread/INFO]: Xonsret left the game
+[23:45:13] [User Authenticator #3/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
+[23:45:13] [Server thread/INFO]: Xonsret[/10.147.19.75:61554] logged in with entity id 29340 at (-231.82012306690044, 66.0, -1360.9953997634657)
+[23:45:13] [Server thread/INFO]: Xonsret joined the game
+[23:48:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-265, y=64, z=-1595} class_2338{x=-265, y=63, z=-1596}
+[23:48:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-270, y=64, z=-1595} class_2338{x=-271, y=62, z=-1594}
+[23:49:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-223, y=64, z=-1596} class_2338{x=-221, y=61, z=-1595}
+[23:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-73, y=65, z=-1697} class_2338{x=-74, y=63, z=-1696}
