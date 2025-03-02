@@ -16,6 +16,7 @@
       "minecraft:grove": "2025-03-01 22:49:56 +0000",
       "minecraft:meadow": "2025-03-01 22:50:28 +0000",
       "minecraft:birch_forest": "2025-03-01 22:37:11 +0000",
+      "minecraft:stony_shore": "2025-03-02 00:10:17 +0000",
       "minecraft:lush_caves": "2025-03-01 23:56:53 +0000",
       "minecraft:dripstone_caves": "2025-03-01 22:53:55 +0000"
     },
@@ -584,6 +585,7 @@
       "bread": "2025-03-01 23:18:04 +0000",
       "rotten_flesh": "2025-03-01 22:39:19 +0000",
       "cooked_mutton": "2025-03-01 22:41:23 +0000",
+      "sweet_berries": "2025-03-02 00:10:52 +0000",
       "cooked_beef": "2025-03-01 23:09:44 +0000",
       "cooked_salmon": "2025-03-01 22:52:59 +0000"
     },
@@ -673,6 +675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-02 00:06:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-01 22:59:21 +0000"
@@ -706,6 +714,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-01 22:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-02 00:06:00 +0000"
     },
     "done": true
   },
@@ -1267,6 +1281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-02 00:06:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-01 23:11:47 +0000"
@@ -1363,9 +1383,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-02 00:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-01 23:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-02 00:06:00 +0000"
     },
     "done": true
   },
@@ -1657,6 +1689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-02 00:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-01 22:48:07 +0000"
@@ -1678,6 +1716,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-01 22:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-02 00:07:41 +0000"
     },
     "done": true
   },
