@@ -12,3 +12,25 @@
 [01:01:16] [Server thread/INFO]: Xonsret was slain by Husk
 [01:21:37] [Server thread/INFO]: Xonsret has made the advancement [Crafting a New Look]
 [01:21:37] [Server thread/INFO]: El_Vertex_mc has made the advancement [Crafting a New Look]
+[01:32:33] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[01:32:33] [Server thread/INFO]: El_Vertex_mc left the game
+[01:33:03] [User Authenticator #3/INFO]: UUID of player El_Vertex_mc is 0eee84af-6cf9-46dc-b4f8-3ac0fe55989e
+[01:33:05] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:59720] logged in with entity id 35512 at (367.1940487233648, 94.0, -848.9615663804095)
+[01:33:05] [Server thread/INFO]: El_Vertex_mc joined the game
+[01:33:12] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[01:33:12] [Server thread/INFO]: El_Vertex_mc left the game
+[01:33:21] [User Authenticator #4/INFO]: UUID of player El_Vertex_mc is 0eee84af-6cf9-46dc-b4f8-3ac0fe55989e
+[01:33:22] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:59730] logged in with entity id 35549 at (362.3597708201854, 90.0, -842.7159971841701)
+[01:33:22] [Server thread/INFO]: El_Vertex_mc joined the game
+[01:33:33] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[01:33:33] [Server thread/INFO]: kill El_V/kill El_Vertex_mc/KILL/kill El_Vertex_mc<--[HERE]
+[01:33:34] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[01:33:34] [Server thread/INFO]: El_Vertex_mc left the game
+[01:34:13] [User Authenticator #5/INFO]: UUID of player El_Vertex_mc is 0eee84af-6cf9-46dc-b4f8-3ac0fe55989e
+[01:34:14] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:59748] logged in with entity id 35663 at (374.486769953976, 90.5625, -850.5428592024998)
+[01:34:14] [Server thread/INFO]: El_Vertex_mc joined the game
+[01:34:22] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[01:34:22] [Server thread/INFO]: ..._Vertex_mc/kill El_Vertex_mc<--[HERE]
+[01:34:33] [Server thread/INFO]: El_Vertex_mc was killed
+[01:34:33] [Server thread/INFO]: Killed El_Vertex_mc
+[01:36:13] [Server thread/INFO]: Teleported El_Vertex_mc to Xonsret
