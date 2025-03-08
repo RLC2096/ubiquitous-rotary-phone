@@ -455,17 +455,23 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2025-03-01 23:36:38 +0000",
+      "minecraft:pillager": "2025-03-07 23:57:07 +0000",
       "minecraft:skeleton": "2025-03-01 22:38:03 +0000",
-      "minecraft:breeze": "2025-03-02 02:07:10 +0000",
       "minecraft:zombified_piglin": "2025-03-02 23:36:08 +0000",
+      "minecraft:witch": "2025-03-08 00:00:17 +0000",
+      "minecraft:ravager": "2025-03-08 00:00:07 +0000",
+      "minecraft:husk": "2025-03-02 01:57:43 +0000",
+      "minecraft:cave_spider": "2025-03-01 23:36:38 +0000",
+      "minecraft:breeze": "2025-03-02 02:07:10 +0000",
+      "minecraft:vindicator": "2025-03-07 23:58:16 +0000",
       "minecraft:enderman": "2025-03-02 22:35:20 +0000",
       "minecraft:magma_cube": "2025-03-02 23:38:13 +0000",
       "minecraft:spider": "2025-03-01 22:37:22 +0000",
+      "minecraft:vex": "2025-03-08 00:03:14 +0000",
       "minecraft:zombie": "2025-03-01 22:38:02 +0000",
       "minecraft:creeper": "2025-03-01 22:43:31 +0000",
       "minecraft:drowned": "2025-03-01 22:44:38 +0000",
-      "minecraft:husk": "2025-03-02 01:57:43 +0000"
+      "minecraft:evoker": "2025-03-08 00:02:48 +0000"
     },
     "done": false
   },
@@ -3146,6 +3152,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-07 22:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-07 23:57:13 +0000"
     },
     "done": true
   },
