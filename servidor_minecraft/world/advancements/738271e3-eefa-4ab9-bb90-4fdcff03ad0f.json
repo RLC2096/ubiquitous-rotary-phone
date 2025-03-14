@@ -1266,6 +1266,7 @@
       "minecraft:witch": "2025-03-14 23:23:02 +0000",
       "minecraft:ravager": "2025-03-14 23:23:02 +0000",
       "minecraft:husk": "2025-03-02 01:57:43 +0000",
+      "minecraft:ghast": "2025-03-14 23:38:01 +0000",
       "minecraft:cave_spider": "2025-03-02 01:11:38 +0000",
       "minecraft:breeze": "2025-03-02 02:07:10 +0000",
       "minecraft:vindicator": "2025-03-14 23:23:02 +0000",
@@ -2979,6 +2980,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-03-14 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-03-14 23:38:01 +0000"
     },
     "done": true
   },
