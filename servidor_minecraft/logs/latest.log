@@ -8,3 +8,5 @@
 [00:39:59] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:57590] logged in with entity id 24039 at (386.90847991644466, 90.0, -829.5535156180189)
 [00:39:59] [Server thread/INFO]: El_Vertex_mc joined the game
 [00:46:45] [Server thread/INFO]: <GamerJ2002> 300 -800
+[01:01:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=377, y=94, z=-862} class_2338{x=375, y=94, z=-864}
+[01:03:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=368, y=90, z=-861} class_2338{x=369, y=97, z=-862}
