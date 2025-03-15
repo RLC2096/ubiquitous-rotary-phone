@@ -30,3 +30,4 @@
 [23:25:00] [User Authenticator #2/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
 [23:25:01] [Server thread/INFO]: Xonsret[/10.147.19.75:63406] logged in with entity id 1805 at (426.29808068716835, 87.0, -843.7558097912141)
 [23:25:01] [Server thread/INFO]: Xonsret joined the game
+[23:30:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=46, y=100, z=-104} class_2338{x=47, y=101, z=-102}
