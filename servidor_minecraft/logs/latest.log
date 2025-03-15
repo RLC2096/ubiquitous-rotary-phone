@@ -10,3 +10,43 @@
 [00:46:45] [Server thread/INFO]: <GamerJ2002> 300 -800
 [01:01:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=377, y=94, z=-862} class_2338{x=375, y=94, z=-864}
 [01:03:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=368, y=90, z=-861} class_2338{x=369, y=97, z=-862}
+[01:56:05] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
+[01:56:05] [Server thread/INFO]: GamerJ2002 left the game
+[01:56:07] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[01:56:07] [Server thread/INFO]: El_Vertex_mc left the game
+[01:56:16] [User Authenticator #5/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
+[01:56:17] [Server thread/INFO]: GamerJ2002[/10.147.19.237:55105] logged in with entity id 40585 at (388.9347819726395, 74.0, -878.168164445835)
+[01:56:17] [Server thread/INFO]: GamerJ2002 joined the game
+[01:56:29] [User Authenticator #6/INFO]: UUID of player El_Vertex_mc is 0eee84af-6cf9-46dc-b4f8-3ac0fe55989e
+[01:56:30] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:61898] logged in with entity id 40636 at (344.94801530954, 40.121296840539195, -847.4483985755109)
+[01:56:30] [Server thread/INFO]: El_Vertex_mc joined the game
+[01:57:00] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
+[01:57:00] [Server thread/INFO]: GamerJ2002 left the game
+[01:57:12] [User Authenticator #7/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
+[01:57:13] [Server thread/INFO]: GamerJ2002[/10.147.19.237:55182] logged in with entity id 40814 at (385.13296816166286, 78.0, -868.3090175580224)
+[01:57:13] [Server thread/INFO]: GamerJ2002 joined the game
+[01:58:19] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
+[01:58:19] [Server thread/INFO]: GamerJ2002 left the game
+[01:58:34] [User Authenticator #8/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
+[01:58:35] [Server thread/INFO]: GamerJ2002[/10.147.19.237:55267] logged in with entity id 41200 at (350.3445513346811, 91.99581215505802, -883.9064412268051)
+[01:58:35] [Server thread/INFO]: GamerJ2002 joined the game
+[01:58:53] [Server thread/INFO]: Xonsret lost connection: Disconnected
+[01:58:53] [Server thread/INFO]: Xonsret left the game
+[01:59:19] [User Authenticator #9/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
+[01:59:19] [Server thread/INFO]: Xonsret[/10.147.19.75:58654] logged in with entity id 41435 at (345.30000001192093, 84.0, -866.6999999880791)
+[01:59:19] [Server thread/INFO]: Xonsret joined the game
+[01:59:39] [Server thread/INFO]: GamerJ2002 was doomed to fall by Vindicator
+[01:59:54] [Server thread/INFO]: Xonsret lost connection: Disconnected
+[01:59:54] [Server thread/INFO]: Xonsret left the game
+[02:00:11] [User Authenticator #10/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
+[02:00:12] [Server thread/INFO]: Xonsret[/10.147.19.75:58699] logged in with entity id 41640 at (353.6771729406367, 46.0, -862.4375905013341)
+[02:00:12] [Server thread/INFO]: Xonsret joined the game
+[02:03:30] [Server thread/INFO]: Xonsret lost connection: Timed out
+[02:03:30] [Server thread/INFO]: Xonsret left the game
+[02:06:03] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
+[02:06:03] [Server thread/INFO]: GamerJ2002 left the game
+[02:06:04] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[02:06:04] [Server thread/INFO]: El_Vertex_mc left the game
+[02:06:35] [User Authenticator #11/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
+[02:06:36] [Server thread/INFO]: Xonsret[/10.147.19.75:50679] logged in with entity id 42875 at (343.20958321105684, 84.0, -834.9109918847413)
+[02:06:36] [Server thread/INFO]: Xonsret joined the game
