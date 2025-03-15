@@ -3301,6 +3301,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+    "criteria": {
+      "comparator": "2025-03-15 00:21:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-03-14 23:23:02 +0000"

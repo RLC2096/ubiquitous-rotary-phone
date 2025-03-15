@@ -3465,5 +3465,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+    "criteria": {
+      "comparator": "2025-03-15 00:21:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
