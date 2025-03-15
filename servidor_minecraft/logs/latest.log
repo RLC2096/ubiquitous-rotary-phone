@@ -31,3 +31,11 @@
 [23:25:01] [Server thread/INFO]: Xonsret[/10.147.19.75:63406] logged in with entity id 1805 at (426.29808068716835, 87.0, -843.7558097912141)
 [23:25:01] [Server thread/INFO]: Xonsret joined the game
 [23:30:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=46, y=100, z=-104} class_2338{x=47, y=101, z=-102}
+[23:44:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=31, y=83, z=-104} class_2338{x=31, y=83, z=-105}
+[23:44:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=31, y=82, z=-104} class_2338{x=31, y=83, z=-105}
+[23:44:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=31, y=83, z=-103} class_2338{x=31, y=84, z=-103}
+[23:44:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=31, y=83, z=-102} class_2338{x=31, y=84, z=-103}
+[23:44:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=31, y=83, z=-101} class_2338{x=31, y=84, z=-103}
+[23:44:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=31, y=83, z=-103} class_2338{x=31, y=84, z=-103}
+[23:45:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=32, y=83, z=-73} class_2338{x=32, y=84, z=-73}
+[23:45:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=32, y=83, z=-72} class_2338{x=32, y=84, z=-73}
