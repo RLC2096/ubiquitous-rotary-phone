@@ -30,3 +30,19 @@
 [22:48:57] [User Authenticator #2/INFO]: UUID of player El_Vertex_mc is 0eee84af-6cf9-46dc-b4f8-3ac0fe55989e
 [22:48:58] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:58859] logged in with entity id 357 at (373.47727411129756, 90.0, -853.5118452640494)
 [22:48:58] [Server thread/INFO]: El_Vertex_mc joined the game
+[23:01:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=36, y=90, z=-44} class_2338{x=8, y=85, z=11}
+[23:01:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=36, y=90, z=-44} class_2338{x=8, y=85, z=11}
+[23:01:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=36, y=90, z=-44} class_2338{x=8, y=85, z=11}
+[23:01:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=36, y=90, z=-44} class_2338{x=8, y=85, z=11}
+[23:01:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=36, y=90, z=-44} class_2338{x=8, y=85, z=11}
+[23:01:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2, y=90, z=24} class_2338{x=1, y=90, z=24}
+[23:01:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2, y=90, z=24} class_2338{x=3, y=90, z=24}
+[23:02:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1, y=98, z=60} class_2338{x=1, y=99, z=59}
+[23:02:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1, y=99, z=60} class_2338{x=1, y=99, z=59}
+[23:04:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=75, z=132} class_2338{x=-12, y=73, z=132}
+[23:04:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=71, z=128} class_2338{x=-15, y=72, z=128}
+[23:05:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=70, z=128} class_2338{x=-5, y=79, z=130}
+[23:05:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=70, z=128} class_2338{x=-5, y=79, z=130}
+[23:05:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=70, z=128} class_2338{x=-5, y=79, z=130}
+[23:05:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=70, z=128} class_2338{x=-5, y=79, z=130}
+[23:05:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=70, z=128} class_2338{x=-5, y=79, z=130}
