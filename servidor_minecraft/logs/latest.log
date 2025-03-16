@@ -1,3 +1,9 @@
 [00:05:17] [Server thread/INFO]: El_Vertex_mc has made the advancement [A Terrible Fortress]
 [00:05:17] [Server thread/INFO]: Xonsret has made the advancement [A Terrible Fortress]
 [00:06:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=246, y=51, z=219} class_2338{x=284, y=68, z=203}
+[00:06:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=323, y=76, z=188} class_2338{x=316, y=77, z=185}
+[00:07:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
+[00:08:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=315, y=74, z=168} class_2338{x=2536, y=62, z=1456}
+[00:08:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=315, y=74, z=168} class_2338{x=2536, y=62, z=1456}
+[00:08:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=315, y=74, z=168} class_2338{x=2536, y=62, z=1456}
+[00:12:49] [Server thread/INFO]: <Xonsret> X 52 Y 83 Z-109
