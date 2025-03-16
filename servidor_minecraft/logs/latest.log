@@ -85,3 +85,10 @@
 [02:04:54] [Server thread/INFO]: GamerJ2002[/10.147.19.237:58065] logged in with entity id 48558 at (401.30000001192093, 86.0, -850.6999999880791)
 [02:04:54] [Server thread/INFO]: GamerJ2002 joined the game
 [02:06:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=399, y=105, z=-850} class_2338{x=398, y=106, z=-850}
+[02:08:32] [Server thread/WARN]: GamerJ2002 moved too quickly! -3.870689311673118,0.0,9.234975017166562
+[02:11:10] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
+[02:11:10] [Server thread/INFO]: GamerJ2002 left the game
+[02:11:22] [User Authenticator #11/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
+[02:11:23] [Server thread/INFO]: GamerJ2002[/10.147.19.237:58317] logged in with entity id 49931 at (380.8139351354455, 90.0, -841.0157931378608)
+[02:11:23] [Server thread/INFO]: GamerJ2002 joined the game
+[02:12:50] [Server thread/INFO]: GamerJ2002 was slain by Iron Golem
