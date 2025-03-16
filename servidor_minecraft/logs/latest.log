@@ -1,128 +1,32 @@
-[00:05:17] [Server thread/INFO]: El_Vertex_mc has made the advancement [A Terrible Fortress]
-[00:05:17] [Server thread/INFO]: Xonsret has made the advancement [A Terrible Fortress]
-[00:06:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=246, y=51, z=219} class_2338{x=284, y=68, z=203}
-[00:06:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=323, y=76, z=188} class_2338{x=316, y=77, z=185}
-[00:07:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
-[00:08:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=315, y=74, z=168} class_2338{x=2536, y=62, z=1456}
-[00:08:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=315, y=74, z=168} class_2338{x=2536, y=62, z=1456}
-[00:08:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=315, y=74, z=168} class_2338{x=2536, y=62, z=1456}
-[00:12:49] [Server thread/INFO]: <Xonsret> X 52 Y 83 Z-109
-[00:18:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=293, y=72, z=158} class_2338{x=291, y=74, z=159}
-[00:18:35] [Server thread/INFO]: El_Vertex_mc has made the advancement [Into Fire]
-[00:18:35] [Server thread/INFO]: Xonsret has made the advancement [Into Fire]
-[00:22:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=314, y=73, z=128} class_2338{x=302, y=73, z=109}
-[00:25:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=82, z=101} class_2338{x=296, y=82, z=102}
-[00:26:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=296, y=83, z=101} class_2338{x=296, y=82, z=102}
-[00:26:10] [Server thread/INFO]: Xonsret fell from a high place
-[00:27:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=285, y=87, z=77} class_2338{x=281, y=87, z=73}
-[00:28:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=275, y=87, z=63} class_2338{x=271, y=81, z=55}
-[00:28:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=275, y=87, z=63} class_2338{x=270, y=81, z=54}
-[00:35:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=50, y=75, z=31} class_2338{x=50, y=76, z=31}
-[00:35:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=49, y=74, z=31} class_2338{x=50, y=76, z=31}
-[00:35:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=48, y=74, z=31} class_2338{x=50, y=76, z=31}
-[00:35:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=50, y=75, z=31} class_2338{x=50, y=76, z=31}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:36:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=81, z=22} class_2338{x=22, y=80, z=22}
-[00:39:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=317, y=72, z=158} class_2338{x=340, y=74, z=142}
-[00:39:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=317, y=72, z=158} class_2338{x=340, y=74, z=142}
-[00:39:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=317, y=72, z=158} class_2338{x=340, y=74, z=142}
-[00:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=305, y=70, z=197} class_2338{x=285, y=69, z=192}
-[00:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=305, y=70, z=197} class_2338{x=285, y=69, z=192}
-[00:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=305, y=70, z=197} class_2338{x=285, y=69, z=192}
-[00:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=305, y=70, z=197} class_2338{x=285, y=69, z=192}
-[00:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=305, y=70, z=197} class_2338{x=285, y=69, z=192}
-[00:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=305, y=70, z=197} class_2338{x=285, y=69, z=192}
-[01:27:36] [User Authenticator #3/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[01:27:43] [Server thread/INFO]: GamerJ2002[/10.147.19.237:56945] logged in with entity id 41649 at (403.8688908242861, 109.0, -837.735365983638)
-[01:27:43] [Server thread/INFO]: GamerJ2002 joined the game
-[01:27:43] [Server thread/INFO]: GamerJ2002 has made the advancement [Into Fire]
-[01:27:43] [Server thread/INFO]: GamerJ2002 has made the advancement [A Terrible Fortress]
-[01:36:28] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[01:36:28] [Server thread/INFO]: GamerJ2002 left the game
-[01:36:28] [Server thread/WARN]: handleDisconnection() called twice
-[01:36:36] [User Authenticator #4/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[01:36:38] [Server thread/INFO]: GamerJ2002[/10.147.19.237:57199] logged in with entity id 43309 at (366.58630411287635, 90.0, -848.9922963035223)
-[01:36:38] [Server thread/INFO]: GamerJ2002 joined the game
-[01:42:01] [Server thread/WARN]: GamerJ2002 moved too quickly! 8.21665722136521,-1.130906499714527,-5.84613682803456
-[01:52:24] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[01:52:24] [Server thread/INFO]: GamerJ2002 left the game
-[01:52:41] [User Authenticator #5/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[01:52:44] [Server thread/INFO]: GamerJ2002[/10.147.19.237:57742] logged in with entity id 46176 at (374.5, 90.0, -853.5)
-[01:52:44] [Server thread/INFO]: GamerJ2002 joined the game
-[01:53:17] [Server thread/INFO]: <El_Vertex_mc> el barco
-[01:54:24] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
-[01:54:24] [Server thread/INFO]: GamerJ2002 left the game
-[01:54:56] [User Authenticator #6/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[01:55:00] [Server thread/INFO]: GamerJ2002[/10.147.19.237:57794] logged in with entity id 46642 at (370.90503684893616, 90.0625, -859.98659380803)
-[01:55:00] [Server thread/INFO]: GamerJ2002 joined the game
-[01:58:58] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[01:58:58] [Server thread/INFO]: GamerJ2002 left the game
-[01:59:26] [User Authenticator #7/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[01:59:28] [Server thread/INFO]: GamerJ2002[/10.147.19.237:57917] logged in with entity id 47376 at (393.15950915292905, 92.0, -856.9299292214201)
-[01:59:28] [Server thread/INFO]: GamerJ2002 joined the game
-[02:00:39] [User Authenticator #8/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[02:00:44] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:00:44] [Server thread/INFO]: GamerJ2002 left the game
-[02:00:45] [Server thread/INFO]: GamerJ2002[/10.147.19.237:57958] logged in with entity id 47606 at (392.2680459560841, 91.8145691723728, -847.2443171782223)
-[02:00:45] [Server thread/INFO]: GamerJ2002 joined the game
-[02:01:15] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:01:15] [Server thread/INFO]: GamerJ2002 left the game
-[02:01:26] [User Authenticator #9/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[02:01:27] [Server thread/INFO]: GamerJ2002[/10.147.19.237:57983] logged in with entity id 47750 at (376.3829071980082, 90.0, -842.6860792260987)
-[02:01:27] [Server thread/INFO]: GamerJ2002 joined the game
-[02:03:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=402, y=100, z=-857} class_2338{x=403, y=100, z=-857}
-[02:04:12] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:04:12] [Server thread/INFO]: GamerJ2002 left the game
-[02:04:53] [User Authenticator #10/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[02:04:54] [Server thread/INFO]: GamerJ2002[/10.147.19.237:58065] logged in with entity id 48558 at (401.30000001192093, 86.0, -850.6999999880791)
-[02:04:54] [Server thread/INFO]: GamerJ2002 joined the game
-[02:06:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=399, y=105, z=-850} class_2338{x=398, y=106, z=-850}
-[02:08:32] [Server thread/WARN]: GamerJ2002 moved too quickly! -3.870689311673118,0.0,9.234975017166562
-[02:11:10] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:11:10] [Server thread/INFO]: GamerJ2002 left the game
-[02:11:22] [User Authenticator #11/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[02:11:23] [Server thread/INFO]: GamerJ2002[/10.147.19.237:58317] logged in with entity id 49931 at (380.8139351354455, 90.0, -841.0157931378608)
-[02:11:23] [Server thread/INFO]: GamerJ2002 joined the game
-[02:12:50] [Server thread/INFO]: GamerJ2002 was slain by Iron Golem
-[02:19:27] [User Authenticator #12/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[02:19:31] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:19:31] [Server thread/INFO]: GamerJ2002 left the game
-[02:19:52] [Server thread/INFO]: GamerJ2002[/10.147.19.237:58665] logged in with entity id 51532 at (396.6630130832564, 105.0, -849.7526390195893)
-[02:19:52] [Server thread/INFO]: GamerJ2002 joined the game
-[02:20:32] [User Authenticator #13/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[02:20:43] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:20:43] [Server thread/INFO]: GamerJ2002 left the game
-[02:20:44] [Server thread/INFO]: GamerJ2002[/10.147.19.237:58744] logged in with entity id 51670 at (401.6147994932355, 85.0, -849.2455558188713)
-[02:20:44] [Server thread/INFO]: GamerJ2002 joined the game
-[02:21:33] [User Authenticator #14/INFO]: UUID of player GamerJ2002 is 738271e3-eefa-4ab9-bb90-4fdcff03ad0f
-[02:21:34] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
-[02:21:34] [Server thread/INFO]: GamerJ2002 left the game
-[02:21:34] [Server thread/INFO]: GamerJ2002[/10.147.19.237:58813] logged in with entity id 51803 at (395.95164754123647, 95.0, -857.2772785419309)
-[02:21:34] [Server thread/INFO]: GamerJ2002 joined the game
-[02:23:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=397, y=94, z=-858} class_2338{x=396, y=94, z=-858}
-[02:24:05] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:24:05] [Server thread/INFO]: GamerJ2002 left the game
-[02:50:04] [Server thread/INFO]: El_Vertex_mc has made the advancement [Local Brewery]
-[02:50:04] [Server thread/INFO]: Xonsret has made the advancement [Local Brewery]
-[02:53:00] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[02:53:00] [Server thread/INFO]: El_Vertex_mc left the game
-[03:18:45] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[03:18:45] [Server thread/INFO]: Xonsret left the game
-[03:20:37] [User Authenticator #15/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
-[03:20:38] [Server thread/INFO]: Xonsret[/10.147.19.75:49804] logged in with entity id 62054 at (352.0683489494666, 73.0, 158.7106155375574)
-[03:20:38] [Server thread/INFO]: Xonsret joined the game
-[03:22:43] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[03:22:43] [Server thread/INFO]: Xonsret left the game
-[03:27:36] [User Authenticator #16/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
-[03:27:36] [Server thread/INFO]: Xonsret[/10.147.19.75:49889] logged in with entity id 62416 at (318.9145244801233, 73.0, 158.44179693319737)
-[03:27:36] [Server thread/INFO]: Xonsret joined the game
-[04:10:55] [Server thread/INFO]: Named entity class_1462['de enanos albinos'/64289, l='ServerLevel[world]', x=378.36, y=89.00, z=-845.35] died: de enanos albinos was slain by Fox
-[04:31:54] [Server thread/INFO]: Villager class_1646['Librarian'/64211, l='ServerLevel[world]', x=371.30, y=90.42, z=-848.50] was struck by lightning class_1538['Lightning Bolt'/70773, l='ServerLevel[world]', x=370.50, y=95.00, z=-850.50].
+[22:47:27] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[22:47:27] [main/INFO]: Loading 5 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21
+	- sharedadvancements 1.21.3-5.0.0
+[22:47:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:47:27] [main/INFO]: Compatibility level set to JAVA_17
+[22:47:35] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
+[22:47:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:47:38] [main/INFO]: Loaded 1290 recipes
+[22:47:38] [main/INFO]: Loaded 1399 advancements
+[22:47:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:47:39] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:47:39] [Server thread/INFO]: Loading properties
+[22:47:39] [Server thread/INFO]: Default game type: SURVIVAL
+[22:47:39] [Server thread/INFO]: Generating keypair
+[22:47:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:47:39] [Server thread/INFO]: Using epoll channel type
+[22:47:39] [Server thread/INFO]: Preparing level "world"
+[22:47:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:47:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:47:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:47:47] [Server thread/INFO]: Time elapsed: 756 ms
+[22:47:47] [Server thread/INFO]: Done (7.629s)! For help, type "help"
+[22:48:31] [User Authenticator #1/INFO]: UUID of player Xonsret is 314d6caa-fd26-49d7-b4f3-40397d185fb1
+[22:48:32] [Server thread/INFO]: Xonsret[/10.147.19.75:63054] logged in with entity id 4 at (356.48963179543944, 90.0, -850.888790184922)
+[22:48:32] [Server thread/INFO]: Xonsret joined the game
+[22:48:57] [User Authenticator #2/INFO]: UUID of player El_Vertex_mc is 0eee84af-6cf9-46dc-b4f8-3ac0fe55989e
+[22:48:58] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:58859] logged in with entity id 357 at (373.47727411129756, 90.0, -853.5118452640494)
+[22:48:58] [Server thread/INFO]: El_Vertex_mc joined the game
