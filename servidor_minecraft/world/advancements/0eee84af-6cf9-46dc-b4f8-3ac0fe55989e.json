@@ -460,10 +460,12 @@
       "minecraft:phantom": "2025-03-15 00:46:14 +0000",
       "minecraft:zombified_piglin": "2025-03-02 23:36:08 +0000",
       "minecraft:witch": "2025-03-08 00:00:17 +0000",
+      "minecraft:wither_skeleton": "2025-03-16 00:05:28 +0000",
       "minecraft:ravager": "2025-03-08 00:00:07 +0000",
       "minecraft:husk": "2025-03-02 01:57:43 +0000",
       "minecraft:ghast": "2025-03-14 23:38:01 +0000",
       "minecraft:cave_spider": "2025-03-01 23:36:38 +0000",
+      "minecraft:piglin": "2025-03-16 00:02:38 +0000",
       "minecraft:breeze": "2025-03-02 02:07:10 +0000",
       "minecraft:vindicator": "2025-03-07 23:58:16 +0000",
       "minecraft:enderman": "2025-03-02 22:35:20 +0000",
@@ -2003,6 +2005,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2025-03-02 00:45:38 +0000",
+      "minecraft:nether_wastes": "2025-03-16 00:00:42 +0000",
       "minecraft:basalt_deltas": "2025-03-02 23:36:27 +0000"
     },
     "done": false
@@ -3560,6 +3563,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-15 23:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-16 00:05:17 +0000"
     },
     "done": true
   },
