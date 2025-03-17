@@ -2010,9 +2010,10 @@
       "minecraft:crimson_forest": "2025-03-16 23:12:57 +0000",
       "minecraft:soul_sand_valley": "2025-03-02 00:45:38 +0000",
       "minecraft:nether_wastes": "2025-03-16 00:00:42 +0000",
-      "minecraft:basalt_deltas": "2025-03-02 23:36:27 +0000"
+      "minecraft:basalt_deltas": "2025-03-02 23:36:27 +0000",
+      "minecraft:warped_forest": "2025-03-17 00:01:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
@@ -3876,6 +3877,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-17 00:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-03-16 23:18:55 +0000"
@@ -3981,6 +3988,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-16 23:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-17 00:07:08 +0000"
     },
     "done": true
   },
