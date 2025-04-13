@@ -161,3 +161,10 @@
 [02:04:47] [Server thread/INFO]: GamerJ2002[/10.147.19.237:50763] logged in with entity id 55419 at (59.30689549110319, 82.0, -104.94642394297588)
 [02:04:47] [Server thread/INFO]: GamerJ2002 joined the game
 [02:06:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-20, y=12, z=-128} class_2338{x=-20, y=11, z=-128}
+[02:14:25] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
+[02:14:25] [Server thread/INFO]: GamerJ2002 left the game
+[02:15:29] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51129] logged in with entity id 58364 at (368.66327741124667, 90.0, -830.694309142422)
+[02:15:29] [Server thread/INFO]: GamerJ2002 joined the game
+[02:16:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=6, z=-133} class_2338{x=-98, y=5, z=-132}
+[02:19:15] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
+[02:19:15] [Server thread/INFO]: GamerJ2002 left the game
