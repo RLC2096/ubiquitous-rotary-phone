@@ -1268,6 +1268,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-04-13 21:03:58 +0000",
       "minecraft:sheep": "2025-04-12 23:38:20 +0000"
     },
     "done": false
@@ -2952,6 +2953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-13 21:06:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-04-13 20:34:52 +0000"
@@ -2961,6 +2968,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-04-13 20:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-13 21:06:45 +0000"
     },
     "done": true
   },
