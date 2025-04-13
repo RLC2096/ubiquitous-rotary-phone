@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-12 23:22:14 +0000"
@@ -1251,6 +1257,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-13 00:14:00 +0000",
       "minecraft:blaze": "2025-04-12 23:28:00 +0000",
       "minecraft:skeleton": "2025-04-12 23:33:33 +0000",
       "minecraft:magma_cube": "2025-04-12 23:27:00 +0000",
@@ -1268,6 +1275,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-12 23:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-13 00:14:07 +0000"
     },
     "done": true
   },
@@ -1475,6 +1488,7 @@
       "minecraft:beach": "2025-04-12 23:24:15 +0000",
       "minecraft:forest": "2025-04-12 23:17:29 +0000",
       "minecraft:taiga": "2025-04-12 23:17:29 +0000",
+      "minecraft:ocean": "2025-04-13 00:13:35 +0000",
       "minecraft:river": "2025-04-12 23:17:29 +0000",
       "minecraft:birch_forest": "2025-04-12 23:17:29 +0000",
       "minecraft:lush_caves": "2025-04-12 23:53:56 +0000"
@@ -2035,6 +2049,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-12 23:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-04-13 00:13:31 +0000"
     },
     "done": true
   },
