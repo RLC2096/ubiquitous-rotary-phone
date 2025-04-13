@@ -2620,9 +2620,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:nether/netherite_armor": {
     "criteria": {
-      "iron_chestplate": "2025-04-13 02:25:33 +0000"
+      "netherite_armor": "2025-04-13 02:22:56 +0000"
     },
     "done": true
   },
@@ -2638,9 +2638,9 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "netherite_armor": "2025-04-13 02:22:56 +0000"
+      "iron_chestplate": "2025-04-13 02:25:33 +0000"
     },
     "done": true
   },

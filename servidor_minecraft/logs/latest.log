@@ -219,3 +219,31 @@
 [02:27:27] [Server thread/INFO]: Moreauler hit the ground too hard
 [02:27:47] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
 [02:30:43] [Server thread/INFO]: [Xonsret: Removed 1 item(s) from player GamerJ2002]
+[02:31:33] [Server thread/INFO]: [Xonsret: Kicked GamerJ2002: Kicked by an operator]
+[02:31:33] [Server thread/INFO]: GamerJ2002 lost connection: Kicked by an operator
+[02:31:33] [Server thread/INFO]: GamerJ2002 left the game
+[02:31:42] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51590] logged in with entity id 62489 at (351.5, 90.5625, -851.5)
+[02:31:42] [Server thread/INFO]: GamerJ2002 joined the game
+[02:33:08] [Server thread/WARN]: GamerJ2002 moved too quickly! -0.028697711677651228,0.0,10.420023844706066
+[02:34:34] [Server thread/INFO]: GamerJ2002 lost connection: You logged in from another location
+[02:34:34] [Server thread/INFO]: GamerJ2002 left the game
+[02:34:35] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51754] logged in with entity id 63811 at (240.233805033964, 81.0, 31.12899652606923)
+[02:34:35] [Server thread/INFO]: GamerJ2002 joined the game
+[02:35:33] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
+[02:35:33] [Server thread/INFO]: GamerJ2002 left the game
+[02:36:03] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51863] logged in with entity id 64308 at (280.1067341207581, 67.0, 107.39301057775488)
+[02:36:03] [Server thread/INFO]: GamerJ2002 joined the game
+[02:36:22] [Server thread/INFO]: GamerJ2002 was slain by Magma Cube
+[02:36:33] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
+[02:36:33] [Server thread/INFO]: GamerJ2002 left the game
+[02:36:45] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51929] logged in with entity id 64704 at (279.86618836081493, 67.0, 106.34464761660298)
+[02:36:45] [Server thread/INFO]: GamerJ2002 joined the game
+[02:37:55] [Server thread/WARN]: GamerJ2002 moved too quickly! 10.256247009188456,0.42355929454303975,-0.23406729130210024
+[02:39:10] [Server thread/INFO]: Xonsret lost connection: Disconnected
+[02:39:10] [Server thread/INFO]: Xonsret left the game
+[02:39:23] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
+[02:39:23] [Server thread/INFO]: GamerJ2002 left the game
+[02:44:35] [Server thread/INFO]: Moreauler was slain by Piglin
+[02:45:13] [Server thread/INFO]: Xonsret[/10.147.19.75:63906] logged in with entity id 68073 at (371.0903334934001, 90.0, -843.7896002396491)
+[02:45:13] [Server thread/INFO]: Xonsret joined the game
+[03:08:07] [Server thread/WARN]: El_Vertex_mc moved too quickly! -2.585140929846318,0.49520087700592796,-9.937421129872405
