@@ -32,3 +32,25 @@
 [20:08:37] [Server thread/INFO]: Xonsret joined the game
 [20:11:07] [Server thread/INFO]: Moreauler[/10.147.19.91:64512] logged in with entity id 532 at (370.46753332751905, 90.0, -835.4383001182871)
 [20:11:07] [Server thread/INFO]: Moreauler joined the game
+[20:17:52] [Server thread/INFO]: Moreauler fell from a high place
+[20:18:03] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
+[20:18:41] [Server thread/INFO]: Locating element minecraft:warped_forest took 8 ms
+[20:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-268, y=48, z=-2} class_2338{x=-268, y=47, z=-1}
+[20:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-268, y=48, z=-2} class_2338{x=-268, y=47, z=-1}
+[20:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-268, y=48, z=-2} class_2338{x=-268, y=47, z=-1}
+[20:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-268, y=48, z=-2} class_2338{x=-268, y=47, z=-1}
+[20:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-268, y=48, z=-2} class_2338{x=-268, y=47, z=-1}
+[20:21:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-267, y=53, z=-13} class_2338{x=-267, y=53, z=-14}
+[20:24:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-354, y=55, z=-121} class_2338{x=-354, y=56, z=-121}
+[20:24:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-354, y=55, z=-121} class_2338{x=-354, y=56, z=-121}
+[20:24:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-354, y=55, z=-121} class_2338{x=-354, y=56, z=-121}
+[20:24:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-381, y=44, z=-122} class_2338{x=-380, y=43, z=-122}
+[20:24:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-389, y=44, z=-122} class_2338{x=-389, y=45, z=-122}
+[20:24:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-389, y=44, z=-122} class_2338{x=-389, y=45, z=-122}
+[20:24:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-389, y=44, z=-122} class_2338{x=-389, y=45, z=-122}
+[20:24:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-389, y=44, z=-122} class_2338{x=-389, y=45, z=-122}
+[20:24:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-389, y=44, z=-122} class_2338{x=-389, y=45, z=-122}
+[20:25:49] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
+[20:26:01] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
+[20:28:08] [Server thread/INFO]: Xonsret has completed the challenge [Hot Tourist Destinations]
+[20:28:08] [Server thread/INFO]: Moreauler has completed the challenge [Hot Tourist Destinations]

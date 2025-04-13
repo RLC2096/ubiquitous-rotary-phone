@@ -926,6 +926,7 @@
       "minecraft:skeleton": "2025-04-12 23:33:33 +0000",
       "minecraft:phantom": "2025-04-13 16:49:10 +0000",
       "minecraft:witch": "2025-04-13 00:19:44 +0000",
+      "minecraft:wither_skeleton": "2025-04-13 20:20:00 +0000",
       "minecraft:ravager": "2025-04-13 00:19:37 +0000",
       "minecraft:ghast": "2025-04-12 23:26:02 +0000",
       "minecraft:hoglin": "2025-04-13 03:00:21 +0000",
@@ -1086,9 +1087,10 @@
       "minecraft:crimson_forest": "2025-04-13 02:56:55 +0000",
       "minecraft:nether_wastes": "2025-04-12 23:27:51 +0000",
       "minecraft:soul_sand_valley": "2025-04-12 23:25:24 +0000",
-      "minecraft:basalt_deltas": "2025-04-12 23:25:19 +0000"
+      "minecraft:basalt_deltas": "2025-04-12 23:25:19 +0000",
+      "minecraft:warped_forest": "2025-04-13 20:28:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -2947,6 +2949,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-04-13 16:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-13 20:30:51 +0000"
     },
     "done": true
   },
