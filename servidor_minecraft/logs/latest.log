@@ -71,3 +71,8 @@
 [21:35:48] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
 [21:36:09] [Server thread/INFO]: Moreauler was slain by Guardian
 [21:36:22] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
+[21:40:22] [Server thread/WARN]: Spruce Boat (vehicle of Xonsret) moved wrongly! 0.2737699553285893
+[21:41:04] [Server thread/WARN]: Spruce Boat (vehicle of Xonsret) moved wrongly! 0.4110205727229186
+[21:46:25] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[21:46:33] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[21:48:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1718, y=37, z=-1758} class_2338{x=1718, y=36, z=-1758}
