@@ -54,3 +54,16 @@
 [20:26:01] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
 [20:28:08] [Server thread/INFO]: Xonsret has completed the challenge [Hot Tourist Destinations]
 [20:28:08] [Server thread/INFO]: Moreauler has completed the challenge [Hot Tourist Destinations]
+[20:41:14] [Server thread/INFO]: Moreauler tried to swim in lava
+[20:41:40] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
+[20:43:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-315, y=81, z=-279} class_2338{x=-316, y=80, z=-279}
+[20:43:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-259, y=77, z=-279} class_2338{x=-258, y=77, z=-279}
+[20:43:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-259, y=77, z=-279} class_2338{x=-258, y=77, z=-279}
+[20:43:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-259, y=77, z=-279} class_2338{x=-258, y=77, z=-279}
+[20:43:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-259, y=77, z=-279} class_2338{x=-258, y=77, z=-279}
+[20:43:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-259, y=77, z=-279} class_2338{x=-258, y=77, z=-279}
+[20:43:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-259, y=77, z=-279} class_2338{x=-258, y=77, z=-279}
+[20:43:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-259, y=77, z=-279} class_2338{x=-258, y=77, z=-279}
+[20:46:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-139, y=86, z=-193} class_2338{x=-139, y=86, z=-192}
+[20:46:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-139, y=86, z=-193} class_2338{x=-139, y=86, z=-192}
+[20:46:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-139, y=86, z=-193} class_2338{x=-139, y=86, z=-192}
