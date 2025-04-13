@@ -76,3 +76,34 @@
 [16:52:00] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [16:52:49] [Server thread/INFO]: Moreauler has made the advancement [Surge Protector]
 [16:52:49] [Server thread/INFO]: Xonsret has made the advancement [Surge Protector]
+[17:18:05] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
+[17:18:07] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[17:18:17] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[17:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=20, y=39, z=-167} class_2338{x=19, y=39, z=-171}
+[17:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=20, y=39, z=-167} class_2338{x=19, y=39, z=-171}
+[17:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=20, y=39, z=-167} class_2338{x=19, y=39, z=-171}
+[17:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=20, y=39, z=-167} class_2338{x=19, y=39, z=-171}
+[17:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=20, y=39, z=-167} class_2338{x=19, y=39, z=-171}
+[17:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=20, y=39, z=-167} class_2338{x=19, y=39, z=-171}
+[17:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=20, y=39, z=-167} class_2338{x=19, y=39, z=-171}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=40, z=-177} class_2338{x=19, y=39, z=-178}
+[17:24:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=34, z=-171} class_2338{x=16, y=34, z=-171}
+[17:24:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=34, z=-171} class_2338{x=16, y=34, z=-171}
+[17:24:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=34, z=-171} class_2338{x=16, y=34, z=-171}
+[17:24:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=34, z=-171} class_2338{x=16, y=34, z=-171}
+[17:24:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=34, z=-171} class_2338{x=16, y=34, z=-171}
