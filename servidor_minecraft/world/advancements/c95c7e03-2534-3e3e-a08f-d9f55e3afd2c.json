@@ -2965,6 +2965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-13 21:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-04-13 20:30:51 +0000"
@@ -2974,6 +2980,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-13 21:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-13 21:11:42 +0000"
     },
     "done": true
   },
