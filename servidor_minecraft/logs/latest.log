@@ -1,287 +1,41 @@
-[00:03:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=500, y=-2, z=-833} class_2338{x=500, y=-2, z=-834}
-[00:03:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=501, y=-2, z=-833} class_2338{x=500, y=-2, z=-834}
-[00:07:20] [Server thread/INFO]: El_Vertex_mc has reached the goal [Postmortal]
-[00:07:20] [Server thread/INFO]: Xonsret has reached the goal [Postmortal]
-[00:07:20] [Server thread/INFO]: dreamball has reached the goal [Postmortal]
-[00:09:28] [Server thread/INFO]: [Xonsret: Gave 1 [Ender Chest] to Xonsret]
-[00:13:31] [Server thread/INFO]: dreamball has made the advancement [Who Needs Rockets?]
-[00:13:31] [Server thread/INFO]: Xonsret has made the advancement [Who Needs Rockets?]
-[00:13:31] [Server thread/INFO]: El_Vertex_mc has made the advancement [Who Needs Rockets?]
-[00:14:07] [Server thread/INFO]: El_Vertex_mc has made the advancement [Voluntary Exile]
-[00:14:07] [Server thread/INFO]: Xonsret has made the advancement [Voluntary Exile]
-[00:14:07] [Server thread/INFO]: dreamball has made the advancement [Voluntary Exile]
-[00:14:42] [Server thread/INFO]: dreamball lost connection: Disconnected
-[00:14:42] [Server thread/INFO]: dreamball left the game
-[00:17:28] [Server thread/INFO]: El_Vertex_mc has made the advancement [Ol' Betsy]
-[00:17:28] [Server thread/INFO]: Xonsret has made the advancement [Ol' Betsy]
-[00:18:17] [Server thread/INFO]: El_Vertex_mc has made the advancement [Who's the Pillager Now?]
-[00:18:17] [Server thread/INFO]: Xonsret has made the advancement [Who's the Pillager Now?]
-[00:34:26] [Server thread/INFO]: El_Vertex_mc has completed the challenge [Hero of the Village]
-[00:34:26] [Server thread/INFO]: Xonsret has completed the challenge [Hero of the Village]
-[00:37:44] [Server thread/INFO]: El_Vertex_mc has made the advancement [Sweet Dreams]
-[00:37:44] [Server thread/INFO]: Xonsret has made the advancement [Sweet Dreams]
-[00:41:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=40, z=74} class_2338{x=-50, y=40, z=74}
-[00:41:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=39, z=74} class_2338{x=-50, y=40, z=74}
-[00:41:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=38, z=74} class_2338{x=-50, y=40, z=74}
-[00:43:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-43, y=11, z=73} class_2338{x=-49, y=16, z=74}
-[00:43:47] [Server thread/INFO]: El_Vertex_mc has made the advancement [Hidden in the Depths]
-[00:43:47] [Server thread/INFO]: Xonsret has made the advancement [Hidden in the Depths]
-[00:44:32] [Server thread/INFO]: [Xonsret: Applied effect Night Vision to Xonsret]
-[00:44:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-64, y=7, z=58} class_2338{x=-64, y=7, z=59}
-[00:44:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-64, y=7, z=58} class_2338{x=-64, y=7, z=57}
-[00:45:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=8, z=79} class_2338{x=-64, y=6, z=81}
-[00:45:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=8, z=79} class_2338{x=-64, y=6, z=81}
-[00:45:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=8, z=79} class_2338{x=-64, y=6, z=81}
-[00:45:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=8, z=79} class_2338{x=-64, y=6, z=81}
-[00:48:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-73, y=7, z=31} class_2338{x=-72, y=6, z=31}
-[00:50:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=6, z=95} class_2338{x=-57, y=6, z=96}
-[00:50:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=6, z=95} class_2338{x=-57, y=6, z=96}
-[00:50:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=6, z=95} class_2338{x=-57, y=6, z=96}
-[00:51:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-48, y=7, z=148} class_2338{x=-48, y=6, z=146}
-[00:51:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-48, y=7, z=148} class_2338{x=-48, y=6, z=146}
-[00:59:25] [Server thread/INFO]: [Not Secure] <Xonsret> 300 -800
-[01:08:43] [Server thread/INFO]: El_Vertex_mc was killed
-[01:08:43] [Server thread/INFO]: Killed El_Vertex_mc
-[01:09:43] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[01:09:43] [Server thread/INFO]: El_Vertex_mc left the game
-[01:10:04] [Server thread/INFO]: [Xonsret: Gave 1 [Smithing Template] to Xonsret]
-[01:10:15] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:62851] logged in with entity id 43163 at (357.30000001192093, 90.0, -841.9978981858553)
-[01:10:15] [Server thread/INFO]: El_Vertex_mc joined the game
-[01:14:13] [Server thread/INFO]: El_Vertex_mc has made the advancement [Ice Bucket Challenge]
-[01:14:13] [Server thread/INFO]: Xonsret has made the advancement [Ice Bucket Challenge]
-[01:30:03] [Server thread/INFO]: dreamball[/10.147.19.90:50969] logged in with entity id 46801 at (467.26533288315585, 69.0, -908.9234723692939)
-[01:30:03] [Server thread/INFO]: dreamball joined the game
-[01:30:03] [Server thread/INFO]: dreamball has made the advancement [Who's the Pillager Now?]
-[01:30:03] [Server thread/INFO]: dreamball has made the advancement [Ice Bucket Challenge]
-[01:30:03] [Server thread/INFO]: dreamball has made the advancement [Sweet Dreams]
-[01:30:03] [Server thread/INFO]: dreamball has completed the challenge [Hero of the Village]
-[01:30:03] [Server thread/INFO]: dreamball has made the advancement [Hidden in the Depths]
-[01:30:03] [Server thread/INFO]: dreamball has made the advancement [Ol' Betsy]
-[01:36:04] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[01:36:04] [Server thread/INFO]: Xonsret left the game
-[01:36:12] [Server thread/INFO]: dreamball lost connection: Disconnected
-[01:36:12] [Server thread/INFO]: dreamball left the game
-[01:36:24] [Server thread/INFO]: dreamball[/10.147.19.90:51598] logged in with entity id 48753 at (363.4031831423064, 90.0, -829.9868554229178)
-[01:36:24] [Server thread/INFO]: dreamball joined the game
-[01:37:18] [Server thread/INFO]: dreamball lost connection: Disconnected
-[01:37:18] [Server thread/INFO]: dreamball left the game
-[01:38:48] [Server thread/INFO]: dreamball[/10.147.19.90:51891] logged in with entity id 49843 at (356.7353401744804, 87.5, -831.3000000119209)
-[01:38:48] [Server thread/INFO]: dreamball joined the game
-[01:40:15] [Server thread/INFO]: Xonsret[/10.147.19.75:60153] logged in with entity id 50210 at (363.9004658311213, 90.0, -832.453709655864)
-[01:40:15] [Server thread/INFO]: Xonsret joined the game
-[01:43:39] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[01:43:39] [Server thread/INFO]: El_Vertex_mc left the game
-[01:44:14] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:64806] logged in with entity id 50930 at (364.4736566858247, 90.0, -822.2194551634262)
-[01:44:14] [Server thread/INFO]: El_Vertex_mc joined the game
-[01:44:17] [Server thread/INFO]: No entity was found
-[01:44:17] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[01:44:17] [Server thread/INFO]: El_Vertex_mc left the game
-[01:45:09] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:64859] logged in with entity id 51087 at (364.4736566858247, 90.0, -822.2194551634262)
-[01:45:09] [Server thread/INFO]: Connection closed during protocol change
-[01:45:09] [Server thread/INFO]: El_Vertex_mc joined the game
-[01:45:09] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[01:45:09] [Server thread/INFO]: El_Vertex_mc left the game
-[01:45:21] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:64871] logged in with entity id 51132 at (364.4736566858247, 90.0, -822.2194551634262)
-[01:45:21] [Server thread/INFO]: El_Vertex_mc joined the game
-[01:45:35] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[01:45:35] [Server thread/INFO]: El_Vertex_mc left the game
-[01:48:15] [Server thread/INFO]: dreamball lost connection: Disconnected
-[01:48:15] [Server thread/INFO]: dreamball left the game
-[01:51:33] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:65261] logged in with entity id 52037 at (352.30161097423843, 90.0, -827.4264425355497)
-[01:51:33] [Server thread/INFO]: Connection closed during protocol change
-[01:51:33] [Server thread/INFO]: El_Vertex_mc joined the game
-[01:51:33] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[01:51:33] [Server thread/INFO]: El_Vertex_mc left the game
-[01:53:34] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:65401] logged in with entity id 52305 at (352.30161097423843, 90.0, -827.4264425355497)
-[01:53:34] [Server thread/INFO]: El_Vertex_mc joined the game
-[01:53:34] [Server thread/INFO]: GamerJ2002[/10.147.19.237:50273] logged in with entity id 52309 at (-10.5, 109.0, -99.5)
-[01:53:34] [Server thread/INFO]: GamerJ2002 joined the game
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Hot Stuff]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Not Today, Thank You]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Isn't It Iron Pick]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Local Brewery]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Spooky Scary Skeleton]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Stone Age]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [We Need to Go Deeper]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Who's the Pillager Now?]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Getting an Upgrade]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Tactical Fishing]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Ice Bucket Challenge]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Into Fire]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Take Aim]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Acquire Hardware]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Cover Me with Diamonds]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has completed the challenge [Return to Sender]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Sweet Dreams]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Voluntary Exile]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has reached the goal [Postmortal]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Monster Hunter]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [A Seedy Place]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has completed the challenge [Hero of the Village]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Hidden in the Depths]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [What a Deal!]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Crafting a New Look]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Diamonds!]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [A Terrible Fortress]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Sticky Situation]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Ol' Betsy]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [The Parrots and the Bats]
-[01:53:34] [Server thread/INFO]: GamerJ2002 has made the advancement [Who Needs Rockets?]
-[01:54:19] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
-[01:54:19] [Server thread/INFO]: GamerJ2002 left the game
-[01:54:47] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[01:54:47] [Server thread/INFO]: El_Vertex_mc left the game
-[01:55:24] [Server thread/INFO]: GamerJ2002[/10.147.19.237:50386] logged in with entity id 52876 at (-18.020668142864892, 112.0, -114.45403177378162)
-[01:55:24] [Server thread/INFO]: GamerJ2002 joined the game
-[01:55:37] [Server thread/INFO]: GamerJ2002 was slain by Zombie
-[01:55:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-23, y=103, z=-89}
-[01:55:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-24, y=103, z=-88}
-[01:55:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-24, y=103, z=-88}
-[01:56:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-35, y=100, z=-94} class_2338{x=-32, y=103, z=-94}
-[01:56:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-35, y=100, z=-94} class_2338{x=-32, y=103, z=-93}
-[01:56:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-35, y=100, z=-94} class_2338{x=-31, y=103, z=-92}
-[01:56:17] [Server thread/INFO]: [Xonsret: Teleported GamerJ2002 to Xonsret]
-[01:56:19] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:49162] logged in with entity id 53425 at (352.43534802382896, 84.5625, -828.4474618708505)
-[01:56:19] [Server thread/INFO]: Connection closed during protocol change
-[01:56:19] [Server thread/INFO]: El_Vertex_mc joined the game
-[01:56:19] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[01:56:19] [Server thread/INFO]: El_Vertex_mc left the game
-[01:56:40] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:49188] logged in with entity id 53482 at (352.43534802382896, 84.5625, -828.4474618708505)
-[01:56:40] [Server thread/INFO]: El_Vertex_mc joined the game
-[01:57:05] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:58:05] [Server thread/WARN]: GamerJ2002 moved too quickly! 8.136141937798754,6.0625,0.07048837368779459
-[01:58:44] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:00:34] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
-[02:00:34] [Server thread/INFO]: GamerJ2002 left the game
-[02:00:45] [Server thread/INFO]: GamerJ2002[/10.147.19.237:50620] logged in with entity id 54278 at (350.1291909446711, 84.0625, -830.6686824527243)
-[02:00:45] [Server thread/INFO]: GamerJ2002 joined the game
-[02:04:30] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:04:30] [Server thread/INFO]: GamerJ2002 left the game
-[02:04:30] [Server thread/WARN]: handleDisconnection() called twice
-[02:04:47] [Server thread/INFO]: GamerJ2002[/10.147.19.237:50763] logged in with entity id 55419 at (59.30689549110319, 82.0, -104.94642394297588)
-[02:04:47] [Server thread/INFO]: GamerJ2002 joined the game
-[02:06:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-20, y=12, z=-128} class_2338{x=-20, y=11, z=-128}
-[02:14:25] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
-[02:14:25] [Server thread/INFO]: GamerJ2002 left the game
-[02:15:29] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51129] logged in with entity id 58364 at (368.66327741124667, 90.0, -830.694309142422)
-[02:15:29] [Server thread/INFO]: GamerJ2002 joined the game
-[02:16:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=6, z=-133} class_2338{x=-98, y=5, z=-132}
-[02:19:15] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:19:15] [Server thread/INFO]: GamerJ2002 left the game
-[02:21:59] [Server thread/INFO]: El_Vertex_mc has completed the challenge [Cover Me in Debris]
-[02:21:59] [Server thread/INFO]: Xonsret has completed the challenge [Cover Me in Debris]
-[02:22:44] [Server thread/INFO]: Moreauler[/10.147.19.91:52076] logged in with entity id 59882 at (-15.5, 103.0, -94.5)
-[02:22:44] [Server thread/INFO]: Moreauler joined the game
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Hot Stuff]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Not Today, Thank You]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Isn't It Iron Pick]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Local Brewery]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Spooky Scary Skeleton]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Stone Age]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [We Need to Go Deeper]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Who's the Pillager Now?]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Getting an Upgrade]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Tactical Fishing]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Ice Bucket Challenge]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Into Fire]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Take Aim]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Acquire Hardware]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Cover Me with Diamonds]
-[02:22:44] [Server thread/INFO]: Moreauler has completed the challenge [Return to Sender]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Sweet Dreams]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Voluntary Exile]
-[02:22:44] [Server thread/INFO]: Moreauler has reached the goal [Postmortal]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Monster Hunter]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [A Seedy Place]
-[02:22:44] [Server thread/INFO]: Moreauler has completed the challenge [Hero of the Village]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Hidden in the Depths]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [What a Deal!]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Crafting a New Look]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Diamonds!]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [A Terrible Fortress]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Sticky Situation]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Ol' Betsy]
-[02:22:44] [Server thread/INFO]: Moreauler has completed the challenge [Cover Me in Debris]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [The Parrots and the Bats]
-[02:22:44] [Server thread/INFO]: Moreauler has made the advancement [Who Needs Rockets?]
-[02:22:56] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51306] logged in with entity id 60132 at (364.30436935725993, 90.0, -833.0136338468028)
-[02:22:56] [Server thread/INFO]: GamerJ2002 joined the game
-[02:22:56] [Server thread/INFO]: GamerJ2002 has completed the challenge [Cover Me in Debris]
-[02:23:45] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
-[02:25:33] [Server thread/INFO]: Moreauler has made the advancement [Suit Up]
-[02:25:33] [Server thread/INFO]: Xonsret has made the advancement [Suit Up]
-[02:25:33] [Server thread/INFO]: El_Vertex_mc has made the advancement [Suit Up]
-[02:25:33] [Server thread/INFO]: GamerJ2002 has made the advancement [Suit Up]
-[02:25:52] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[02:25:52] [Server thread/INFO]: El_Vertex_mc left the game
-[02:26:13] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:51015] logged in with entity id 61128 at (345.79883123710977, 84.0625, -832.4885579730183)
-[02:26:13] [Server thread/INFO]: El_Vertex_mc joined the game
-[02:27:27] [Server thread/INFO]: Moreauler hit the ground too hard
-[02:27:47] [Server thread/INFO]: [Xonsret: Teleported Moreauler to Xonsret]
-[02:30:43] [Server thread/INFO]: [Xonsret: Removed 1 item(s) from player GamerJ2002]
-[02:31:33] [Server thread/INFO]: [Xonsret: Kicked GamerJ2002: Kicked by an operator]
-[02:31:33] [Server thread/INFO]: GamerJ2002 lost connection: Kicked by an operator
-[02:31:33] [Server thread/INFO]: GamerJ2002 left the game
-[02:31:42] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51590] logged in with entity id 62489 at (351.5, 90.5625, -851.5)
-[02:31:42] [Server thread/INFO]: GamerJ2002 joined the game
-[02:33:08] [Server thread/WARN]: GamerJ2002 moved too quickly! -0.028697711677651228,0.0,10.420023844706066
-[02:34:34] [Server thread/INFO]: GamerJ2002 lost connection: You logged in from another location
-[02:34:34] [Server thread/INFO]: GamerJ2002 left the game
-[02:34:35] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51754] logged in with entity id 63811 at (240.233805033964, 81.0, 31.12899652606923)
-[02:34:35] [Server thread/INFO]: GamerJ2002 joined the game
-[02:35:33] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
-[02:35:33] [Server thread/INFO]: GamerJ2002 left the game
-[02:36:03] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51863] logged in with entity id 64308 at (280.1067341207581, 67.0, 107.39301057775488)
-[02:36:03] [Server thread/INFO]: GamerJ2002 joined the game
-[02:36:22] [Server thread/INFO]: GamerJ2002 was slain by Magma Cube
-[02:36:33] [Server thread/INFO]: GamerJ2002 lost connection: Timed out
-[02:36:33] [Server thread/INFO]: GamerJ2002 left the game
-[02:36:45] [Server thread/INFO]: GamerJ2002[/10.147.19.237:51929] logged in with entity id 64704 at (279.86618836081493, 67.0, 106.34464761660298)
-[02:36:45] [Server thread/INFO]: GamerJ2002 joined the game
-[02:37:55] [Server thread/WARN]: GamerJ2002 moved too quickly! 10.256247009188456,0.42355929454303975,-0.23406729130210024
-[02:39:10] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[02:39:10] [Server thread/INFO]: Xonsret left the game
-[02:39:23] [Server thread/INFO]: GamerJ2002 lost connection: Disconnected
-[02:39:23] [Server thread/INFO]: GamerJ2002 left the game
-[02:44:35] [Server thread/INFO]: Moreauler was slain by Piglin
-[02:45:13] [Server thread/INFO]: Xonsret[/10.147.19.75:63906] logged in with entity id 68073 at (371.0903334934001, 90.0, -843.7896002396491)
-[02:45:13] [Server thread/INFO]: Xonsret joined the game
-[03:08:07] [Server thread/WARN]: El_Vertex_mc moved too quickly! -2.585140929846318,0.49520087700592796,-9.937421129872405
-[03:29:45] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[03:29:45] [Server thread/INFO]: El_Vertex_mc left the game
-[03:29:56] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:54791] logged in with entity id 81456 at (390.7152590653689, 91.875, -822.6164258269494)
-[03:29:56] [Server thread/INFO]: El_Vertex_mc joined the game
-[03:34:38] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[03:34:38] [Server thread/INFO]: El_Vertex_mc left the game
-[04:21:38] [Server thread/INFO]: Moreauler fell from a high place
-[04:28:56] [Server thread/INFO]: Moreauler lost connection: Disconnected
-[04:28:56] [Server thread/INFO]: Moreauler left the game
-[04:46:16] [Server thread/INFO]: [Xonsret: Applied enchantment Flame to Xonsret's item]
-[04:48:39] [Server thread/INFO]: [Xonsret: Gave 1 [Bow] to Xonsret]
-[04:48:51] [Server thread/INFO]: [Xonsret: Applied enchantment Power V to Xonsret's item]
-[04:49:00] [Server thread/INFO]: [Xonsret: Applied enchantment Punch I to Xonsret's item]
-[04:49:33] [Server thread/INFO]: [Xonsret: Applied enchantment Flame to Xonsret's item]
-[04:49:42] [Server thread/INFO]: [Xonsret: Applied enchantment Unbreaking III to Xonsret's item]
-[04:49:48] [Server thread/INFO]: [Xonsret: Applied enchantment Infinity to Xonsret's item]
-[05:29:42] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:29:45] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[05:32:49] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:32:54] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[05:33:02] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:36:32] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[05:36:44] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:37:17] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[05:37:22] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:44:01] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[05:44:19] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:44:39] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[05:44:52] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:45:11] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[05:45:23] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:45:52] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[05:46:04] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:47:37] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[05:47:42] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[05:54:09] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[05:54:10] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[05:54:10] [Server thread/INFO]: Xonsret left the game
+[15:46:10] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[15:46:10] [main/INFO]: Loading 5 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21
+	- sharedadvancements 1.21.3-5.0.0
+[15:46:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:46:10] [main/INFO]: Compatibility level set to JAVA_17
+[15:46:18] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
+[15:46:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:46:20] [main/INFO]: Loaded 1290 recipes
+[15:46:20] [main/INFO]: Loaded 1399 advancements
+[15:46:21] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:46:21] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:46:21] [Server thread/INFO]: Loading properties
+[15:46:21] [Server thread/INFO]: Default game type: SURVIVAL
+[15:46:21] [Server thread/INFO]: Generating keypair
+[15:46:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:46:21] [Server thread/INFO]: Using epoll channel type
+[15:46:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:46:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:46:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:46:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:46:21] [Server thread/INFO]: Preparing level "world"
+[15:46:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:46:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:46:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:46:26] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[15:46:27] [Server thread/INFO]: Time elapsed: 1415 ms
+[15:46:27] [Server thread/INFO]: Done (5.391s)! For help, type "help"
+[15:46:28] [Server thread/INFO]: Xonsret[/10.147.19.75:60676] logged in with entity id 4 at (366.99282673699753, 90.0, -836.1829448846655)
+[15:46:28] [Server thread/INFO]: Xonsret joined the game
+[15:46:35] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[15:46:38] [Server thread/INFO]: Moreauler[/10.147.19.91:58653] logged in with entity id 296 at (410.7160334613005, 90.0, -836.7048637325137)
+[15:46:38] [Server thread/INFO]: Moreauler joined the game
+[15:46:44] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[15:48:54] [Server thread/INFO]: [Xonsret: Gave 16 [Redstone Repeater] to Xonsret]
+[15:55:13] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[15:55:39] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[15:56:04] [Server thread/INFO]: Named entity class_1462['PORNO'/35, l='ServerLevel[world]', x=379.48, y=89.00, z=-845.51] died: PORNO was slain by Fox
