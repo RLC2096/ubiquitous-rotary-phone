@@ -34,3 +34,14 @@
 [00:45:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=8, z=79} class_2338{x=-64, y=6, z=81}
 [00:45:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=8, z=79} class_2338{x=-64, y=6, z=81}
 [00:48:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-73, y=7, z=31} class_2338{x=-72, y=6, z=31}
+[00:50:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=6, z=95} class_2338{x=-57, y=6, z=96}
+[00:50:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=6, z=95} class_2338{x=-57, y=6, z=96}
+[00:50:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=6, z=95} class_2338{x=-57, y=6, z=96}
+[00:51:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-48, y=7, z=148} class_2338{x=-48, y=6, z=146}
+[00:51:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-48, y=7, z=148} class_2338{x=-48, y=6, z=146}
+[00:59:25] [Server thread/INFO]: [Not Secure] <Xonsret> 300 -800
+[01:08:43] [Server thread/INFO]: El_Vertex_mc was killed
+[01:08:43] [Server thread/INFO]: Killed El_Vertex_mc
+[01:09:43] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[01:09:43] [Server thread/INFO]: El_Vertex_mc left the game
+[01:10:04] [Server thread/INFO]: [Xonsret: Gave 1 [Smithing Template] to Xonsret]
