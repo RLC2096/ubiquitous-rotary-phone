@@ -1550,6 +1550,7 @@
       "minecraft:pillager": "2025-04-13 02:22:44 +0000",
       "minecraft:blaze": "2025-04-13 02:22:44 +0000",
       "minecraft:skeleton": "2025-04-13 02:22:44 +0000",
+      "minecraft:phantom": "2025-04-13 16:49:10 +0000",
       "minecraft:witch": "2025-04-13 02:22:44 +0000",
       "minecraft:ravager": "2025-04-13 02:22:44 +0000",
       "minecraft:ghast": "2025-04-13 02:22:44 +0000",
@@ -2909,6 +2910,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-13 04:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-04-13 16:52:49 +0000"
     },
     "done": true
   },
