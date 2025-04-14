@@ -60,3 +60,30 @@
 [00:37:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=415, y=99, z=-840} class_2338{x=419, y=98, z=-842}
 [00:37:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=415, y=99, z=-840} class_2338{x=419, y=98, z=-842}
 [00:41:01] [Server thread/INFO]: Locating element minecraft:warped_forest took 10 ms
+[00:47:37] [Server thread/INFO]: [Xonsret: Teleported Xonsret to 44.500000, 46.000000, -52.590000]
+[00:47:40] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
+[00:47:54] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[00:48:25] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
+[00:48:37] [Server thread/INFO]: Xonsret lost connection: Disconnected
+[00:48:37] [Server thread/INFO]: Xonsret left the game
+[00:48:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=10, y=46, z=-58} class_2338{x=10, y=47, z=-60}
+[00:48:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=10, y=46, z=-57} class_2338{x=10, y=47, z=-60}
+[00:48:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3, y=50, z=-55} class_2338{x=0, y=48, z=-57}
+[00:48:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3, y=50, z=-55} class_2338{x=0, y=48, z=-57}
+[00:50:30] [Server thread/INFO]: Xonsret[/10.147.19.75:53732] logged in with entity id 15513 at (275.9443010421696, 90.74433251767003, 60.38311711100814)
+[00:50:30] [Server thread/INFO]: Xonsret joined the game
+[00:50:37] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[00:51:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=57, z=-14} class_2338{x=-30, y=60, z=-17}
+[00:51:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=57, z=-14} class_2338{x=-30, y=60, z=-17}
+[00:51:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=57, z=-14} class_2338{x=-30, y=60, z=-17}
+[00:51:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=57, z=-14} class_2338{x=-30, y=60, z=-17}
+[00:51:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=57, z=-14} class_2338{x=-30, y=60, z=-17}
+[00:51:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=57, z=-14} class_2338{x=-30, y=60, z=-17}
+[00:51:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=57, z=-14} class_2338{x=-30, y=60, z=-17}
+[00:51:41] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
+[00:51:43] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[00:51:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=61, z=-12} class_2338{x=-39, y=60, z=-12}
+[00:51:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=61, z=-12} class_2338{x=-39, y=60, z=-12}
+[00:51:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=61, z=-12} class_2338{x=-39, y=60, z=-12}
+[00:51:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=61, z=-12} class_2338{x=-39, y=60, z=-12}
+[00:52:07] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
