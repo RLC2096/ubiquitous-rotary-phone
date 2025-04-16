@@ -58,3 +58,20 @@
 [19:39:27] [Server thread/INFO]: No entity was found
 [19:40:08] [Server thread/INFO]: Incorrect argument for command
 [19:40:08] [Server thread/INFO]: effect Moreauler slow falling 9000<--[HERE]
+[19:41:30] [Server thread/INFO]: Applied effect Slow Falling to Moreauler
+[19:41:36] [Server thread/INFO]: Applied effect Slow Falling to Moreauler
+[19:41:38] [Server thread/INFO]: [Not Secure] <Moreauler> que
+[19:41:42] [Server thread/INFO]: Applied effect Slow Falling to Moreauler
+[19:41:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:41:42] [Server thread/INFO]: <--[HERE]
+[19:43:03] [Server thread/INFO]: Applied effect Slow Falling to Moreauler
+[19:43:11] [Server thread/INFO]: [Not Secure] <Moreauler> god
+[19:43:46] [Server thread/INFO]: Invalid name or UUID
+[19:43:46] [Server thread/INFO]: give /give Moreauler minecraft:ender_pearl<--[HERE]
+[19:44:24] [Server thread/INFO]: Gave 16 [Ender Pearl] to Moreauler
+[19:44:43] [Server thread/INFO]: You whisper to Moreauler: Ola soi dios
+[19:44:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:44:52] [Server thread/INFO]: msg vai<--[HERE]
+[19:45:00] [Server thread/INFO]: You whisper to Moreauler: vai
+[19:45:05] [Server thread/INFO]: [Not Secure] <Moreauler> bye
+[19:48:50] [Server thread/WARN]: Moreauler moved wrongly!
