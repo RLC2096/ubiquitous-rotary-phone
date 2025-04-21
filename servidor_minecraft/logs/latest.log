@@ -116,3 +116,14 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [01:36:22] [Server thread/INFO]: [Xonsret: Gamerule keepInventory is now set to: false]
 [01:41:17] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [01:41:40] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[01:48:17] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[01:48:27] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[01:51:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=588, y=10, z=-177} class_2338{x=588, y=9, z=-176}
+[01:56:39] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[01:57:52] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[01:58:15] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[01:58:15] [Server thread/INFO]: El_Vertex_mc left the game
+[01:58:17] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
+[01:58:25] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:00:56] [Server thread/INFO]: dreamball lost connection: Disconnected
+[02:00:56] [Server thread/INFO]: dreamball left the game
