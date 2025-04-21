@@ -89,3 +89,19 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:?]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:27:18] [Server thread/INFO]: dreamball[/10.147.19.90:59825] logged in with entity id 21689 at (362.79402430861353, 90.0, -817.7056599841623)
+[01:27:18] [Server thread/INFO]: dreamball joined the game
+[01:27:18] [Server thread/INFO]: dreamball has made the advancement [Suit Up]
+[01:27:18] [Server thread/INFO]: dreamball has made the advancement [Free the End]
+[01:27:18] [Server thread/INFO]: dreamball has made the advancement [Surge Protector]
+[01:27:18] [Server thread/INFO]: dreamball has reached the goal [The Next Generation]
+[01:27:18] [Server thread/INFO]: dreamball has completed the challenge [Hot Tourist Destinations]
+[01:27:18] [Server thread/INFO]: dreamball has made the advancement [The City at the End of the Game]
+[01:27:18] [Server thread/INFO]: dreamball has made the advancement [Remote Getaway]
+[01:27:18] [Server thread/INFO]: dreamball has reached the goal [Sky's the Limit]
+[01:27:18] [Server thread/INFO]: dreamball has reached the goal [You Need a Mint]
+[01:27:18] [Server thread/INFO]: dreamball has made the advancement [Eye Spy]
+[01:27:18] [Server thread/INFO]: dreamball has completed the challenge [Cover Me in Debris]
+[01:27:18] [Server thread/INFO]: dreamball has made the advancement [The End?]
+[01:31:35] [Server thread/INFO]: Moreauler lost connection: Disconnected
+[01:31:35] [Server thread/INFO]: Moreauler left the game
