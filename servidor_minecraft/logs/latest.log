@@ -144,3 +144,6 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [02:14:56] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [02:15:12] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [02:15:50] [Server thread/INFO]: [Xonsret: Gave 1 [Ancient Debris] to Moreauler]
+[02:30:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=518, y=57, z=-1896} class_2338{x=518, y=56, z=-1896}
+[02:34:19] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:34:26] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
