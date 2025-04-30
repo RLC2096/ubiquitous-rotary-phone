@@ -16,11 +16,14 @@
       "minecraft:deep_ocean": "2025-04-14 00:16:45 +0000",
       "minecraft:river": "2025-04-12 23:13:28 +0000",
       "minecraft:snowy_plains": "2025-04-21 01:35:49 +0000",
+      "minecraft:stony_shore": "2025-04-30 22:35:36 +0000",
       "minecraft:lush_caves": "2025-04-12 23:53:56 +0000",
       "minecraft:deep_cold_ocean": "2025-04-14 00:16:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 23:10:43 +0000",
       "minecraft:ocean": "2025-04-13 00:13:35 +0000",
       "minecraft:sunflower_plains": "2025-04-21 01:13:19 +0000",
+      "minecraft:cherry_grove": "2025-04-30 22:35:36 +0000",
+      "minecraft:grove": "2025-04-30 22:35:36 +0000",
       "minecraft:meadow": "2025-04-13 01:36:43 +0000",
       "minecraft:birch_forest": "2025-04-12 23:10:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-13 01:35:46 +0000",
@@ -933,27 +936,28 @@
       "minecraft:pillager": "2025-04-13 00:14:00 +0000",
       "minecraft:blaze": "2025-04-12 23:28:00 +0000",
       "minecraft:skeleton": "2025-04-12 23:33:33 +0000",
+      "minecraft:ravager": "2025-04-13 00:19:37 +0000",
+      "minecraft:ghast": "2025-04-12 23:26:02 +0000",
+      "minecraft:hoglin": "2025-04-13 03:00:21 +0000",
+      "minecraft:guardian": "2025-04-14 00:16:45 +0000",
+      "minecraft:vindicator": "2025-04-13 00:17:44 +0000",
+      "minecraft:magma_cube": "2025-04-12 23:27:00 +0000",
+      "minecraft:spider": "2025-04-13 00:22:42 +0000",
+      "minecraft:creeper": "2025-04-13 00:15:35 +0000",
+      "minecraft:evoker": "2025-04-13 00:22:26 +0000",
       "minecraft:phantom": "2025-04-14 00:16:45 +0000",
       "minecraft:witch": "2025-04-13 00:19:44 +0000",
       "minecraft:wither_skeleton": "2025-04-14 00:16:45 +0000",
-      "minecraft:ravager": "2025-04-13 00:19:37 +0000",
-      "minecraft:ghast": "2025-04-12 23:26:02 +0000",
       "minecraft:ender_dragon": "2025-04-14 01:14:58 +0000",
-      "minecraft:hoglin": "2025-04-13 03:00:21 +0000",
       "minecraft:shulker": "2025-04-21 00:43:26 +0000",
       "minecraft:cave_spider": "2025-04-13 00:34:41 +0000",
       "minecraft:piglin": "2025-04-14 00:16:45 +0000",
-      "minecraft:guardian": "2025-04-14 00:16:45 +0000",
-      "minecraft:vindicator": "2025-04-13 00:17:44 +0000",
       "minecraft:enderman": "2025-04-13 01:35:51 +0000",
       "minecraft:silverfish": "2025-04-14 00:16:45 +0000",
-      "minecraft:magma_cube": "2025-04-12 23:27:00 +0000",
-      "minecraft:spider": "2025-04-13 00:22:42 +0000",
+      "minecraft:endermite": "2025-04-30 22:35:36 +0000",
       "minecraft:vex": "2025-04-13 00:28:32 +0000",
       "minecraft:zombie": "2025-04-12 23:22:35 +0000",
-      "minecraft:creeper": "2025-04-13 00:15:35 +0000",
-      "minecraft:drowned": "2025-04-14 00:16:45 +0000",
-      "minecraft:evoker": "2025-04-13 00:22:26 +0000"
+      "minecraft:drowned": "2025-04-14 00:16:45 +0000"
     },
     "done": false
   },
@@ -3287,6 +3291,354 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2025-04-21 01:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-30 22:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-30 22:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-30 22:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 22:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 22:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-30 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-04-30 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 22:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 22:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 22:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-30 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-04-30 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2025-04-30 22:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-04-30 22:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-04-30 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-04-30 22:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-30 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-30 22:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-30 22:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-04-30 22:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-30 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-04-30 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-30 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 22:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-30 22:35:36 +0000"
     },
     "done": true
   },
