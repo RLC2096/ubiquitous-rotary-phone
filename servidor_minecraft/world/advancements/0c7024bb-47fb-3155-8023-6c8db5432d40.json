@@ -3526,6 +3526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-01 03:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-05-01 00:09:54 +0000"
@@ -3535,6 +3541,12 @@
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-30 22:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-01 03:21:36 +0000"
     },
     "done": true
   },
@@ -3763,6 +3775,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-05-01 00:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-01 03:21:36 +0000"
     },
     "done": true
   },
