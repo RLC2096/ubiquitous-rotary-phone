@@ -44,3 +44,12 @@
 [02:27:55] [Server thread/INFO]: [Not Secure] <Xonsret> .
 [02:30:47] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [02:30:55] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:53:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=481, y=72, z=-1773} class_2338{x=481, y=71, z=-1774}
+[02:53:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=530, y=69, z=-1773} class_2338{x=529, y=69, z=-1773}
+[02:53:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=530, y=69, z=-1773} class_2338{x=529, y=69, z=-1773}
+[02:54:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=522, y=71, z=-1775} class_2338{x=521, y=70, z=-1772}
+[02:56:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=517, y=73, z=-1753} class_2338{x=520, y=73, z=-1755}
+[02:57:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=477, y=73, z=-1771} class_2338{x=478, y=73, z=-1770}
+[02:57:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=477, y=73, z=-1771} class_2338{x=478, y=73, z=-1770}
+[02:57:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=477, y=73, z=-1771} class_2338{x=478, y=73, z=-1770}
+[02:57:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=477, y=73, z=-1771} class_2338{x=478, y=73, z=-1770}
