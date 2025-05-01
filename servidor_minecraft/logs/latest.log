@@ -12,3 +12,5 @@
 [00:53:02] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [00:53:07] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [01:04:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=353, y=91, z=-814} class_2338{x=352, y=89, z=-814}
+[01:29:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=404, y=91, z=-804} class_2338{x=404, y=91, z=-805}
+[01:37:00] [Server thread/INFO]: Named entity class_1559['Marcelo'/76403, l='ServerLevel[world]', x=7.70, y=97.00, z=222.50] died: Marcelo was slain by El_Vertex_mc
