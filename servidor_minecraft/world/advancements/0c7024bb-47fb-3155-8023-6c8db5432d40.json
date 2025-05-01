@@ -3514,6 +3514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2025-05-01 00:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-04-30 22:41:02 +0000"
@@ -3637,6 +3643,12 @@
   "minecraft:recipes/decorations/light_gray_candle": {
     "criteria": {
       "has_light_gray_dye": "2025-04-30 22:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-01 01:00:22 +0000"
     },
     "done": true
   },
