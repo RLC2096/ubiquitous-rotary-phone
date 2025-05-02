@@ -39,3 +39,7 @@
 [21:23:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=420, y=72, z=-1752} class_2338{x=420, y=72, z=-1753}
 [21:23:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=420, y=72, z=-1752} class_2338{x=420, y=72, z=-1753}
 [21:26:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=434, y=72, z=-1747} class_2338{x=437, y=68, z=-1747}
+[21:36:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=410, y=70, z=-1748} class_2338{x=411, y=72, z=-1748}
+[21:36:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=406, y=68, z=-1748} class_2338{x=406, y=69, z=-1749}
+[21:39:07] [Server thread/INFO]: El_Vertex_mc has made the advancement [Best Friends Forever]
+[21:39:07] [Server thread/INFO]: Xonsret has made the advancement [Best Friends Forever]
