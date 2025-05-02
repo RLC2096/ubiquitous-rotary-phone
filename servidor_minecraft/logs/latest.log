@@ -128,3 +128,16 @@
 [02:43:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=504, y=70, z=-1754} class_2338{x=516, y=70, z=-1829}
 [02:45:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=487, y=70, z=-1747} class_2338{x=489, y=69, z=-1748}
 [02:45:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=483, y=69, z=-1755} class_2338{x=483, y=69, z=-1753}
+[02:48:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=506, y=69, z=-1750} class_2338{x=506, y=69, z=-1751}
+[02:48:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=506, y=69, z=-1750} class_2338{x=506, y=69, z=-1751}
+[02:48:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=506, y=69, z=-1750} class_2338{x=506, y=69, z=-1751}
+[02:48:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=528, y=72, z=-1749} class_2338{x=528, y=71, z=-1750}
+[02:49:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=510, y=71, z=-1750} class_2338{x=509, y=71, z=-1750}
+[02:49:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=510, y=71, z=-1750} class_2338{x=509, y=71, z=-1750}
+[02:50:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=490, y=69, z=-1755} class_2338{x=488, y=69, z=-1755}
+[02:51:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=526, y=74, z=-1748} class_2338{x=536, y=73, z=-1748}
+[02:51:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=526, y=74, z=-1748} class_2338{x=536, y=73, z=-1748}
+[02:51:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=526, y=74, z=-1748} class_2338{x=536, y=73, z=-1748}
+[02:51:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=526, y=74, z=-1748} class_2338{x=536, y=73, z=-1748}
+[02:53:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=447, y=71, z=-1755} class_2338{x=446, y=70, z=-1755}
+[02:54:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=430, y=72, z=-1754} class_2338{x=431, y=72, z=-1754}
