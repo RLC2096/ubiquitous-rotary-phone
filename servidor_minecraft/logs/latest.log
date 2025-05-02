@@ -126,3 +126,16 @@
 [22:55:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=470, y=75, z=-1734} class_2338{x=470, y=74, z=-1734}
 [22:56:31] [Server thread/INFO]: Xonsret[/10.147.19.75:58942] logged in with entity id 60052 at (469.34284406991185, 70.0, -1720.6637694957096)
 [22:56:31] [Server thread/INFO]: Xonsret joined the game
+[23:01:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=484, y=73, z=-1738} class_2338{x=483, y=73, z=-1738}
+[23:01:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=484, y=73, z=-1738} class_2338{x=483, y=73, z=-1738}
+[23:01:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=484, y=73, z=-1738} class_2338{x=483, y=73, z=-1738}
+[23:04:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=497, y=77, z=-1747} class_2338{x=497, y=73, z=-1746}
+[23:04:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=496, y=77, z=-1747} class_2338{x=497, y=73, z=-1746}
+[23:04:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=512, y=72, z=-1747} class_2338{x=515, y=74, z=-1747}
+[23:04:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=512, y=72, z=-1747} class_2338{x=515, y=74, z=-1747}
+[23:04:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=533, y=74, z=-1747} class_2338{x=533, y=73, z=-1747}
+[23:04:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=533, y=74, z=-1747} class_2338{x=533, y=73, z=-1747}
+[23:04:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=533, y=74, z=-1747} class_2338{x=533, y=73, z=-1747}
+[23:04:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=541, y=71, z=-1747} class_2338{x=541, y=70, z=-1747}
+[23:04:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=539, y=71, z=-1733} class_2338{x=539, y=70, z=-1734}
+[23:04:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=539, y=71, z=-1733} class_2338{x=539, y=70, z=-1734}

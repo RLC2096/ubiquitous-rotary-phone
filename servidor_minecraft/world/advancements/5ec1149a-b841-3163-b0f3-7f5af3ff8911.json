@@ -962,7 +962,8 @@
       "minecraft:endermite": "2025-04-30 22:35:36 +0000",
       "minecraft:vex": "2025-04-13 00:28:32 +0000",
       "minecraft:zombie": "2025-04-12 23:22:35 +0000",
-      "minecraft:drowned": "2025-04-14 00:16:45 +0000"
+      "minecraft:drowned": "2025-04-14 00:16:45 +0000",
+      "minecraft:zombie_villager": "2025-05-02 23:05:19 +0000"
     },
     "done": false
   },
