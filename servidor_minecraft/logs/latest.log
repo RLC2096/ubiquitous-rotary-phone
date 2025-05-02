@@ -1,147 +1,40 @@
-[02:16:31] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[02:16:31] [main/INFO]: Loading 5 mods:
+[21:05:10] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[21:05:10] [main/INFO]: Loading 5 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21
 	- sharedadvancements 1.21.3-5.0.0
-[02:16:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:16:31] [main/INFO]: Compatibility level set to JAVA_17
-[02:16:39] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
-[02:16:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:16:42] [main/INFO]: Loaded 1290 recipes
-[02:16:42] [main/INFO]: Loaded 1399 advancements
-[02:16:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:16:43] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:16:43] [Server thread/INFO]: Loading properties
-[02:16:43] [Server thread/INFO]: Default game type: SURVIVAL
-[02:16:43] [Server thread/INFO]: Generating keypair
-[02:16:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:16:43] [Server thread/INFO]: Using epoll channel type
-[02:16:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:16:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:16:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:16:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:16:43] [Server thread/INFO]: Preparing level "world"
-[02:16:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:16:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:16:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:16:51] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[02:16:51] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[02:16:52] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[02:16:52] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[02:16:53] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[02:16:53] [Worker-Main-1/INFO]: Preparing spawn area: 48%
-[02:16:54] [Worker-Main-1/INFO]: Preparing spawn area: 48%
-[02:16:54] [Server thread/INFO]: Time elapsed: 4455 ms
-[02:16:54] [Server thread/INFO]: Done (10.943s)! For help, type "help"
-[02:16:57] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:52519] logged in with entity id 4 at (480.3360180268125, 70.0, -1782.190175447208)
-[02:16:57] [Server thread/INFO]: El_Vertex_mc joined the game
-[02:17:40] [Server thread/INFO]: Xonsret[/10.147.19.75:51840] logged in with entity id 474 at (491.4219200476528, 70.0, -1766.9145523068385)
-[02:17:41] [Server thread/INFO]: Xonsret joined the game
-[02:24:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=478, y=75, z=-1754} class_2338{x=479, y=74, z=-1754}
-[02:29:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=458, y=73, z=-1753} class_2338{x=463, y=73, z=-1753}
-[02:29:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=458, y=73, z=-1753} class_2338{x=463, y=73, z=-1753}
-[02:29:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=458, y=73, z=-1753} class_2338{x=463, y=73, z=-1753}
-[02:31:13] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:31:42] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:33:13] [Server thread/INFO]: El_Vertex_mc lost connection: Timed out
-[02:33:13] [Server thread/INFO]: El_Vertex_mc left the game
-[02:33:13] [Server thread/WARN]: handleDisconnection() called twice
-[02:34:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=474, y=72, z=-1748} class_2338{x=474, y=73, z=-1747}
-[02:34:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=474, y=72, z=-1748} class_2338{x=474, y=73, z=-1747}
-[02:34:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=475, y=73, z=-1751} class_2338{x=474, y=72, z=-1752}
-[02:34:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=475, y=73, z=-1751} class_2338{x=474, y=72, z=-1752}
-[02:34:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=475, y=73, z=-1751} class_2338{x=474, y=72, z=-1752}
-[02:34:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=475, y=73, z=-1751} class_2338{x=474, y=72, z=-1752}
-[02:34:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=472, y=73, z=-1751} class_2338{x=473, y=72, z=-1750}
-[02:34:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=471, y=74, z=-1753} class_2338{x=472, y=72, z=-1753}
-[02:34:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=473, y=73, z=-1752} class_2338{x=474, y=71, z=-1753}
-[02:34:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=473, y=73, z=-1752} class_2338{x=474, y=71, z=-1753}
-[02:34:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=473, y=73, z=-1750} class_2338{x=472, y=71, z=-1750}
-[02:34:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=473, y=73, z=-1750} class_2338{x=472, y=71, z=-1750}
-[02:34:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=473, y=73, z=-1750} class_2338{x=472, y=71, z=-1750}
-[02:34:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=473, y=73, z=-1750} class_2338{x=472, y=71, z=-1750}
-[02:34:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=473, y=73, z=-1750} class_2338{x=472, y=71, z=-1750}
-[02:34:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=73, z=-1752} class_2338{x=476, y=72, z=-1750}
-[02:34:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=478, y=74, z=-1749} class_2338{x=477, y=72, z=-1749}
-[02:35:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=475, y=72, z=-1751} class_2338{x=478, y=72, z=-1752}
-[02:35:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=475, y=72, z=-1751} class_2338{x=478, y=72, z=-1752}
-[02:35:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=479, y=73, z=-1753} class_2338{x=480, y=72, z=-1753}
-[02:35:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=478, y=73, z=-1751} class_2338{x=476, y=71, z=-1752}
-[02:35:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=478, y=73, z=-1751} class_2338{x=476, y=71, z=-1752}
-[02:37:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=464, y=73, z=-1747} class_2338{x=465, y=72, z=-1749}
-[02:37:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=76, z=-1748} class_2338{x=478, y=73, z=-1748}
-[02:37:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=76, z=-1748} class_2338{x=478, y=73, z=-1748}
-[02:37:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=76, z=-1748} class_2338{x=478, y=73, z=-1748}
-[02:37:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=503, y=73, z=-1751} class_2338{x=502, y=72, z=-1751}
-[02:37:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=503, y=73, z=-1751} class_2338{x=502, y=72, z=-1751}
-[02:37:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=503, y=73, z=-1751} class_2338{x=502, y=72, z=-1751}
-[02:37:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=503, y=73, z=-1751} class_2338{x=502, y=72, z=-1751}
-[02:37:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=503, y=73, z=-1751} class_2338{x=502, y=72, z=-1751}
-[02:37:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=503, y=73, z=-1751} class_2338{x=502, y=72, z=-1751}
-[02:37:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=515, y=72, z=-1751} class_2338{x=514, y=71, z=-1751}
-[02:37:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=515, y=72, z=-1751} class_2338{x=514, y=71, z=-1751}
-[02:37:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=515, y=72, z=-1751} class_2338{x=514, y=71, z=-1751}
-[02:37:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=518, y=72, z=-1751} class_2338{x=519, y=72, z=-1751}
-[02:39:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=475, y=71, z=-1754} class_2338{x=476, y=70, z=-1753}
-[02:40:47] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:50056] logged in with entity id 10487 at (520.1333243080342, 70.0, -1822.732421928777)
-[02:40:47] [Server thread/INFO]: El_Vertex_mc joined the game
-[02:41:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=485, y=73, z=-1749} class_2338{x=486, y=72, z=-1749}
-[02:41:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=485, y=73, z=-1749} class_2338{x=486, y=72, z=-1749}
-[02:41:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=486, y=72, z=-1751} class_2338{x=485, y=71, z=-1751}
-[02:41:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=487, y=73, z=-1749} class_2338{x=488, y=72, z=-1749}
-[02:41:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=488, y=73, z=-1748} class_2338{x=487, y=72, z=-1747}
-[02:41:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=489, y=73, z=-1749} class_2338{x=488, y=71, z=-1749}
-[02:41:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=487, y=71, z=-1749} class_2338{x=488, y=71, z=-1749}
-[02:41:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=486, y=72, z=-1747} class_2338{x=487, y=71, z=-1747}
-[02:42:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=473, y=71, z=-1749} class_2338{x=472, y=70, z=-1749}
-[02:42:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=485, y=71, z=-1750} class_2338{x=486, y=70, z=-1749}
-[02:42:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=485, y=71, z=-1750} class_2338{x=486, y=70, z=-1749}
-[02:42:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=485, y=71, z=-1750} class_2338{x=486, y=70, z=-1749}
-[02:42:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=485, y=71, z=-1750} class_2338{x=486, y=70, z=-1749}
-[02:42:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=486, y=71, z=-1753} class_2338{x=486, y=70, z=-1749}
-[02:42:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=474, y=70, z=-1752} class_2338{x=477, y=70, z=-1753}
-[02:42:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=474, y=70, z=-1752} class_2338{x=477, y=70, z=-1753}
-[02:42:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=72, z=-1753} class_2338{x=477, y=70, z=-1753}
-[02:42:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=72, z=-1753} class_2338{x=477, y=70, z=-1753}
-[02:42:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=72, z=-1753} class_2338{x=477, y=70, z=-1753}
-[02:42:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=70, z=-1749} class_2338{x=476, y=69, z=-1748}
-[02:42:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=70, z=-1749} class_2338{x=476, y=69, z=-1748}
-[02:42:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=476, y=70, z=-1749} class_2338{x=476, y=69, z=-1748}
-[02:42:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=492, y=73, z=-1751} class_2338{x=490, y=71, z=-1753}
-[02:42:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=492, y=73, z=-1751} class_2338{x=490, y=71, z=-1753}
-[02:42:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=492, y=73, z=-1751} class_2338{x=490, y=71, z=-1753}
-[02:42:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=492, y=73, z=-1751} class_2338{x=490, y=71, z=-1753}
-[02:42:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=492, y=73, z=-1751} class_2338{x=490, y=71, z=-1753}
-[02:42:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=491, y=73, z=-1750} class_2338{x=490, y=71, z=-1753}
-[02:42:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=491, y=73, z=-1750} class_2338{x=490, y=71, z=-1753}
-[02:42:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=488, y=70, z=-1747} class_2338{x=488, y=70, z=-1749}
-[02:42:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=484, y=72, z=-1751} class_2338{x=484, y=70, z=-1751}
-[02:43:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=488, y=70, z=-1751} class_2338{x=487, y=70, z=-1753}
-[02:43:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=505, y=72, z=-1751} class_2338{x=506, y=71, z=-1752}
-[02:43:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=505, y=72, z=-1751} class_2338{x=506, y=71, z=-1752}
-[02:43:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=505, y=72, z=-1751} class_2338{x=506, y=71, z=-1752}
-[02:43:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=505, y=72, z=-1751} class_2338{x=506, y=71, z=-1752}
-[02:43:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=505, y=72, z=-1751} class_2338{x=506, y=71, z=-1752}
-[02:43:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=495, y=70, z=-1754} class_2338{x=497, y=69, z=-1753}
-[02:43:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=504, y=70, z=-1754} class_2338{x=516, y=70, z=-1829}
-[02:45:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=487, y=70, z=-1747} class_2338{x=489, y=69, z=-1748}
-[02:45:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=483, y=69, z=-1755} class_2338{x=483, y=69, z=-1753}
-[02:48:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=506, y=69, z=-1750} class_2338{x=506, y=69, z=-1751}
-[02:48:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=506, y=69, z=-1750} class_2338{x=506, y=69, z=-1751}
-[02:48:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=506, y=69, z=-1750} class_2338{x=506, y=69, z=-1751}
-[02:48:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=528, y=72, z=-1749} class_2338{x=528, y=71, z=-1750}
-[02:49:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=510, y=71, z=-1750} class_2338{x=509, y=71, z=-1750}
-[02:49:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=510, y=71, z=-1750} class_2338{x=509, y=71, z=-1750}
-[02:50:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=490, y=69, z=-1755} class_2338{x=488, y=69, z=-1755}
-[02:51:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=526, y=74, z=-1748} class_2338{x=536, y=73, z=-1748}
-[02:51:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=526, y=74, z=-1748} class_2338{x=536, y=73, z=-1748}
-[02:51:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=526, y=74, z=-1748} class_2338{x=536, y=73, z=-1748}
-[02:51:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=526, y=74, z=-1748} class_2338{x=536, y=73, z=-1748}
-[02:53:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=447, y=71, z=-1755} class_2338{x=446, y=70, z=-1755}
-[02:54:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=430, y=72, z=-1754} class_2338{x=431, y=72, z=-1754}
-[03:03:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=426, y=70, z=-1827} class_2338{x=426, y=70, z=-1823}
-[03:07:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=437, y=64, z=-1822} class_2338{x=441, y=68, z=-1837}
-[03:09:16] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[03:09:16] [Server thread/INFO]: El_Vertex_mc left the game
+[21:05:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:05:10] [main/INFO]: Compatibility level set to JAVA_17
+[21:05:18] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
+[21:05:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:05:20] [main/INFO]: Loaded 1290 recipes
+[21:05:20] [main/INFO]: Loaded 1399 advancements
+[21:05:21] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:05:21] [Server thread/INFO]: Starting minecraft server version 1.21
+[21:05:21] [Server thread/INFO]: Loading properties
+[21:05:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:05:21] [Server thread/INFO]: Generating keypair
+[21:05:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:05:22] [Server thread/INFO]: Using epoll channel type
+[21:05:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:05:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:05:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:05:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:05:22] [Server thread/INFO]: Preparing level "world"
+[21:05:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:05:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:05:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:05:27] [Server thread/INFO]: Time elapsed: 684 ms
+[21:05:27] [Server thread/INFO]: Done (5.694s)! For help, type "help"
+[21:06:23] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:50717] logged in with entity id 4 at (497.6240300670514, 70.0, -1765.8252525431224)
+[21:06:23] [Server thread/INFO]: El_Vertex_mc joined the game
+[21:09:12] [Server thread/INFO]: Xonsret[/10.147.19.75:58351] logged in with entity id 1073 at (503.7989788280427, 70.0, -1773.852572651865)
+[21:09:12] [Server thread/INFO]: Xonsret joined the game
+[21:11:19] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[21:11:33] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[21:23:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=420, y=72, z=-1752} class_2338{x=420, y=72, z=-1753}
+[21:23:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=420, y=72, z=-1752} class_2338{x=420, y=72, z=-1753}
+[21:23:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=420, y=72, z=-1752} class_2338{x=420, y=72, z=-1753}
+[21:23:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=420, y=72, z=-1752} class_2338{x=420, y=72, z=-1753}
