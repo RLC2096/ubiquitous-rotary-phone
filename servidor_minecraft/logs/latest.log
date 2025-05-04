@@ -2980,3 +2980,13 @@
 [01:08:22] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [01:09:03] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [01:09:24] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[01:19:42] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[01:19:42] [Server thread/INFO]: El_Vertex_mc left the game
+[01:19:57] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:60690] logged in with entity id 135074 at (454.35359839192967, 70.0, -1754.7975576479303)
+[01:19:57] [Server thread/INFO]: El_Vertex_mc joined the game
+[01:25:08] [Server thread/INFO]: El_Vertex_mc lost connection: Kicked by an operator
+[01:25:08] [Server thread/INFO]: El_Vertex_mc left the game
+[01:25:08] [Server thread/INFO]: [Xonsret: Kicked El_Vertex_mc: Kicked by an operator]
+[01:25:08] [Server thread/WARN]: handleDisconnection() called twice
+[01:25:26] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:61001] logged in with entity id 135951 at (464.5326578094964, 71.0, -1747.5579643826463)
+[01:25:26] [Server thread/INFO]: El_Vertex_mc joined the game
