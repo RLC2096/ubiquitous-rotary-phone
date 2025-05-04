@@ -1,133 +1,98 @@
-[22:14:03] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[22:14:03] [main/INFO]: Loading 5 mods:
-	- fabricloader 0.16.3
-	   \-- mixinextras 0.4.1
-	- java 21
-	- minecraft 1.21
-	- sharedadvancements 1.21.3-5.0.0
-[22:14:03] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:14:03] [main/INFO]: Compatibility level set to JAVA_17
-[22:14:10] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
-[22:14:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:14:13] [main/INFO]: Loaded 1290 recipes
-[22:14:13] [main/INFO]: Loaded 1399 advancements
-[22:14:14] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:14:14] [Server thread/INFO]: Starting minecraft server version 1.21
-[22:14:14] [Server thread/INFO]: Loading properties
-[22:14:14] [Server thread/INFO]: Default game type: SURVIVAL
-[22:14:14] [Server thread/INFO]: Generating keypair
-[22:14:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:14:14] [Server thread/INFO]: Using epoll channel type
-[22:14:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:14:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:14:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:14:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:14:14] [Server thread/INFO]: Preparing level "world"
-[22:14:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:14:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:14:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:14:20] [Server thread/INFO]: Time elapsed: 838 ms
-[22:14:20] [Server thread/INFO]: Done (6.139s)! For help, type "help"
-[22:14:52] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:50251] logged in with entity id 3 at (398.69999998807907, 85.0, -848.7661273304492)
-[22:14:52] [Server thread/INFO]: El_Vertex_mc joined the game
-[22:15:28] [Server thread/INFO]: Xonsret[/10.147.19.75:60553] logged in with entity id 325 at (481.82928710699855, 70.0, -1762.744406980097)
-[22:15:28] [Server thread/INFO]: Xonsret joined the game
-[22:15:52] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:15:58] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:19:14] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:19:37] [Server thread/INFO]: [Xonsret: Applied enchantment Protection IV to Xonsret's item]
-[22:19:45] [Server thread/INFO]: [Xonsret: Applied enchantment Unbreaking III to Xonsret's item]
-[22:19:55] [Server thread/INFO]: [Xonsret: Applied enchantment Mending to Xonsret's item]
-[22:20:29] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:21:24] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:21:40] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:21:49] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:22:03] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:28:32] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:28:39] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:34:04] [Server thread/WARN]: Xonsret moved too quickly! 13.504992127644812,-5.876818897428166,10.988768293787075
-[22:35:35] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:35:44] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:39:49] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:40:17] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:42:21] [Server thread/WARN]: El_Vertex_mc moved too quickly! -4.378452706917011,-29.0,2.5697073076450856
-[22:44:40] [Server thread/WARN]: El_Vertex_mc moved too quickly! -7.510220387094966,0.0,7.830436567226839
-[22:46:02] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:46:12] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:46:17] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:46:19] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:46:22] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:46:23] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:46:24] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:46:26] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:46:27] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:46:28] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:46:42] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:46:48] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:47:42] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:48:00] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:48:15] [Server thread/INFO]: Xonsret was slain by Enderman
-[22:48:36] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:48:54] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:50:11] [Server thread/WARN]: El_Vertex_mc moved too quickly! 2.093248094001889,-28.0,4.893091809353109
-[22:51:04] [Server thread/WARN]: El_Vertex_mc moved too quickly! 7.50406941553898,-1.0,7.931155191645573
-[22:51:34] [Server thread/INFO]: Xonsret withered away
-[22:51:37] [Server thread/INFO]: El_Vertex_mc withered away
-[22:51:39] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:51:43] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:52:05] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:52:09] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:57:30] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:57:36] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:58:21] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:58:31] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[22:58:54] [Server thread/WARN]: El_Vertex_mc moved too quickly! -7.66775401785612,-14.0,3.2297432445216643
-[22:59:41] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[22:59:52] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:04:33] [Server thread/INFO]: [Xonsret: Gave 100 [Trident] to El_Vertex_mc]
-[23:11:52] [Server thread/INFO]: Locating element minecraft:pillager_outpost took 370 ms
-[23:11:57] [Server thread/INFO]: [Xonsret: Teleported Xonsret to 2880.500000, 112.460715, 352.500000]
-[23:12:31] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:12:39] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2909, y=174, z=-74} class_2338{x=2913, y=175, z=-74}
-[23:13:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2904, y=173, z=-71} class_2338{x=2906, y=172, z=-71}
-[23:13:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2918, y=170, z=-71} class_2338{x=2917, y=171, z=-72}
-[23:13:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2916, y=169, z=-70} class_2338{x=2915, y=169, z=-70}
-[23:13:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2916, y=169, z=-70} class_2338{x=2915, y=169, z=-70}
-[23:13:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2916, y=169, z=-70} class_2338{x=2915, y=169, z=-70}
-[23:15:21] [Server thread/WARN]: Xonsret moved wrongly!
-[23:18:15] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:18:27] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:19:49] [Server thread/INFO]: [Not Secure] <Xonsret> 52 -108
-[23:19:53] [Server thread/INFO]: [Not Secure] <Xonsret> 83
-[23:20:46] [Server thread/INFO]: [Not Secure] <Xonsret> .
-[23:32:41] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:33:10] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:33:36] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:33:48] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:34:56] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:35:02] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:36:19] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:36:25] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:36:34] [Server thread/INFO]: El_Vertex_mc was doomed to fall
-[23:40:59] [Server thread/INFO]: El_Vertex_mc tried to swim in lava
-[23:41:19] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:41:39] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:43:44] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:43:49] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:44:33] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:44:39] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:46:06] [Server thread/INFO]: Locating element minecraft:bamboo_jungle took 1760 ms
-[23:46:06] [Server thread/WARN]: El_Vertex_mc moved too quickly! -9.122943253001665,-0.875,4.300549379569929
-[23:46:16] [Server thread/INFO]: [Xonsret: Teleported Xonsret to -2255.500000, 99.000000, -3064.500000]
-[23:49:02] [Server thread/WARN]: Xonsret moved too quickly! 15.410744001559465,5.534460702586983,-7.647583771589325
-[23:53:15] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:53:21] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:54:15] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:54:24] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:54:37] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:54:45] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:58:22] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:58:31] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[23:58:39] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[23:58:54] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[00:13:16] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 528, 71, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 2 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 528, 76, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 2 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 528, 73, -1740]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 528, 75, -1740]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 528, 70, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 528, 73, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 2 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 2 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 528, 73, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 2 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 528, 75, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 528, 71, -1737]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 529, 71, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 529, 70, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 529, 74, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 529, 75, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 529, 71, -1737]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 530, 71, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 530, 70, -1740]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 530, 70, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 530, 71, -1737]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 531, 71, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 531, 72, -1740]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 531, 72, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 531, 71, -1737]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 534, 70, -1735]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 7 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 1 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 522, 70, -1737]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 523, 71, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 5 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 523, 72, -1740]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 523, 72, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 523, 71, -1737]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 5 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 524, 71, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 8 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 524, 75, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 524, 70, -1740]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 524, 75, -1740]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 524, 70, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 524, 71, -1737]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 4 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 525, 71, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 525, 75, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 525, 75, -1740]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 525, 70, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 525, 73, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 525, 74, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 3 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 2 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 525, 74, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 525, 75, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 525, 71, -1737]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 526, 71, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Successfully filled 2 block(s)]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 526, 70, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 526, 73, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 526, 74, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 526, 75, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 526, 71, -1737]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 71, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 75, -1741]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 75, -1740]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 71, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 73, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 75, -1739]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 73, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 74, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 75, -1738]
+[00:13:22] [Server thread/INFO]: [Xonsret: Changed the block at 527, 71, -1737]
+[00:13:24] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[00:15:55] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[00:16:01] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[00:16:04] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[00:16:06] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
