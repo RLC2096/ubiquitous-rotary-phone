@@ -43,3 +43,7 @@
 [00:33:59] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [00:45:35] [Server thread/INFO]: Moreauler fell from a high place
 [00:49:46] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[00:56:33] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[00:57:01] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[01:04:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=423, y=146, z=-1715} class_2338{x=421, y=148, z=-1712}
+[01:04:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=423, y=146, z=-1715} class_2338{x=421, y=148, z=-1712}
