@@ -87,3 +87,10 @@
 [01:55:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=499, y=70, z=-1780} class_2338{x=391, y=148, z=-1688}
 [01:55:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=499, y=70, z=-1780} class_2338{x=403, y=148, z=-1704}
 [01:56:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=405, y=148, z=-1702} class_2338{x=374, y=147, z=-1728}
+[01:59:27] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:01:50] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:01:54] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:02:03] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:03:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=587, y=61, z=-1861} class_2338{x=588, y=59, z=-1860}
+[02:03:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=587, y=61, z=-1861} class_2338{x=587, y=59, z=-1860}
+[02:03:43] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
