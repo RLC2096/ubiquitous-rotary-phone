@@ -186,3 +186,23 @@
 [03:35:43] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [03:35:51] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [03:38:36] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[03:39:17] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[03:39:20] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[03:40:10] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[03:45:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=610, y=60, z=-1837} class_2338{x=610, y=59, z=-1836}
+[03:45:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=610, y=60, z=-1837} class_2338{x=610, y=59, z=-1836}
+[03:45:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=610, y=60, z=-1837} class_2338{x=610, y=59, z=-1836}
+[03:45:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=610, y=60, z=-1837} class_2338{x=610, y=59, z=-1836}
+[03:45:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=610, y=60, z=-1837} class_2338{x=610, y=59, z=-1836}
+[03:45:48] [Server thread/INFO]: [Xonsret: Removed effect Night Vision from Xonsret]
+[03:46:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=62, z=-1869} class_2338{x=434, y=60, z=-1869}
+[03:46:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=62, z=-1869} class_2338{x=434, y=60, z=-1869}
+[03:46:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=62, z=-1869} class_2338{x=434, y=60, z=-1869}
+[03:46:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=62, z=-1869} class_2338{x=434, y=60, z=-1869}
+[03:46:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=62, z=-1869} class_2338{x=434, y=60, z=-1869}
+[03:46:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=61, z=-1869} class_2338{x=436, y=61, z=-1868}
+[03:46:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=61, z=-1869} class_2338{x=436, y=61, z=-1868}
+[03:46:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=61, z=-1869} class_2338{x=436, y=61, z=-1868}
+[03:46:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=435, y=61, z=-1869} class_2338{x=436, y=61, z=-1868}
+[03:46:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=439, y=62, z=-1869} class_2338{x=438, y=61, z=-1869}
+[03:46:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=439, y=62, z=-1869} class_2338{x=438, y=61, z=-1869}
