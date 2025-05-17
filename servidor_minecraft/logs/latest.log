@@ -232,3 +232,22 @@
 [04:24:02] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [04:28:21] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [04:29:14] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[04:31:31] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[04:31:32] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[04:33:30] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[04:33:39] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[04:33:52] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[04:33:59] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[04:38:08] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[04:38:17] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[04:38:19] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[04:38:54] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[04:43:02] [Server thread/WARN]: Moreauler moved wrongly!
+[04:47:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=500, y=70, z=-997} class_2338{x=502, y=68, z=-996}
+[04:47:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=500, y=70, z=-997} class_2338{x=502, y=68, z=-996}
+[04:47:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=500, y=70, z=-997} class_2338{x=502, y=68, z=-996}
+[04:47:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=503, y=71, z=-999} class_2338{x=503, y=68, z=-999}
+[04:47:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=503, y=71, z=-1000} class_2338{x=503, y=68, z=-999}
+[04:47:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=503, y=68, z=-1000} class_2338{x=502, y=68, z=-1002}
+[04:47:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=499, y=68, z=-993} class_2338{x=500, y=69, z=-992}
+[04:47:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=499, y=68, z=-993} class_2338{x=500, y=69, z=-992}
