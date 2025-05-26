@@ -166,3 +166,22 @@
 [02:49:18] [Server thread/INFO]: [Xonsret: Played sound minecraft:entity.dragon_fireball.explode to 3 players]
 [02:50:03] [Server thread/INFO]: [Xonsret: Played sound minecraft:entity.ender_dragon.death to 3 players]
 [02:50:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=413, y=147, z=-1709} class_2338{x=413, y=147, z=-1710}
+[02:52:35] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:52:38] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:55:08] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:55:12] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:55:15] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:55:23] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:57:16] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:57:27] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:57:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=391, y=147, z=-1720} class_2338{x=387, y=148, z=-1724}
+[02:57:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=391, y=147, z=-1720} class_2338{x=387, y=148, z=-1724}
+[02:58:03] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:58:13] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:58:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=385, y=147, z=-1725} class_2338{x=389, y=148, z=-1728}
+[02:59:08] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:59:40] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:59:41] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[03:01:02] [Server thread/INFO]: [Xonsret: Successfully filled 638 block(s)]
+[03:01:12] [Server thread/INFO]: [Xonsret: Teleported 3 entities to Xonsret]
+[03:01:15] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
