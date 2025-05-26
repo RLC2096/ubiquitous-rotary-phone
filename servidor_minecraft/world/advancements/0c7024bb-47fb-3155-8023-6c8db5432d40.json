@@ -4348,9 +4348,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_amethyst_shard": "2025-05-26 01:20:35 +0000"
+      "cod": "2025-05-26 00:35:46 +0000"
     },
     "done": true
   },
@@ -4360,27 +4360,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-05-26 00:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-26 01:20:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-26 01:20:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_needed_dye": "2025-05-26 01:55:55 +0000"
+      "has_amethyst_shard": "2025-05-26 01:20:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_candle": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "has_cyan_dye": "2025-05-26 01:57:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-05-26 00:35:46 +0000"
+      "has_amethyst_shard": "2025-05-26 01:20:35 +0000"
     },
     "done": true
   },
@@ -4396,51 +4402,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-26 01:57:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-26 01:20:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-26 01:57:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-26 01:55:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-26 01:20:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-26 01:57:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
-    "criteria": {
-      "has_deepslate_lapis_ore": "2025-05-26 00:44:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-26 01:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-26 01:55:55 +0000"
     },
     "done": true
   },
@@ -4459,6 +4435,30 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-26 01:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-05-26 01:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-26 01:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-26 01:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-26 01:57:25 +0000"
     },
     "done": true
   },

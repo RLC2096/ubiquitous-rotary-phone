@@ -133,3 +133,36 @@
 [02:29:41] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [02:29:45] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [02:29:53] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:32:13] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:32:18] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:35:13] [Server thread/INFO]: El_Vertex_mc lost connection: Kicked by an operator
+[02:35:13] [Server thread/INFO]: El_Vertex_mc left the game
+[02:35:13] [Server thread/INFO]: [Xonsret: Kicked El_Vertex_mc: Kicked by an operator]
+[02:35:13] [Server thread/WARN]: handleDisconnection() called twice
+[02:35:22] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:63698] logged in with entity id 144083 at (419.54984847435026, 149.17675927506423, -1715.9120794096898)
+[02:35:22] [Server thread/INFO]: El_Vertex_mc joined the game
+[02:36:35] [Server thread/INFO]: [Not Secure] <Xonsret> TRAP
+[02:36:42] [Server thread/INFO]: Xonsret lost connection: Disconnected
+[02:36:42] [Server thread/INFO]: Xonsret left the game
+[02:36:55] [Server thread/INFO]: [Not Secure] <El_Vertex_mc> ?
+[02:37:33] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[02:37:33] [Server thread/INFO]: El_Vertex_mc left the game
+[02:38:31] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:63893] logged in with entity id 145685 at (387.7331646483673, 151.1933187593447, -1705.1738857839034)
+[02:38:31] [Server thread/INFO]: El_Vertex_mc joined the game
+[02:39:36] [Server thread/INFO]: Xonsret[/10.147.19.75:51560] logged in with entity id 147352 at (471.6803767139661, 137.61379254671078, -1707.186211344784)
+[02:39:36] [Server thread/INFO]: Xonsret joined the game
+[02:39:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=493, y=85, z=-1589} class_2338{x=494, y=84, z=-1589}
+[02:39:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=493, y=85, z=-1589} class_2338{x=494, y=84, z=-1589}
+[02:45:15] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:45:19] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:45:40] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:45:42] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:46:38] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:47:23] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:48:00] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:48:06] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:48:28] [Server thread/INFO]: [Xonsret: Played sound minecraft:entity.ender_dragon.death to El_Vertex_mc]
+[02:48:54] [Server thread/INFO]: [Xonsret: Played sound minecraft:entity.creeper.primed to 3 players]
+[02:49:18] [Server thread/INFO]: [Xonsret: Played sound minecraft:entity.dragon_fireball.explode to 3 players]
+[02:50:03] [Server thread/INFO]: [Xonsret: Played sound minecraft:entity.ender_dragon.death to 3 players]
+[02:50:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=413, y=147, z=-1709} class_2338{x=413, y=147, z=-1710}
