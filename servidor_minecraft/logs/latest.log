@@ -100,3 +100,18 @@
 [01:44:43] [Server thread/WARN]: El_Vertex_mc moved wrongly!
 [01:44:44] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [01:46:55] [Server thread/INFO]: [Xonsret: Successfully filled 1039 block(s)]
+[01:57:05] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[01:57:27] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[01:59:32] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[01:59:49] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:01:23] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:01:32] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:01:57] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:04:16] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:06:43] [Server thread/WARN]: El_Vertex_mc moved wrongly!
+[02:08:11] [Server thread/WARN]: El_Vertex_mc moved wrongly!
+[02:08:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=427, y=145, z=-1730} class_2338{x=413, y=148, z=-1715}
+[02:08:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=427, y=145, z=-1730} class_2338{x=413, y=148, z=-1715}
+[02:08:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=427, y=145, z=-1730} class_2338{x=413, y=148, z=-1715}
+[02:08:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=427, y=145, z=-1730} class_2338{x=413, y=148, z=-1715}
+[02:10:41] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
