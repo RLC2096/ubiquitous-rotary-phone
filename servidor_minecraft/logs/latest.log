@@ -32,3 +32,17 @@
 [23:38:29] [Server thread/INFO]: El_Vertex_mc joined the game
 [23:40:01] [Server thread/INFO]: Xonsret[/10.147.19.75:57609] logged in with entity id 924 at (473.5, 77.0, -1737.5)
 [23:40:01] [Server thread/INFO]: Xonsret joined the game
+[23:49:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=412, y=47, z=-1896} class_2338{x=412, y=46, z=-1896}
+[23:51:22] [Server thread/WARN]: El_Vertex_mc moved too quickly! -12.96808168550048,4.221456159564212,-11.10635697556063
+[23:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9492ms or 189 ticks behind
+[23:52:13] [Server thread/INFO]: Moreauler[/10.147.19.91:63541] logged in with entity id 10156 at (396.14164526872315, 148.0, -1714.1032887461722)
+[23:52:13] [Server thread/INFO]: Moreauler joined the game
+[23:52:41] [Server thread/WARN]: Moreauler moved too quickly! 13.906121469313405,-2.174666960408942,-10.513263108059164
+[23:53:59] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[23:54:05] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[23:54:11] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[23:54:18] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[23:55:26] [Server thread/WARN]: Moreauler moved too quickly! 3.0889716423247364,-0.606144236420846,-18.22794979261016
+[23:56:25] [Server thread/INFO]: El_Vertex_mc has made the advancement [The Cutest Predator]
+[23:56:25] [Server thread/INFO]: Xonsret has made the advancement [The Cutest Predator]
+[23:56:25] [Server thread/INFO]: Moreauler has made the advancement [The Cutest Predator]
