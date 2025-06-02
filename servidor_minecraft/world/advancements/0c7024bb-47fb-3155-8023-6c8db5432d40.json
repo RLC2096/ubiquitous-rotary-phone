@@ -4501,5 +4501,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/spyglass_at_ghast": {
+    "criteria": {
+      "spyglass_at_ghast": "2025-06-02 00:44:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
