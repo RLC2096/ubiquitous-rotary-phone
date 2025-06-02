@@ -4477,9 +4477,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "has_echo_shard": "2025-06-02 00:10:45 +0000"
+      "axolotl_bucket": "2025-06-01 23:56:25 +0000"
     },
     "done": true
   },
@@ -4489,15 +4489,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-02 00:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-06-02 00:12:03 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
+  "minecraft:adventure/spyglass_at_ghast": {
     "criteria": {
-      "axolotl_bucket": "2025-06-01 23:56:25 +0000"
+      "spyglass_at_ghast": "2025-06-02 00:48:54 +0000"
     },
     "done": true
   },
