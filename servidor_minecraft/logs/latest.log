@@ -66,3 +66,35 @@
 [01:43:10] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [01:43:32] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [01:43:38] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[01:53:19] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[01:53:36] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[01:55:06] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[01:55:15] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[01:55:21] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[01:56:20] [Server thread/INFO]: El_Vertex_mc lost connection: Kicked by an operator
+[01:56:20] [Server thread/INFO]: El_Vertex_mc left the game
+[01:56:20] [Server thread/INFO]: [Xonsret: Kicked El_Vertex_mc: Kicked by an operator]
+[01:56:20] [Server thread/WARN]: handleDisconnection() called twice
+[01:56:32] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:59529] logged in with entity id 111519 at (418.35217636202947, 163.47952650130028, -1731.6616353668794)
+[01:56:32] [Server thread/INFO]: El_Vertex_mc joined the game
+[01:56:45] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:08:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=403, y=153, z=-1709} class_2338{x=401, y=156, z=-1702}
+[02:08:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=403, y=153, z=-1709} class_2338{x=401, y=156, z=-1702}
+[02:09:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=405, y=156, z=-1699} class_2338{x=407, y=156, z=-1702}
+[02:10:07] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:10:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=405, y=156, z=-1699} class_2338{x=400, y=156, z=-1703}
+[02:10:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=405, y=156, z=-1699} class_2338{x=400, y=156, z=-1703}
+[02:10:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=400, y=155, z=-1704} class_2338{x=398, y=155, z=-1703}
+[02:10:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=397, y=154, z=-1703} class_2338{x=398, y=156, z=-1703}
+[02:10:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=397, y=154, z=-1703} class_2338{x=398, y=156, z=-1703}
+[02:10:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=397, y=155, z=-1703} class_2338{x=398, y=156, z=-1703}
+[02:10:45] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:11:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=397, y=155, z=-1703} class_2338{x=412, y=155, z=-1701}
+[02:11:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=397, y=155, z=-1703} class_2338{x=412, y=155, z=-1701}
+[02:12:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=412, y=154, z=-1703} class_2338{x=404, y=156, z=-1696}
+[02:12:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=412, y=154, z=-1703} class_2338{x=404, y=156, z=-1696}
+[02:12:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=412, y=154, z=-1703} class_2338{x=404, y=156, z=-1696}
+[02:13:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=398, y=156, z=-1699} class_2338{x=402, y=157, z=-1695}
+[02:17:31] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:17:56] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:18:36] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
