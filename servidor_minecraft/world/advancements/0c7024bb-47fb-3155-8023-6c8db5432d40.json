@@ -4645,5 +4645,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-06 21:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-06 21:15:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
