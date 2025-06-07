@@ -70,3 +70,4 @@
 [01:26:55] [Server thread/INFO]: El_Vertex_mc has made the advancement [Not Quite "Nine" Lives]
 [01:27:29] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [01:27:32] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[01:33:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=75, y=128, z=-225} class_2338{x=74, y=129, z=-221}
