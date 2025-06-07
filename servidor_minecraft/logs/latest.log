@@ -1,101 +1,30 @@
-[19:28:35] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[19:28:36] [main/INFO]: Loading 5 mods:
+[00:26:49] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[00:26:49] [main/INFO]: Loading 5 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21
 	- sharedadvancements 1.21.3-5.0.0
-[19:28:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:28:36] [main/INFO]: Compatibility level set to JAVA_17
-[19:28:44] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
-[19:28:44] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:28:46] [main/INFO]: Loaded 1290 recipes
-[19:28:47] [main/INFO]: Loaded 1399 advancements
-[19:28:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:28:48] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:28:48] [Server thread/INFO]: Loading properties
-[19:28:48] [Server thread/INFO]: Default game type: SURVIVAL
-[19:28:48] [Server thread/INFO]: Generating keypair
-[19:28:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:28:48] [Server thread/INFO]: Using epoll channel type
-[19:28:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:28:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:28:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:28:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:28:48] [Server thread/INFO]: Preparing level "world"
-[19:28:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:28:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:28:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:28:55] [Server thread/INFO]: Time elapsed: 774 ms
-[19:28:55] [Server thread/INFO]: Done (7.178s)! For help, type "help"
-[19:31:29] [Server thread/INFO]: Xonsret[/10.147.19.75:51048] logged in with entity id 8 at (502.750182249181, 70.0, -1781.2976644872494)
-[19:31:29] [Server thread/INFO]: Xonsret joined the game
-[19:32:00] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:54424] logged in with entity id 507 at (406.86769718905003, 163.0, -1696.528606361689)
-[19:32:00] [Server thread/INFO]: El_Vertex_mc joined the game
-[19:34:36] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[19:34:36] [Server thread/INFO]: El_Vertex_mc left the game
-[19:34:37] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[19:34:50] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[19:34:52] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:54545] logged in with entity id 1113 at (396.30000001192093, 147.0, -1710.3394722024234)
-[19:34:52] [Server thread/INFO]: El_Vertex_mc joined the game
-[20:08:47] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[20:09:41] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[20:09:56] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[20:11:56] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[20:13:00] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[20:23:19] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[20:25:35] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[20:26:20] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[20:27:29] [Server thread/WARN]: El_Vertex_mc moved too quickly! -17.709326857127962,0.12303724962974627,-3.5832025542856627
-[20:27:55] [Server thread/WARN]: El_Vertex_mc moved too quickly! -17.144490079201205,-1.886845077092559,-4.923043807512613
-[20:31:23] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[20:31:29] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[20:34:03] [Server thread/WARN]: El_Vertex_mc moved too quickly! 3.4782348511090504,14.341988545436024,-10.58306920524251
-[20:38:42] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[20:38:45] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[20:39:34] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[20:39:40] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[20:42:34] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[20:42:40] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[20:57:49] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[21:00:16] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:02:04] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[21:05:15] [Server thread/INFO]: [Xonsret: Set own game mode to Adventure Mode]
-[21:05:16] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:07:26] [Server thread/INFO]: [Xonsret: Set own game mode to Adventure Mode]
-[21:07:29] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:07:30] [Server thread/INFO]: [Xonsret: Set own game mode to Adventure Mode]
-[21:07:32] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:07:36] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[21:07:46] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:10:11] [Server thread/WARN]: El_Vertex_mc moved too quickly! 3.757851806252347,-26.27847751349475,4.827941373303474
-[21:11:39] [Server thread/INFO]: [Xonsret: Set own game mode to Spectator Mode]
-[21:11:45] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:12:29] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[21:12:29] [Server thread/INFO]: Xonsret left the game
-[21:12:30] [Server thread/WARN]: El_Vertex_mc moved too quickly! -8.28434878056646,12.62109440351179,16.5827960817453
-[21:12:39] [Server thread/INFO]: Xonsret[/10.147.19.75:51769] logged in with entity id 71947 at (58.81019560029259, 128.0, -221.50296149159735)
-[21:12:39] [Server thread/INFO]: Xonsret joined the game
-[21:13:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=389, y=163, z=-1718} class_2338{x=388, y=163, z=-1718}
-[21:13:21] [Server thread/INFO]: [Not Secure] <Xonsret> D
-[21:13:49] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[21:13:52] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:14:16] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[21:18:39] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:18:47] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[21:18:53] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:19:47] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[21:19:47] [Server thread/INFO]: Xonsret left the game
-[21:19:55] [Server thread/WARN]: El_Vertex_mc moved too quickly! -17.108934228472208,4.1858558744987135,20.08768167255448
-[21:19:58] [Server thread/INFO]: Xonsret[/10.147.19.75:51865] logged in with entity id 74865 at (505.9663783573691, 63.0, -1844.0505450051287)
-[21:19:58] [Server thread/INFO]: Xonsret joined the game
-[21:20:35] [Server thread/INFO]: Xonsret lost connection: Disconnected
-[21:20:35] [Server thread/INFO]: Xonsret left the game
-[21:21:19] [Server thread/INFO]: Xonsret[/10.147.19.75:52077] logged in with entity id 75467 at (425.0408641844814, 70.0, -1725.877394913545)
-[21:21:19] [Server thread/INFO]: Xonsret joined the game
-[21:21:52] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[21:22:21] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:23:39] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[21:23:41] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[21:24:23] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[21:25:26] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[00:26:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:26:50] [main/INFO]: Compatibility level set to JAVA_17
+[00:26:58] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
+[00:26:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:27:00] [main/INFO]: Loaded 1290 recipes
+[00:27:00] [main/INFO]: Loaded 1399 advancements
+[00:27:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:27:01] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:27:01] [Server thread/INFO]: Loading properties
+[00:27:01] [Server thread/INFO]: Default game type: SURVIVAL
+[00:27:01] [Server thread/INFO]: Generating keypair
+[00:27:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:27:01] [Server thread/INFO]: Using epoll channel type
+[00:27:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:27:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:27:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:27:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:27:01] [Server thread/INFO]: Preparing level "world"
+[00:27:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:27:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:27:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:27:08] [Server thread/INFO]: Time elapsed: 790 ms
+[00:27:08] [Server thread/INFO]: Done (7.007s)! For help, type "help"
