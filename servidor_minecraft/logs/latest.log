@@ -82,3 +82,10 @@
 [02:24:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=57, y=129, z=-219} class_2338{x=54, y=135, z=-228}
 [02:25:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=54, y=134, z=-228} class_2338{x=55, y=135, z=-225}
 [02:27:14] [Server thread/INFO]: [Not Secure] <Xonsret> 230 -207
+[02:39:03] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:39:22] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:41:03] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
+[02:41:03] [Server thread/INFO]: El_Vertex_mc left the game
+[02:42:44] [Server thread/INFO]: [Not Secure] <Xonsret> 52 -109
+[02:45:27] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:52762] logged in with entity id 40556 at (64.31477239224273, 130.0, -210.56152695695906)
+[02:45:27] [Server thread/INFO]: El_Vertex_mc joined the game
