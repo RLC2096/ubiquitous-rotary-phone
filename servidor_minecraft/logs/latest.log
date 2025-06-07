@@ -76,3 +76,9 @@
 [02:16:18] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
 [02:17:02] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
 [02:17:49] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:18:17] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:24:00] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
+[02:24:08] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
+[02:24:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=57, y=129, z=-219} class_2338{x=54, y=135, z=-228}
+[02:25:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=54, y=134, z=-228} class_2338{x=55, y=135, z=-225}
+[02:27:14] [Server thread/INFO]: [Not Secure] <Xonsret> 230 -207
