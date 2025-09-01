@@ -1,155 +1,34 @@
-[00:26:49] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[00:26:49] [main/INFO]: Loading 5 mods:
+[02:11:15] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[02:11:16] [main/INFO]: Loading 5 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21
 	- sharedadvancements 1.21.3-5.0.0
-[00:26:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:26:50] [main/INFO]: Compatibility level set to JAVA_17
-[00:26:58] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
-[00:26:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:27:00] [main/INFO]: Loaded 1290 recipes
-[00:27:00] [main/INFO]: Loaded 1399 advancements
-[00:27:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:27:01] [Server thread/INFO]: Starting minecraft server version 1.21
-[00:27:01] [Server thread/INFO]: Loading properties
-[00:27:01] [Server thread/INFO]: Default game type: SURVIVAL
-[00:27:01] [Server thread/INFO]: Generating keypair
-[00:27:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:27:01] [Server thread/INFO]: Using epoll channel type
-[00:27:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:27:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:27:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:27:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:27:01] [Server thread/INFO]: Preparing level "world"
-[00:27:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:27:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:27:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:27:08] [Server thread/INFO]: Time elapsed: 790 ms
-[00:27:08] [Server thread/INFO]: Done (7.007s)! For help, type "help"
-[00:46:48] [Server thread/INFO]: Xonsret[/10.147.19.75:53250] logged in with entity id 8 at (509.41781061492304, 106.15026186556128, -1740.3971941849231)
-[00:46:48] [Server thread/INFO]: Xonsret joined the game
-[00:53:50] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[00:53:57] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[00:54:36] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[00:54:38] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[00:54:48] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:51652] logged in with entity id 8351 at (57.30000001192093, 109.40494121730777, -223.21531596974273)
-[00:54:48] [Server thread/INFO]: El_Vertex_mc joined the game
-[00:54:49] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[00:55:09] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[00:57:12] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[00:57:19] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[00:57:26] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[00:57:41] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[00:58:25] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[00:58:33] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:01:02] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:01:09] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:04:04] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:04:12] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:04:54] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:05:01] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:05:08] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:05:17] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:06:24] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:06:37] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:07:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=57, z=-255} class_2338{x=62, y=57, z=-256}
-[01:08:58] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:09:05] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:19:24] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:19:34] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:21:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=57, y=128, z=-215} class_2338{x=57, y=127, z=-217}
-[01:21:55] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[01:21:55] [Server thread/INFO]: El_Vertex_mc left the game
-[01:22:45] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:51897] logged in with entity id 20755 at (67.3560651483112, 128.0, -219.48648729882404)
-[01:22:45] [Server thread/INFO]: El_Vertex_mc joined the game
-[01:25:40] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:26:46] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:26:55] [Server thread/INFO]: Xonsret has made the advancement [Not Quite "Nine" Lives]
-[01:26:55] [Server thread/INFO]: El_Vertex_mc has made the advancement [Not Quite "Nine" Lives]
-[01:27:29] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[01:27:32] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[01:33:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=75, y=128, z=-225} class_2338{x=74, y=129, z=-221}
-[02:15:59] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:16:12] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:16:18] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:17:02] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:17:49] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:18:17] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:24:00] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:24:08] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:24:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=57, y=129, z=-219} class_2338{x=54, y=135, z=-228}
-[02:25:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=54, y=134, z=-228} class_2338{x=55, y=135, z=-225}
-[02:27:14] [Server thread/INFO]: [Not Secure] <Xonsret> 230 -207
-[02:39:03] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:39:22] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:41:03] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[02:41:03] [Server thread/INFO]: El_Vertex_mc left the game
-[02:42:44] [Server thread/INFO]: [Not Secure] <Xonsret> 52 -109
-[02:45:27] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:52762] logged in with entity id 40556 at (64.31477239224273, 130.0, -210.56152695695906)
-[02:45:27] [Server thread/INFO]: El_Vertex_mc joined the game
-[02:53:23] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:53:31] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:55:57] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:55:59] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:56:21] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:56:42] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:56:45] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:57:02] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:57:09] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[02:57:18] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[02:57:27] [Server thread/INFO]: El_Vertex_mc has made the advancement [Those Were the Days]
-[02:57:27] [Server thread/INFO]: Xonsret has made the advancement [Those Were the Days]
-[02:58:48] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[02:58:48] [Server thread/INFO]: El_Vertex_mc left the game
-[02:59:09] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:52911] logged in with entity id 49855 at (563.3000000119209, 54.0, 485.69999998807907)
-[02:59:09] [Server thread/INFO]: El_Vertex_mc joined the game
-[02:59:45] [Server thread/INFO]: [Xonsret: Teleported El_Vertex_mc to Xonsret]
-[03:03:53] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:04:14] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:04:24] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:04:34] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:05:33] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:05:44] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:07:40] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:07:47] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:07:48] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:07:54] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:09:39] [Server thread/INFO]: [Not Secure] <Xonsret> ?
-[03:09:45] [Server thread/INFO]: [Not Secure] <El_Vertex_mc> wait
-[03:09:54] [Server thread/INFO]: [Not Secure] <El_Vertex_mc> tirutirutriturtirtu
-[03:09:58] [Server thread/INFO]: [Not Secure] <El_Vertex_mc> wait
-[03:24:11] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[03:24:11] [Server thread/INFO]: El_Vertex_mc left the game
-[03:24:19] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:53195] logged in with entity id 67825 at (76.09374807071828, 135.8690288441987, -225.72302870498578)
-[03:24:19] [Server thread/INFO]: El_Vertex_mc joined the game
-[03:25:20] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[03:25:20] [Server thread/INFO]: El_Vertex_mc left the game
-[03:25:28] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:53205] logged in with entity id 69300 at (230.61222644689877, 128.0, -219.8607677643348)
-[03:25:28] [Server thread/INFO]: El_Vertex_mc joined the game
-[03:28:55] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:29:09] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:29:10] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:29:19] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:32:08] [Server thread/INFO]: El_Vertex_mc lost connection: Disconnected
-[03:32:08] [Server thread/INFO]: El_Vertex_mc left the game
-[03:32:16] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:53308] logged in with entity id 75294 at (63.789037033479744, 135.0, -237.5358800840298)
-[03:32:16] [Server thread/INFO]: El_Vertex_mc joined the game
-[03:33:41] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:33:54] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:34:09] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:34:28] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:34:40] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:35:04] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:35:15] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:35:21] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:36:28] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:39:58] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:40:27] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:40:49] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:40:55] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:41:01] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:42:35] [Server thread/INFO]: [Xonsret: Set own game mode to Creative Mode]
-[03:42:49] [Server thread/INFO]: [Xonsret: Set own game mode to Survival Mode]
-[03:44:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=52, y=130, z=-237} class_2338{x=52, y=129, z=-238}
+[02:11:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-rotary-phone/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:11:16] [main/INFO]: Compatibility level set to JAVA_17
+[02:11:22] [main/INFO]: Initializing Shared Advancements for Fabric in a production environment!
+[02:11:22] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:11:24] [main/INFO]: Loaded 1290 recipes
+[02:11:24] [main/INFO]: Loaded 1399 advancements
+[02:11:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:11:25] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:11:25] [Server thread/INFO]: Loading properties
+[02:11:25] [Server thread/INFO]: Default game type: SURVIVAL
+[02:11:25] [Server thread/INFO]: Generating keypair
+[02:11:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:11:25] [Server thread/INFO]: Using epoll channel type
+[02:11:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:11:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:11:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:11:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:11:25] [Server thread/INFO]: Preparing level "world"
+[02:11:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:11:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:11:30] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[02:11:30] [Server thread/INFO]: Time elapsed: 841 ms
+[02:11:30] [Server thread/INFO]: Done (4.883s)! For help, type "help"
+[02:14:50] [Server thread/INFO]: El_Vertex_mc[/10.147.19.160:50057] logged in with entity id 6 at (68.9960195760974, 129.0, -223.03502258069759)
+[02:14:50] [Server thread/INFO]: El_Vertex_mc joined the game
+[02:16:02] [Server thread/INFO]: Xonsret[/10.147.19.75:61840] logged in with entity id 450 at (50.5331300842276, 129.0, -225.90331935922106)
+[02:16:02] [Server thread/INFO]: Xonsret joined the game
