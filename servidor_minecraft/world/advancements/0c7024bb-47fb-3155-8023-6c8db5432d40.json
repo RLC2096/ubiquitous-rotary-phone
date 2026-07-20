@@ -1,0 +1,171 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-07-11 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-07-11 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2026-07-11 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2026-07-11 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2026-07-11 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-07-11 00:39:16 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2026-07-11 00:39:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "bumbling_beepartments": "2026-07-11 00:39:16 +0000"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-07-11 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-07-11 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2026-07-11 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2026-07-11 00:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-07-11 00:48:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2026-07-11 00:48:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/ankh_of_prayer": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/green_marble": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/fishing_rod_of_misadventure": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/bone_scepter": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/bone_needle": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/blue_marble": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/dust_of_vanishing": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/white_marble": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/dark_marble": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/dust_of_frost": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/carmin_marble": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/grave_plate": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/smoke_ball": {
+    "criteria": {
+      "has_ingredient": "2026-07-11 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
